@@ -6,10 +6,11 @@
       {
         "id": "8cd4cbe60bc0d758",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Terminal_class_002.md",
             "mode": "source"
           }
         }
@@ -17,11 +18,10 @@
       {
         "id": "c45771225484bf3e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Terminal_class_002.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Terminal_class_002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
