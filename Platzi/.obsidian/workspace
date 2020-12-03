@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminal_classes/Untitled.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Untitled.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +94,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Terminal_classes/Untitled.md",
     "Terminal_classes/Untitled 1.md",
     "Terminal_class_001(Introducciona a la terminal).md",
@@ -102,7 +103,6 @@
     "Terminal_class_004.md",
     "Terminal_class_005.md",
     "Terminal_class_002.md",
-    "Untitled 3.md",
-    "Untitled 2.md"
+    "Untitled 3.md"
   ]
 }
