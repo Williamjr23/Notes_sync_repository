@@ -1,455 +1,491 @@
+/***** Table of Contents ****/
+/* 1. Colours
+/* 2. General UI
+/*    2.1. Title bar
+/* 3. Editor and preview 
+/*    3.1. Headers
+/*    3.2. Formatting operators
+/*    3.3. External links
+/*    3.4. Internal links
+/*    3.5. blockquotes, embeds, tables
+/*    3.6. Code
+/*    3.7. Strikethrough
+/*    3.8. Escape chars
+/*    3.9. Bullets and numbering
+/*        3.9.1. Bullet lists
+/*        3.9.2. Numbered lists
+/*        3.9.3. Task lists
+/* 4. Graph view
+/* 5. Misc Fixes
+/*    5.1. Fixes for highlight
+/*    5.2. fixes for buttons
+/* 6. BONUS! CRT Scanlines and flicker
+/*    6.1. Pentile effect (chunky pixels)
+/*    6.2. Screen flicker
+/*    6.3. Text blur effect
 
-:root
-{
-    --dark0:  #2e3440;
-    --dark1:  #3b4252;
-    --dark2:  #434c5e;
-    --dark3:  #4c566a;
+/* 1. Colours! Overriding both themes */
+.theme-dark,
+.theme-light {
+  --accent-1: #FF00FF;
+  --accent-2: #00FFFF;
+  --accent-3: #00FF00;
+  --accent-4: #FFFF00;
+  --accent-5: #FF0000;
+  --accent-6: #0000FF;
 
-    --light0: #d8dee9;
-    --light1: #e5e9f0;
-    --light2: #eceff4;
-    --light3: #ffffff;
+  --accent-1-muted: #ff79c6;
+  --accent-2-muted: #8be9fd;
+  --accent-3-muted: #50fa7b;
+  --accent-4-muted: #ffb86c;
+  --accent-5-muted: #ff5555;
+  --accent-6-muted: #bd93f9;
 
-    --frost0: #8fbcbb;
-    --frost1: #88c0d0;
-    --frost2: #81a1c1;
-    --frost3: #5e81ac;
+  --background-primary: #2b213a;
+  --background-primary-alt: #171520;
+  --background-secondary: #1a1836;
+  --background-secondary-alt: #242043;
 
-    --red:    #bf616a;
-    --orange: #d08770;
-    --yellow: #ebcb8b;
-    --green:  #a3be8c;
-    --purple: #b48ead;
+  --text-accent: #FF1690;
+  --text-accent-hover: #7a6ae6;
 
-    --font-monospace: 'Hack Nerd Font', 'Source Code Pro', monospace;
+  --text-normal: var(--accent-1);
+  --text-muted: var(--accent-1-muted);
+  --text-faint: var(--accent-6-muted);
+
+  --interactive-normal: var(--accent-2);
+  --interactive-hover: var(--accent-2-muted);
+  --interactive-accent: var(--accent-2);
+  --interactive-accent-hover: var(--accent-2-muted);
+
+  --background-accent: #000;
+  --background-modifier-border: var(--accent-2);
+
+  --text-highlight-bg: #ffd319;
+
+
+  /* obsidian dark defaults (overriding for light) */
+  --text-selection: rgba(0, 122, 255, 0.2);
+  --text-on-accent: rgba(0, 0, 0, 0.8);
+  --interactive-accent-rgb: 72, 54, 153;
+  --scrollbar-active-thumb-bg: rgba(255, 255, 255, 0.2);
+  --scrollbar-bg: rgba(255, 255, 255, 0.05);
+  --scrollbar-thumb-bg: rgba(255, 255, 255, 0.1);
 }
 
-.theme-dark
-{
-    --background-primary:         var(--dark0);
-    --background-primary-alt:     var(--dark0);
-    --background-secondary:       var(--dark1);
-    --background-secondary-alt:   var(--dark2);
-    --text-normal:                var(--light2);
-    --text-faint:                 var(--light0);
-    --text-muted:                 var(--light1);
-    --text-title-h1:              var(--red);
-    --text-title-h2:              var(--orange);
-    --text-title-h3:              var(--yellow);
-    --text-title-h4:              var(--green);
-    --text-title-h5:              var(--purple);
-    --text-link:                  var(--frost0);
-    --text-a:                     var(--frost3);
-    --text-a-hover:               var(--frost2);
-    --text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
-    --pre-code:                   var(--dark1);
-    --text-highlight-bg:          var(--dark3);
-    --interactive-accent:         var(--frost0);
-    --interactive-before:         var(--dark3);
-    --background-modifier-border: var(--dark2);
-    --text-accent:                var(--orange);
-    --interactive-accent-rgb:     var(--orange);
-    --inline-code:                var(--frost1);
-    --code-block:                 var(--frost1);
-    --vim-cursor:                 var(--orange);
-    --text-selection:             var(--dark3);
-}
-.theme-light
-{
-	--background-primary:         var(--light3);
-	--background-primary-alt:     var(--light3);
-	--background-secondary:       var(--light2);
-	--background-secondary-alt:   var(--light1);
-	--text-normal:                var(--dark1);
-	--text-faint:                 var(--dark3);
-	--text-muted:                 var(--dark2);
-	--text-title-h1:              var(--red);
-	--text-title-h2:              var(--orange);
-	--text-title-h3:              var(--yellow);
-	--text-title-h4:              var(--green);
-	--text-title-h5:              var(--purple);
-	--text-link:                  var(--frost0);
-	--text-a:                     var(--frost3);
-	--text-a-hover:               var(--frost1);
-	--text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
-	--pre-code:                   var(--light2);
-	--text-highlight-bg:          var(--light0);
-	--interactive-accent:         var(--frost0);
-	--interactive-before:         var(--light0);
-	--background-modifier-border: var(--light1);
-	--text-accent:                var(--orange);
-	--interactive-accent-rgb:     var(--orange);
-	--inline-code:                var(--frost1);
-	--code-block:                 var(--frost1);
-	--vim-cursor:                 var(--orange);
-	--text-selection:             var(--light0);
+/* 2. General UI */
+.side-dock-ribbon-tab,
+.side-dock-ribbon-action {
+  color: var(--accent-6-muted);
 }
 
-.theme-dark code[class*="language-"],
-.theme-dark pre[class*="language-"],
-.theme-light code[class*="language-"],
-.theme-light pre[class*="language-"]
-{
-    text-shadow: none !important;
-    background-color: var(--pre-code) !important;
+.workspace-leaf.mod-active .workspace-leaf-header-title {
+  color: var(--text-accent);
 }
 
-.graph-view.color-circle,
-.graph-view.color-fill-highlight,
-.graph-view.color-line-highlight
-{
-    color: var(--interactive-accent-rgb) !important;
-}
-.graph-view.color-text
-{
-    color: var(--text-a-hover) !important;
-}
-/*
-.graph-view.color-fill
-{
-    color: var(--background-secondary);
-}
-.graph-view.color-line
-{
-  color: var(--background-modifier-border);
-}
-*/
-
-html,
-body
-{
-    font-size: 16px !important;
+/* 2.1. Title bar */
+.titlebar {
+  background-color: var(--background-secondary-alt);
 }
 
-strong
-{
-    font-weight: 600 !important;
+.titlebar-inner {
+  color: var(--text-faint);
 }
 
-a,
-.cm-hmd-internal-link
-{
-    color: var(--text-a) !important;
-    text-decoration: none !important;
+.titlebar-inner {
+  color: var(--text-faint);
 }
 
-a:hover,
-.cm-hmd-internal-link:hover,
-.cm-url
-{
-    color: var(--text-a-hover) !important;
-    text-decoration: none !important;
+.titlebar-button {
+  opacity: 1;
 }
 
-mark
-{
-    background-color: var(--text-mark) !important;
+.titlebar-button:hover {
+  color: var(--text-muted);
 }
 
-.view-actions a
-{
-    color: var(--text-normal) !important;
+.titlebar-button.mod-close:hover {
+  background-color: var(--accent-5);
+  color: var(--accent-2);
 }
 
-.view-actions a:hover
-{
-    color: var(--text-a) !important;
-}
-
-.HyperMD-codeblock-bg
-{
-    background-color: var(--pre-code) !important;
-}
-
-.HyperMD-codeblock
-{
-    line-height: 1.4em !important;
-    color: var(--code-block) !important;
-}
-
-.HyperMD-codeblock-begin
-{
-    border-top-left-radius: 4px !important;
-    border-top-right-radius: 4px !important;
-}
-
-.HyperMD-codeblock-end
-{
-    border-bottom-left-radius: 4px !important;
-    border-bottom-right-radius: 4px !important;
-}
-
-th
-{
-    font-weight: 600 !important;
-}
-
-thead
-{
-    border-bottom: 2px solid var(--background-modifier-border) !important;
-}
-
-.HyperMD-table-row
-{
-    line-height: normal !important;
-    padding-left: 4px !important;
-    padding-right: 4px !important;
-    /* background-color: var(--pre-code) !important; */
-}
-
-.HyperMD-table-row-0
-{
-    /* padding-top: 4px !important; */
-}
-
-.CodeMirror-foldgutter-folded,
-.is-collapsed .nav-folder-collapse-indicator
-{
-    color: var(--text-a) !important;
-}
-
-.nav-file-tag
-{
-    color: var(--text-a) !important;
-}
-
-.is-active .nav-file-title
-{
-    color: var(--text-a) !important;
-    background-color: var(--background-primary-alt) !important;
-}
-
-.nav-file-title
-{
-    border-bottom-left-radius: 0 !important;
-    border-bottom-right-radius: 0 !important;
-    border-top-left-radius: 0 !important;
-    border-top-right-radius: 0 !important;
-}
-
-img
-{
-    display: block !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-}
-
-.HyperMD-list-line
-{
-    padding-top: 0 !important;
-}
-
-.CodeMirror-linenumber,
-.cm-formatting
-{
-    font-family: var(--font-monospace) !important;
-    color: var(--frost2) !important;
-}
-
-.cm-hashtag,
-.search-result-file-matched-text
-{
-    color: var(--frost2) !important;
-}
-
-.markdown-preview-section pre code,
-.markdown-preview-section code
-{
-    font-size: 0.9em !important;
-    background-color: var(--pre-code) !important;
-}
-
-.markdown-preview-section pre code
-{
-    padding: 4px !important;
-    line-height: 1.4em !important;
-    display: block !important;
-    color: var(--code-block) !important;
-}
-
-.markdown-preview-section code
-{
-    color: var(--inline-code) !important;
-}
-
+/* 3. Editor and preview */
 .cm-s-obsidian,
-.cm-inline-code
-{
-    -webkit-font-smoothing: auto !important;
+.markdown-preview-view {
+  --text-normal: rgba(255, 220, 255, 0.8);
+  --text-faint: rgba(255, 220, 255, 0.25);
+  --text-accent: var(--accent-2);
+  color: var(--text-normal);
 }
 
-.cm-inline-code
-{
-    color: var(--inline-code) !important;
-    background-color: var(--pre-code) !important;
-    padding: 1px !important;
+.CodeMirror-guttermarker-subtle {
+  color: var(--accent-1);
 }
 
-.workspace-leaf-header-title
-{
-    font-weight: 600 !important;
+/* 3.1. Headers */
+.cm-s-obsidian .cm-header,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  overflow: visible;
 }
 
-.side-dock-title
-{
-    padding-top: 15px !important;
-    font-size: 20px !important;
+.cm-s-obsidian .cm-formatting-header {
+  font-weight: 300;
 }
 
-.side-dock-ribbon-tab:hover,
-.side-dock-ribbon-action:hover,
-.side-dock-ribbon-action.is-active:hover,
-.nav-action-button:hover,
-.side-dock-collapse-btn:hover
-{
-    color: var(--text-a);
+.cm-header-1:not(.cm-formatting),
+h1 {
+  text-shadow: 0 0 0.5em var(--accent-1);
 }
 
-.side-dock
-{
-    border-right: 0 !important;
+.cm-header-2:not(.cm-formatting),
+h2 {
+  text-shadow: 0 0 0.5em var(--accent-2);
 }
 
-.cm-s-obsidian,
-.markdown-preview-view
-{
-    /* padding-left: 10px !important; */
-    padding-right: 10px !important;
+.cm-header-3:not(.cm-formatting),
+h3 {
+  text-shadow: 0 0 0.5em var(--accent-3);
 }
 
-/* vertical resize-handle */
-.workspace-split.mod-vertical > * > .workspace-leaf-resize-handle,
-.workspace-split.mod-left-split > .workspace-leaf-resize-handle,
-.workspace-split.mod-right-split > .workspace-leaf-resize-handle
-{
-    width: 1px !important;
-    background-color: var(--background-secondary-alt);
+.cm-header-4:not(.cm-formatting),
+h4 {
+  text-shadow: 0 0 0.5em var(--accent-4);
 }
 
-/* horizontal resize-handle */
-.workspace-split.mod-horizontal > * > .workspace-leaf-resize-handle
-{
-    height: 1px !important;
-    background-color: var(--background-secondary-alt);
+.cm-header-5:not(.cm-formatting),
+h5 {
+  text-shadow: 0 0 0.5em var(--accent-5);
 }
 
-/* Remove vertical split padding */
-.workspace-split.mod-root .workspace-split.mod-vertical .workspace-leaf-content,
-.workspace-split.mod-vertical > .workspace-split,
-.workspace-split.mod-vertical > .workspace-leaf,
-.workspace-tabs
-{
-    padding-right: 0px;
+.cm-header-6:not(.cm-formatting),
+h6 {
+  text-shadow: 0 0 0.5em var(--accent-6);
 }
 
-.markdown-embed-title
-{
-    font-weight: 600 !important;
+/* 3.2. Formatting operators */
+.cm-s-obsidian .cm-formatting,
+.cm-s-obsidian span.cm-formatting-link,
+.cm-s-obsidian span.cm-formatting-link-string.cm-url,
+.cm-s-obsidian span.cm-inline-code.cm-formatting-code,
+.cm-s-obsidian span.cm-formatting-code,
+.cm-s-obsidian span.cm-formatting-quote,
+.cm-s-obsidian span.cm-hr,
+.cm-s-obsidian pre.HyperMD-table-row span.cm-hmd-table-sep,
+.cm-s-obsidian pre.HyperMD-table-row-1>span {
+  color: var(--accent-2);
 }
 
-.markdown-embed
-{
-    padding-left: 10px !important;
-    padding-right: 10px !important;
-    margin-left: 10px !important;
-    margin-right: 10px !important;
+/* 3.3. External links */
+.cm-s-obsidian .cm-formatting-link+.cm-formatting-link-string+.cm-url,
+.cm-s-obsidian .cm-string.cm-url,
+.cm-s-obsidian span.cm-link:not(.cm-formatting),
+.cm-s-obsidian span.cm-url,
+a {
+  color: var(--accent-1-muted);
 }
 
-.cm-header-1,
-.markdown-preview-section h1
-{
-    font-weight: 500 !important;
-    font-size: 34px !important;
-    color: var(--text-title-h1) !important;
+/* 3.4. Internal links */
+.cm-s-obsidian span.cm-hashtag,
+.cm-s-obsidian span.cm-hmd-internal-link,
+a.internal-link,
+a.tag {
+  color: var(--accent-1);
 }
 
-.cm-header-2,
-.markdown-preview-section h2
-{
-    font-weight: 500 !important;
-    font-size: 26px !important;
-    color: var(--text-title-h2) !important;
+/* 3.5. blockquotes, embeds, tables */
+.markdown-preview-view blockquote,
+.markdown-preview-view .markdown-embed,
+.markdown-preview-view .file-embed,
+.markdown-preview-view th,
+.markdown-preview-view td {
+  box-shadow: 0 0 0.25em var(--accent-2),
+    inset 0 0 0.25em var(--accent-2);
 }
 
-.cm-header-3,
-.markdown-preview-section h3
-{
-    font-weight: 500 !important;
-    font-size: 22px !important;
-    color: var(--text-title-h3) !important;
+.markdown-preview-view hr {
+  box-shadow: 0 0 0.5em var(--accent-2);
 }
 
-.cm-header-4,
-.markdown-preview-section h4
-{
-    font-weight: 500 !important;
-    font-size: 20px !important;
-    color: var(--text-title-h4) !important;
+/* 3.6. Code */
+.cm-s-obsidian span.cm-inline-code,
+code {
+  color: var(--accent-1);
 }
 
-.cm-header-5,
-.cm-header-6,
-.markdown-preview-section h5,
-.markdown-preview-section h6
-{
-    font-weight: 500 !important;
-    font-size: 18px !important;
-    color: var(--text-title-h5) !important;
+.markdown-preview-view code {
+  color: var(--accent-1)
 }
 
-.suggestion-item.is-selected
-{
-    background-color: var(--background-secondary);
+.cm-s-obsidian pre.HyperMD-codeblock {
+  color: var(--accent-6-muted);
 }
 
-.empty-state-container:hover
-{
-    background-color: var(--background-secondary-alt);
-    border: 5px solid var(--interactive-accent) !important;
+pre code {
+  color: var(--text-normal);
 }
 
-.checkbox-container
-{
-    background-color: var(--interactive-before);
+/* 3.7. Strikethrough */
+.cm-strikethrough,
+s {
+  text-decoration-color: var(--accent-1);
 }
 
-.checkbox-container:after
-{
-    background-color: var(--background-secondary-alt);
+/* 3.8. Escape chars */
+.cm-s-obsidian span.cm-hmd-escape-backslash {
+  color: var(--text-faint);
 }
 
-.mod-cta
-{
-    color: var(--background-secondary-alt) !important;
-    font-weight: 600 !important;
+.cm-s-obsidian span.cm-hmd-escape-char {
+  color: var(--text-normal);
 }
 
-.mod-cta:hover
-{
-    background-color: var(--interactive-before) !important;
-    font-weight: 600 !important;
+/* 3.9. Bullets and numbering */
+.cm-s-obsidian span.cm-formatting-list,
+.cm-s-obsidian span.cm-formatting-task {
+  color: var(--text-accent);
 }
 
-.CodeMirror-cursor
-{
-    background-color: var(--vim-cursor) !important;
-    opacity: 60% !important;
+.cm-s-obsidian span.cm-formatting-list {
+  font-weight: bold;
 }
 
-input.task-list-item-checkbox {
-    border: 1px solid var(--frost3);
-    appearance: none;
-    -webkit-appearance: none;
+/* 3.9.1. Bullet lists */
+ul {
+  list-style: none;
 }
 
-input.task-list-item-checkbox:checked {
-    background-color: var(--frost2);
-    box-shadow: inset 0 0 0 2px var(--background-primary);
+li>p {
+  display: inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
-.mermaid .note
-{
-    fill: var(--frost3) !important;
+ul li:not(.task-list-item)::before {
+  content: "•";
+  /* 🤔 need to think of some better bullet chars */
+  color: var(--accent-2);
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+  padding: 0;
+  font-weight: bold;
+  text-shadow: 0 0 0.5em var(--accent-2);
 }
 
+ul ul li:not(.task-list-item)::before {
+  content: "◦"
+}
+
+ul ul ul li:not(.task-list-item)::before {
+  content: "▪"
+}
+
+/* 3.9.2. Numbered lists */
+ol {
+  list-style: none;
+  counter-reset: li
+}
+
+ol>li {
+  counter-increment: li;
+}
+
+ol>li:not(.task-list-item)::before,
+ul ol>li:not(.task-list-item)::before,
+ul ul ol>li:not(.task-list-item)::before,
+ul ul ul ol>li:not(.task-list-item)::before {
+  content: counter(li) ".";
+  color: var(--accent-2);
+  font-weight: normal;
+  display: inline-block;
+  margin-left: -2.5em;
+  margin-right: 0.5em;
+  width: 2em;
+  text-align: right;
+  word-wrap: none;
+  overflow: visible;
+  word-break: keep-all;
+  text-shadow: 0 0 0.5em var(--accent-2);
+}
+
+/* 3.9.3. Task lists! (I'm proud of this, but could use improvement) */
+.markdown-preview-view .task-list-item-checkbox {
+  -webkit-appearance: none;
+  box-sizing: border-box;
+  border: 1px solid var(--accent-2);
+  position: relative;
+  width: 1.25em;
+  height: 1.25em;
+  margin: 0;
+  margin-right: 0.5em;
+  box-shadow: 0 0 0.5em var(--accent-2);
+}
+
+.markdown-preview-view .task-list-item-checkbox:checked::before {
+  content: '✓';
+  position: absolute;
+  color: var(--accent-2);
+  font-size: 1em;
+  line-height: 1.25em;
+  width: 1.2em;
+  text-align: center;
+  text-shadow: 0 0 0.5em var(--accent-2);
+}
+
+/* 4. Graph view */
+.graph-view.color-fill {
+  /* default */
+}
+
+.graph-view.color-fill-unresolved {
+  color: var(--accent-1);
+  opacity: 0.7;
+}
+
+.graph-view.color-line {
+  /* color: var(--accent-2);
+  opacity: 0.5; */
+  color: #2B8B98;
+}
+
+.graph-view.color-arrow {
+  color: var(--accent-2);
+  opacity: 1;
+}
+
+.graph-view.color-text {
+  color: rgba(255, 220, 255);
+}
+
+.graph-view.color-fill-highlight {
+  /* default */
+}
+
+.graph-view.color-line-highlight {
+  /* default */
+}
+
+.theme-light .graph-view.color-fill-attachment,
+.theme-dark .graph-view.color-fill-attachment {
+  color: var(--accent-6);
+}
+
+.theme-dark .graph-view.color-fill-tag,
+.theme-light .graph-view.color-fill-tag {
+  color: var(--accent-4);
+}
+
+/* 5. Misc Fixes */
+/* 5.1. Fixes for highlight */
+.cm-s-obsidian span.cm-formatting-highlight,
+.cm-s-obsidian span.cm-highlight,
+.markdown-preview-view mark,
+.search-result-file-matched-text {
+  color: var(--background-secondary);
+}
+
+.cm-s-obsidian span.cm-formatting-highlight {
+  color: var(--accent-2);
+}
+
+/* 5.2. fixes for buttons */
+button.mod-warning {
+  color: var(--text-normal);
+}
+
+/* 6. BONUS! CRT Scanlines and flicker! 
+  * It's not for everyone though, so it's disabled by default.
+  * simply remove the `/*` below a subsection to enable it **/
+
+/* 6.1. Pentile effect (chunky pixels) */
+/* DELETE THIS LINE TO ENABLE
+.app-container::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+  z-index: 2;
+  background-size: 100% 2px, 3px 100%;
+  pointer-events: none;
+}
+
+/* 6.2. Screen flicker */
+/* DELETE THIS LINE TO ENABLE
+.app-container::after {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(18, 16, 16, 0.1);
+  opacity: 0;
+  z-index: 2;
+  pointer-events: none;
+  animation: flicker 0.15s infinite;
+}
+@keyframes flicker {
+  0% {opacity: 0.27861;}
+  5% {opacity: 0.34769;}
+  10% {opacity: 0.23604;}
+  15% {opacity: 0.90626;}
+  20% {opacity: 0.18128;}
+  25% {opacity: 0.83891;}
+  30% {opacity: 0.65583;}
+  35% {opacity: 0.67807;}
+  40% {opacity: 0.26559;}
+  45% {opacity: 0.84693;}
+  50% {opacity: 0.96019;}
+  55% {opacity: 0.08594;}
+  60% {opacity: 0.20313;}
+  65% {opacity: 0.71988;}
+  70% {opacity: 0.53455;}
+  75% {opacity: 0.37288;}
+  80% {opacity: 0.71428;}
+  85% {opacity: 0.70419;}
+  90% {opacity: 0.7003;}
+  95% {opacity: 0.36108;}
+  100% {opacity: 0.24387;}
+}
+
+/* 6.3. Text blur effect */
+/* DELETE THIS LINE TO ENABLE
+.app-container {
+  text-shadow: 0.08084290417898504px 0 1px rgba(0,30,255,0.5), -0.08084290417898504px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  animation: textShadow 1.6s infinite;
+}
+@keyframes textShadow {
+  0% {text-shadow: 0.4389924193300864px 0 1px rgba(0,30,255,0.5), -0.4389924193300864px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  5% {text-shadow: 2.7928974010788217px 0 1px rgba(0,30,255,0.5), -2.7928974010788217px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  10% {text-shadow: 0.02956275843481219px 0 1px rgba(0,30,255,0.5), -0.02956275843481219px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  15% {text-shadow: 0.40218538552878136px 0 1px rgba(0,30,255,0.5), -0.40218538552878136px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  20% {text-shadow: 3.4794037899852017px 0 1px rgba(0,30,255,0.5), -3.4794037899852017px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  25% {text-shadow: 1.6125630401149584px 0 1px rgba(0,30,255,0.5), -1.6125630401149584px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  30% {text-shadow: 0.7015590085143956px 0 1px rgba(0,30,255,0.5), -0.7015590085143956px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  35% {text-shadow: 3.896914047650351px 0 1px rgba(0,30,255,0.5), -3.896914047650351px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  40% {text-shadow: 3.870905614848819px 0 1px rgba(0,30,255,0.5), -3.870905614848819px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  45% {text-shadow: 2.231056963361899px 0 1px rgba(0,30,255,0.5), -2.231056963361899px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  50% {text-shadow: 0.08084290417898504px 0 1px rgba(0,30,255,0.5), -0.08084290417898504px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  55% {text-shadow: 2.3758461067427543px 0 1px rgba(0,30,255,0.5), -2.3758461067427543px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  60% {text-shadow: 2.202193051050636px 0 1px rgba(0,30,255,0.5), -2.202193051050636px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  65% {text-shadow: 2.8638780614874975px 0 1px rgba(0,30,255,0.5), -2.8638780614874975px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  70% {text-shadow: 0.48874025155497314px 0 1px rgba(0,30,255,0.5), -0.48874025155497314px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  75% {text-shadow: 1.8948491305757957px 0 1px rgba(0,30,255,0.5), -1.8948491305757957px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  80% {text-shadow: 0.0833037308038857px 0 1px rgba(0,30,255,0.5), -0.0833037308038857px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  85% {text-shadow: 0.09769827255241735px 0 1px rgba(0,30,255,0.5), -0.09769827255241735px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  90% {text-shadow: 3.443339761481782px 0 1px rgba(0,30,255,0.5), -3.443339761481782px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  95% {text-shadow: 2.1841838852799786px 0 1px rgba(0,30,255,0.5), -2.1841838852799786px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+  100% {text-shadow: 2.6208764473832513px 0 1px rgba(0,30,255,0.5), -2.6208764473832513px 0 1px rgba(255,0,80,0.3), 0 0 3px;}
+}
+/**/
