@@ -28,3 +28,5 @@ Niveles
 Para conocer la config electronica se identifica el numero atómico 
 
 luego usamos el diagrama de flechas para 
+
+
