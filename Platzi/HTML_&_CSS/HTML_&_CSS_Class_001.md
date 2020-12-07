@@ -36,5 +36,15 @@ En este caso tenemos el atributo "class" que nos da un identificador a cada elem
 
 Puede haber etiquetas dentro de otras, elementos dentro de otros 
 
-Un ejemplo de etiquetas anidades puede s
+Un ejemplo de etiquetas anidades puede ser:
 
+```
+<ol>
+  <li>Elemento 1</li>
+  <li>Elemento 2</li>
+  ...
+  <li>Elemento N</li>
+</ol>
+```
+
+Tanto listas ordenadas como listas desordenadas son un buen ejemplo de esto, y como podemos ver e
