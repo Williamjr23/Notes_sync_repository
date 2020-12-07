@@ -24,3 +24,5 @@ Etiqueta de cierre:
 ```
 </h1>
 ```
+
+### Atributos:
