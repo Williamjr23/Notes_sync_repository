@@ -62,5 +62,8 @@ Ejemplo:
 > *Nota: esto también sirve para personas con ceguera que tienen que usar screen readers y al no poder ver las imágenes este alternativo sería como una descripción resumida de la imágen* 
 
 Recomendaciones para complementar los conocimientos de estas notas rapidas:
-
- [Apuntes de CSS]: https://drive.google.com/file/d/1WqIw3tPS6gNhEnma7iHl-PEfByKSIYGK/view
+Apuntes de CSS 
+ [Apuntes de CSS]:https://drive.google.com/file/d/1WqIw3tPS6gNhEnma7iHl-PEfByKSIYGK/view
+ 
+ Apuntes de CSS
+ 
