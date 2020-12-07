@@ -7,3 +7,10 @@ syntax
 ```
 <h1> hola </h1>
 ```
+
+Etiqueta de apertura:
+```
+<h1>
+```
+
+Etiqueta de cierre: 
