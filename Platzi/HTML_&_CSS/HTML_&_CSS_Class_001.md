@@ -3,10 +3,12 @@
 
 ### Anatomía de un elemento HTML:
 
-Es
+Este es un ejemplo de elemento HTML:
 ```
 <h1> hola </h1>
 ```
+
+Y se compone de:
 
 Etiqueta de apertura:
 ```
