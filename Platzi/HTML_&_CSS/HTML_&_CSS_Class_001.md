@@ -14,3 +14,6 @@ Etiqueta de apertura:
 ```
 
 Etiqueta de cierre: 
+```
+<
+```
