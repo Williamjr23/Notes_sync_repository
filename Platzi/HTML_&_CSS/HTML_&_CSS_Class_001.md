@@ -26,5 +26,6 @@ Etiqueta de cierre:
 ```
 
 ### Atributos:
- 
- 
+ ``` html
+ <h1 class 
+ ```
