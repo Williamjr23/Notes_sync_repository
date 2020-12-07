@@ -26,6 +26,7 @@ Etiqueta de cierre:
 ```
 
 ### Atributos:
- ``` html
- <h1 class 
+
+ ```html
+ <h1 class)= "Saludo" > 
  ```
