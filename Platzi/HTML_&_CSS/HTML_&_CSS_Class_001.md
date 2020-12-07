@@ -51,3 +51,4 @@ Tanto listas ordenadas como listas desordenadas son un buen ejemplo de esto, y c
 
 ### Elementos vacíos
 
+En este caso tenemos como indicarle al navegado en todo caso de que pase algo por ejemplo cun una imágen y no se pueda renderizar o visualizar, se llama elementos vaci
