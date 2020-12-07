@@ -58,4 +58,4 @@ Ejemplo:
 <img src="puppy.png" alt="mi mascota" > 
  ```
  
- ad
+ En este caso estamos indicando que se va a cargar una imagen con "img" y con 
