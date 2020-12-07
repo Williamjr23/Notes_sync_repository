@@ -10,8 +10,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/Untitled.md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_001.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "824bb7c00eba2521",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_001.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/Untitled.md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_001.md",
     "HTML_&_CSS/Untitled.md",
     "Quimica/Quimica 3era clase Configuración electróncia.md",
     "nose lo que quieras.md",
@@ -94,7 +106,6 @@
     "Git_Gihub/Git_&_Github_class_002.md",
     "Git_Gihub/Git_&_Github_class_001.md",
     "Git_Gihub/Untitled 1.md",
-    "Git_Gihub/Untitled.md",
-    "Terminal_classes/Untitled.md"
+    "Git_Gihub/Untitled.md"
   ]
 }
