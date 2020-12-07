@@ -1,1 +1,2 @@
-# Anatomía de un elemento HTML, atri
+# Anatomía de un elemento HTML, atributos, anidamiento y elementos vacíos (conceptos iniciales de html)
+
