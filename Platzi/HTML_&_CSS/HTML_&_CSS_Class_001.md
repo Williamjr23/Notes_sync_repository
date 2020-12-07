@@ -5,24 +5,24 @@
 
 Este es un ejemplo de elemento HTML:
  ```html
-<h1> hola </h1>
+ <h1> hola </h1> 
  ```
 
 Y se compone de:
 
 Etiqueta de apertura:
  ```html
-<h1>
+ <h1> 
  ```
 
 Contenido:
  ```html
-hola
+ hola 
  ```
 
 Etiqueta de cierre: 
  ```html
-</h1>
+ </h1> 
  ```
 
 ### Atributos:
