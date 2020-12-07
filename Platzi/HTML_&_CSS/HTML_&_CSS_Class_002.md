@@ -25,4 +25,4 @@ En el caso anteriór la etiqueta "meta" con el atributo "viewport" sirve para de
 
 En pocas palabras si defines también el atributo "content" después del atributo "viewport" en la misma etiqueta meta con el valor: **"width=device-width, initial-scale=1"** le estamos diciendo a nuestro sitio web que ancho máximo de nuestra página web será el ancho del dispositivo desde donde se esté aperturando el sitio web (móvil, tablet, pc).
 
-Les dejo una pequeña imagen de un sitio web donde se compara el uso de la etiqueta meta con el atributo viewport definido.
+Y esto te ahorra el trabajo de tener que configurarlo tu mismo para cada dispositivo
