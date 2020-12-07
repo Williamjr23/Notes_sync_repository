@@ -30,4 +30,8 @@ En este caso tenemos el atributo "class" que nos da un identificador a cada elem
  ```html
  <h1 class= "Saludo" > 
  ```
->Nota: Los atributos **siempre** van en la etiqueta de apertura
+>*Nota: Los atributos **siempre** van en la etiqueta de apertura*
+
+### Anidamiento
+
+Puede hja
