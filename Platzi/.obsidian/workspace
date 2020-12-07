@@ -6,7 +6,6 @@
       {
         "id": "c92806109427ffe5",
         "type": "leaf",
-        "dimension": 47.628205128205124,
         "active": true,
         "state": {
           "type": "markdown",
@@ -17,13 +16,12 @@
         }
       },
       {
-        "id": "824bb7c00eba2521",
+        "id": "f9298f7c36e355d7",
         "type": "leaf",
-        "dimension": 52.371794871794876,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_001.md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_002.md",
             "mode": "preview"
           }
         }
@@ -99,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_002.md",
     "HTML_&_CSS/Untitled.md",
     "Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_001.md",
@@ -107,7 +106,6 @@
     "Quimica/Untitled.md",
     "Git_Gihub/Git_&_Github_class_002.md",
     "Git_Gihub/Git_&_Github_class_001.md",
-    "Git_Gihub/Untitled 1.md",
-    "Git_Gihub/Untitled.md"
+    "Git_Gihub/Untitled 1.md"
   ]
 }
