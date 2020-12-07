@@ -61,4 +61,4 @@ Ejemplo:
  En este caso estamos indicando que se va a cargar una imagen con "img" y con "src" que significa source en español esto sería: fuente, así que le estamos indicando que muestre una imagen de la fuente igual a "puppy.png" es el nombre de la imágen y su extención en este caso: ".png" y al lado tenemos lo que nos interesa por ahora, "alt" que es alternativo, lo cual indica que alternativamente cuando no se pueda mostrar la imagen y el elemento por consecuencia quede como un **"elemento vacío"** se muestra como texto alternativo "mi mascota" y se cierra el elemento.
 > *Nota: esto también sirve para personas con ceguera que tienen que usar screen readers y al no poder ver las imágenes este alternativo sería como una descripción resumida de la imágen* 
 
-Recomendaciones para complementar los conocimientos de
+Recomendaciones para complementar los conocimientos de estas notas rapidas:
