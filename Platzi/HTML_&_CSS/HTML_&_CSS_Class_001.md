@@ -58,4 +58,4 @@ Ejemplo:
 <img src="puppy.png" alt="mi mascota" > 
  ```
  
- En este caso estamos indicando que se va a cargar una imagen con "img" y con "src" que significa source en español esto sería: fuente, así que le estamos indicando que muestre una imagen de la fuente igual a "puppy.png" es el nombre de la imágen y su extención en este caso.
+ En este caso estamos indicando que se va a cargar una imagen con "img" y con "src" que significa source en español esto sería: fuente, así que le estamos indicando que muestre una imagen de la fuente igual a "puppy.png" es el nombre de la imágen y su extención en este caso: ".png" y al lado tenemos lo que nos interesa por ahora, "alt" que es alternativo, lo cual indica que alternativamente cuando no se pueda mostrar la imagen y el elemento por consecuencia quede como un **elemento** 
