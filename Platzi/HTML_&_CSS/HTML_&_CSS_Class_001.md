@@ -26,7 +26,8 @@ Etiqueta de cierre:
 ```
 
 ### Atributos:
-En este caso tenemos el atributo "class" que nos da un identificador a cada elemento para luego en CSS podamos definir que estilos va a tener esa clase
+En este caso tenemos el atributo "class" que nos da un identificador a cada elemento para luego en CSS podamos definir que estilos va a tener esa clase "class"
  ```html
  <h1 class)= "Saludo" > 
  ```
+> Los atributos siempre van en la etiqueta de apertura
