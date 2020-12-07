@@ -63,7 +63,7 @@ Ejemplo:
 
 Recomendaciones para complementar los conocimientos de estas notas rapidas:
 Apuntes de CSS 
- [Apuntes de CSS]:https://drive.google.com/file/d/1WqIw3tPS6gNhEnma7iHl-PEfByKSIYGK/view
+ [Apuntes de CSS] [https://drive.google.com/file/d/1WqIw3tPS6gNhEnma7iHl-PEfByKSIYGK/view]
  
  Apuntes de CSS
  
