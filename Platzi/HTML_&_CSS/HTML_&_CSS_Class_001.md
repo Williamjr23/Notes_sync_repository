@@ -3,7 +3,7 @@
 
 ### Anatomía de un elemento HTML:
 
-syntax:HTML
+syntax
 ```
-<h1> hola <
+<h1> hola </h1>
 ```
