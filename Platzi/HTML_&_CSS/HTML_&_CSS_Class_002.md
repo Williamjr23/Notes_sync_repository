@@ -83,6 +83,7 @@ El elemento **meta** con atributo **charset** en un documento HTML está destina
 Por ejemplo, si se utiliza la codificación UTF-8 (estándar en HTML5 reconocido por la RFC 3629 de la Internet Engineering Task Force (IETF) y una de las tres posibilidades de codificación reconocidas por Unicode)
 
 Luego:
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
-```
