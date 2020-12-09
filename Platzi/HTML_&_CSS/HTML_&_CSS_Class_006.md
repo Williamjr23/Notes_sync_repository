@@ -1,16 +1,11 @@
-Reto 1 Organiza el siguiente bloque de código de forma semántica
+# Reto 1 Organiza el siguiente bloque de código de forma semántica
 
 > Reto realizado en los archivos:
 > * Ejercicio_004_reto.html
 > * Ejercicio_004_resuelto.html
 
 ### Ejercicio_004_reto.html:
-<details>
-	<summary>Ejercicio_004?reto.html:</summary>
-	
-	
 ```html 
-	
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,11 +31,8 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
     </div>
 </body>
 </html>
- 
 ```
-	
-</details>
-	
+
 ###  Ejercicio_004_resuelto.html:
 
 ```html
