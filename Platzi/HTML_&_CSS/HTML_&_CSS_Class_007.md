@@ -2,3 +2,8 @@
 ## (conceptos iniciales de css)
 
 ### Anatomía de una declaración CSS:
+```css 
+p {
+	color:red;
+	} 
+```
