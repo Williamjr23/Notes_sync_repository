@@ -31,3 +31,4 @@ Luego con la etiqueta <!DOCTYPE html> se está indicando que el documento está 
 
 A partir de aquí ya no nos tenemos que preocupar tanto por la anatomía o estructura principal de nuestra página, ya que esto nos permite simplemente empezar a escribir directamente desde el body y agregar lo que necesitemos a partir de aquí nuestra página ya puede mostrarse
 
+
