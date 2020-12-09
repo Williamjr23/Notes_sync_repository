@@ -70,3 +70,5 @@ La siguente etiqueta es:
 ```
 
 Se usa casi siempre un atributo de idioma en la etiqueta html para declarar el idioma predeterminado del texto de la página. Cuando la página tenga contenido en otro idioma, agregue un atributo de idioma a un elemento que rodee a ese contenido.
+
+Y si la página está en varios idiomas diferentes de preferencia debe ser indicado y para esas diferentes opciones puedes consutlar mas detalles [aquí]()
