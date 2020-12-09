@@ -13,6 +13,7 @@ Y esto da paso a dos tipos de errores que podemos encontrar en HTML:
 > En estos errores la sintaxis es correcta, pero el código no hace lo que debería, por lo que el programa funciona de forma incorrecta
 
 ### Debuggin:
+Llamado como debugging – o en español depuración -, es el nombre que se le da al proceso de encontrar y eliminar los errores que pueden cometer softwares y hardwares. El término hace parte del proceso de desarrollo desde el inicio, y hay algunos que afirman que este incluso fue creado antes del propio desarrollo web.
 
 
 ### Sistema de validación de etiquetas
