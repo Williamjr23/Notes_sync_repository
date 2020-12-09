@@ -49,7 +49,7 @@
 ### Pseudo-clases
 Si se quiere aplicar un estilo en especial (el primer parrafo, el segundo parrafo, el ultimo, numeros pares o impares, etc...) para eso están las "Pseudo-clases" y estas nos van a dar estílo específicos como por ejemplo:
 
-Ejemplo est
+first child:
 ```html
 p:first-child 
 	{
