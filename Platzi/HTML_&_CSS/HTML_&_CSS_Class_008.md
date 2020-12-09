@@ -93,6 +93,8 @@ Hay mas formas de hacerlo sin utilizar expresamente las matemáticas, pero esta 
 ```
 Su sintaxis son dos puntos "::" antes, despues de seleccionar lo que queramos puntualmente cambiar, como un solo caracter a la vez modificar el color o el tamaño del mismo,
 
-[Aquí](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) se listan todas las pseudo clases que se pueden utilizar
+[Aquí](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) se listan todas las pseudo clases que se pueden utilizar.
+
+[Aquí](developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) se listan todos los pseudo elementos que se pueden u
 
 Consultar: Ejercicio_005.html
