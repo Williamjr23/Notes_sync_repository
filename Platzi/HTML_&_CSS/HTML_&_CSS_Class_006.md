@@ -8,7 +8,7 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
 <details>
 	<summary>Ejercicio_004?reto.html:</summary>
 	
-```html
+``html
 <!DOCTYPE html> 
 <html lang="en">
 <head>
@@ -34,9 +34,8 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
     </div>
 </body>
 </html>
-```
-	
-<details>
+``
+</details>
 	
 ### Ejercicio_004_resuelto.html:
 ```html
