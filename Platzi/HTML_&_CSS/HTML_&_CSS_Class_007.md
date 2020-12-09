@@ -20,3 +20,7 @@ valor:
 ```css
 red 
 ```
+Declaración:
+```css 
+color:red;  
+```
