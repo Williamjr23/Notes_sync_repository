@@ -31,4 +31,27 @@ Luego con la etiqueta <!DOCTYPE html> se está indicando que el documento está 
 
 A partir de aquí ya no nos tenemos que preocupar tanto por la anatomía o estructura principal de nuestra página, ya que esto nos permite simplemente empezar a escribir directamente desde el body y agregar lo que necesitemos a partir de aquí nuestra página ya puede mostrarse
 
+# Anatomía de un documento HTML
 
+> *nota: al editar codigo HTML desde VScode, se recomienda indicar que se está trabajando con HTML para que así el editor reonozca nuestro codigo al editarlo y nos pueda sugerir, reconocer y marcar las cosas que nos facilitan la lectura y escritura del mismo (esto se indica guardando el archivo al iniciar con la extención "HTML")*
+
+Iniciamos dentro de VScode y de las primeras cosas que entramos es:
+ ```html
+ html:5 
+ ``` 
+ Esto nos va a abrir el siguiente preset de codigo HTML:
+ ```html
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html> 
+ ``` 
+ 
+ En este caso empezamos viendo como funciona cada una de las etiquetas y el por que nos las está poniendo d
