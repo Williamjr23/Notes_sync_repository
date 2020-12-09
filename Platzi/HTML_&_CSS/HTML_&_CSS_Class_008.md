@@ -47,4 +47,7 @@
 > ```
 
 ### Pseudo-clases
-Las pseudoclases, si se quiere aplicar un estilo en especial (el primer parrafo, el segundo parrafo, el ultimo,) para eso están las "Pseudo-cla"
+Las pseudoclases, si se quiere aplicar un estilo en especial (el primer parrafo, el segundo parrafo, el ultimo,) para eso están las "Pseudo-clases" y estas nos van a dar estílos, pero específicos como por ejemplo:
+
+```
+```
