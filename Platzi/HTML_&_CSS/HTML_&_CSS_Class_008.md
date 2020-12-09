@@ -66,13 +66,15 @@ p:last-child
 	}
 ```
 > Esta nos permite que se modifique el estilo a el ultimo hijo de cada elemento seleccionado y a sus sub eleméntos.
-> 
+
 * Para Pares:
 ```html
+p:last-child(n+)
 ```
 
 * Para impares:
 ```html
+p:nth
 ```
 
 
