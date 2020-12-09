@@ -85,7 +85,7 @@ p:nth-child(2n+1)
 	color:red;
 	}
 ```
-Hay mas formas de hacerlo sin utilizar expresamente 
+Hay mas formas de hacerlo sin utilizar expresamente las matemáticas, pero esta es la base de como funciona el indicar que se aplique un estilo sin necesidad de seleccionar elemento por elemento
 
 
 Consultar: Ejercicio_005.html
