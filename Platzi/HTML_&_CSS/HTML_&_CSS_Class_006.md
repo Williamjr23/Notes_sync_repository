@@ -74,8 +74,7 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
 
 <details>
 <summary>I could use some help...</summary>
-<p>
-
+	<code>
 ```c#
 public class Order
 {
@@ -84,7 +83,6 @@ public class Order
 
     public List<int> Products { get; set; }
 }
-\```
-
-</p>
+```
+		</code>
 </details>  
