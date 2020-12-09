@@ -36,7 +36,7 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
     </div>
 </body>
 </html>
-	
+
 ```
 	
 </details>
