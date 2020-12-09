@@ -54,4 +54,9 @@ Iniciamos dentro de VScode y de las primeras cosas que entramos es:
 </html> 
  ``` 
  
- En este caso empezamos viendo como funciona cada una de las etiquetas y el por que nos las está poniendo d
+ En este caso empezamos viendo como funciona cada una de las etiquetas y el por que nos las está poniendo automaticamente y veremos por que esto nos ahorra tiempo.
+ 
+ La primera etiqueta es:
+ ```html
+ <!DOCTYPE html> 
+ ```
