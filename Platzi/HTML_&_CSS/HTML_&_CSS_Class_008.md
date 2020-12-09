@@ -83,7 +83,7 @@ p:nth-child(n+3)
 	color:red;
 	}
 ```
-
+n nos indica un numero cualquiera y th hace alusión a los números ordinar
 
 
 Consultar: Ejercicio_005.html
