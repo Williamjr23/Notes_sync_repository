@@ -1,3 +1,3 @@
 # Tipos de selectores, pseudo-clases y pseudo-elementos
 
-(En proces
+(En proceso u.u)
