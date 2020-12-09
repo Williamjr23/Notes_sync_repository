@@ -80,12 +80,12 @@ p:nth-child(2n)
 
 * Para impares:
 ```html
-p:nth-child(2n)
+p:nth-child(2n+1)
 	{
 	color:red;
 	}
 ```
-
+Hay mas formas de hacerlo sin utilizar expresamente 
 
 
 Consultar: Ejercicio_005.html
