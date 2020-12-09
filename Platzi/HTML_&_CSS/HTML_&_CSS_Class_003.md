@@ -24,13 +24,13 @@
 
 ### Descripción de otras etiquetas muy usadas:
 
-| Etiqueta                 | Descripción                                                                               |
-| ------------------------ | ----------------------------------------------------------------------------------------- |
-| ```<div></div> ```       | Es el contenedor mas común y mas usado en HTML, pero no tiene un significado en especial. |
-| ```<button></button> ``` | Es utilizado para hacer botones. Normalmente va acompañado                                                                                          |
-| ``` ```                  |                                                                                           |
-| ``` ```                  |                                                                                           |
-| ``` ```                  |                                                                                           |
-| ``` ```                  |                                                                                           |
-| ``` ```                  |                                                                                           |
-| ``` ```                  |                                                                                           |
+| Etiqueta                 | Descripción                                                                                                                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ```<div></div> ```       | Es el contenedor mas común y mas usado en HTML, pero no tiene un significado en especial.                                                                    |
+| ```<button></button> ``` | Es utilizado para hacer botones. Normalmente va acompañado del evento onclick y de un script que defina la acción que se realizará al dar click en el botón. ```<button onclick=""```| 
+| ``` ```                  |                                                                                                                                                              |
+| ``` ```                  |                                                                                                                                                              |
+| ``` ```                  |                                                                                                                                                              |
+| ``` ```                  |                                                                                                                                                              |
+| ``` ```                  |                                                                                                                                                              |
+| ``` ```                  |                                                                                                                                                              |
