@@ -8,15 +8,16 @@
 > syntax:
 > ```html
 > * {
->	margin 0, 
+>	margin 0; 
 >	 } 
 > ```
 
 * Tipo
 > Se aplica con (no son tan buenos y no se recomienda utilizarlos cuando estamos trabajando en aplicaciones muy grandes o con muchas hojas de estilo o con muchos estílos, por que si lo aplicas por ejemplo aun parrafo se van a colorear todos los parrafos y no siempre se quiere que eso pase)
 
-> ```
+> Syntax:
+> ```html
 > h1 {
-> 
-	> }
+>      color: red;
+>      } 
 > ```
