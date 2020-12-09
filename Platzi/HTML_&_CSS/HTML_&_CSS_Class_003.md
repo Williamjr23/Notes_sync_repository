@@ -21,3 +21,15 @@
 | ```<aside></aside> ```        | Como su nombre lo indica esta etiqueta permite que el contenido de esta etiqueta no le agregue sentido al resto del contenido de la página, es decir que si se elimina, no afecta. Como por ejemplo la publicidad                                                                         |
 | ```<footer></footer> ```      | Es la parte final de nuestra página, lo contrario al ```<header></header>``` y como su nombre lo indíca normalmente se coloca información que el usuario pueda requerir de nuestro sitio como por ejemplo: redes sociales, información de contacto, políticas de privacidad, entre otras. |
 | ```<h1></h1>....<h6></h6> ``` | Usamos estas etiquetas para describir titulos en nuestra página y los numeros en ellas representan el nivel de importancia siendo ```<h1>``` el título más importante y ```<h6>``` el titulo menos importante.                                                                            | 
+
+### Descripción de otras etiquetas muy usadas:
+
+| Etiqueta |     |
+| -------- | --- |
+|          |     |
+|          |     |
+|          |     |
+|          |     |
+|          |     |
+|          |     |
+|          |     |
