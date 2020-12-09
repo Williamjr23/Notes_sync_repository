@@ -74,11 +74,16 @@ p:nth-child(n+2)
 	color:red;
 	}
 ```
-Aquí se le indíca que todos los numeros de 2 en 2 osea los pares de el elemento se les aplique un estílo especifico
+> Aquí se le indíca que todos los numeros de 2 en 2 osea los pares de el elemento se les aplique un estílo especifico.
 
 * Para impares:
 ```html
-p:nth
+p:nth-child(n+3)
+	{
+	color:red;
+	}
 ```
 
 
+
+Ejerc
