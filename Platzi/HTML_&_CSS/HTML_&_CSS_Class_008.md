@@ -86,4 +86,4 @@ p:nth-child(n+3)
 
 
 
-Ejerc
+Ejercicio
