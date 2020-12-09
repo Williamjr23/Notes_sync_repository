@@ -12,3 +12,5 @@ Tipos de selectores:
 >	 } 
 > ```
 
+* Tipo
+> Se aplica c
