@@ -25,4 +25,4 @@
 > ```
 
 * Clase
-> Se colocan at
+> Se colocan atributos a los eleméntos, aquí se coloca un identificador  "ID" a nuestros elementos para poderlos trabajar dentro de CSS y decirle 
