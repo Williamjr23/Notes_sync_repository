@@ -12,12 +12,12 @@
 ### Descripción de las etiquetas semánticas para la estructura base de nuestra página
 > Nota: Una etiqueta se califica como semántica si tiene que ver el significado, es decir, si nos informa sobre lo que trata su contenido.
 
-| Etiqueta | Descripción | 
-| -------- | ----------- |
-|     ``` ```      |             |
-|    ```` ```       |             |
-|     ```` ```      |             |
-|    ```` ```       |             |
-|    ```` ```       |             |
-|    ```` ```       |             |
-|    ```` ```       |             |
+| Etiqueta                 | Descripción |
+| ------------------------ | ----------- |
+| ```<header></header> ``` | Se utiliza esta etiqueta para definir la cabecera de nuestra página,             |
+| ``` ```                  |             |
+| ``` ```                  |             |
+| ``` ```                  |             |
+| ``` ```                  |             |
+| ``` ```                  |             |
+| ``` ```                  |             |
