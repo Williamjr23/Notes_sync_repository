@@ -57,7 +57,7 @@ p:first-child
 	color: white;
 	}
 ```
-La pseudo-clase :first-child de CSS representa el primer elemento entre un grupo de elementos hermanos.
+La pseudo-clase :first-child de CSS representa el primer elemento entre un grupo de elementos hermanos. ya sea que si se aplicar
 ```html
 ```
 
