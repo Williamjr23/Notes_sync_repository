@@ -71,18 +71,3 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
 </body>
 </html>
 ```
-
-<details>
-<summary>I could use some help...</summary>
-	<code>
-```c#
-public class Order
-{
-    public int OrderId { get; set; }
-    public int CustomerId { get; set; }
-
-    public List<int> Products { get; set; }
-}
-```
-		</code>
-</details>  
