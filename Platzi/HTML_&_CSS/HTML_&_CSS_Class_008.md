@@ -76,6 +76,8 @@ p:nth-child(n+2)
 ```
 > Aquí se le indíca que todos los numeros de 2 en 2 osea los pares de el elemento se les aplique un estílo especifico.
 
+> nota: "n" nos indica un numero cualquiera y "th" hace alusión a los números ordinarios en inglés 
+
 * Para impares:
 ```html
 p:nth-child(n+3)
@@ -83,7 +85,7 @@ p:nth-child(n+3)
 	color:red;
 	}
 ```
-n nos indica un numero cualquiera y th hace alusión a los números ordinar
+
 
 
 Consultar: Ejercicio_005.html
