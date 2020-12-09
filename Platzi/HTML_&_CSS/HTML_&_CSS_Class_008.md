@@ -33,5 +33,6 @@
 >      font-size: 2cm;
 >          }
 >```
-D
->
+
+* ID
+> (Tampoco es muy bueno ni tan recomendable trabajar con IDs, 
