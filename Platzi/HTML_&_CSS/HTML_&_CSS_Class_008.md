@@ -95,6 +95,6 @@ Su sintaxis son dos puntos "::" antes, despues de seleccionar lo que queramos pu
 
 [Aquí](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) se listan todas las pseudo clases que se pueden utilizar.
 
-[Aquí](developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) se listan todos los pseudo elementos que se pueden u
+[Aquí](developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) se listan todos los pseudo elementos que se pueden utilizar.
 
 Consultar: Ejercicio_005.html
