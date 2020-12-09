@@ -29,6 +29,8 @@
 
 >Ejemplo:
 >```html
->
+>. saludo { 
+>      font-size:2cm
+>}
 >```
 >
