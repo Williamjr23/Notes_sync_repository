@@ -60,6 +60,7 @@ Iniciamos dentro de VScode y de las primeras cosas que entramos es:
  
  ```html
  <!DOCTYPE html>
+<html lang="en">
  ```
 
 asdf
