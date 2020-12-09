@@ -5,7 +5,7 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
 > * Ejercicio_004_resuelto.html
 
 ### Ejercicio_004_reto.html:
-<details><sumary>reto tal</sumary><p>
+<details><sumary>reto tal
 
 
 ```html
@@ -35,6 +35,8 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
 </body>
 </html>
 ```
+	
+	</sumary><p>
 	
 	</p></details>
 
