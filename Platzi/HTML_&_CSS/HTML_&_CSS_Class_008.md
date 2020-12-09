@@ -88,6 +88,6 @@ p:nth-child(2n+1)
 Hay mas formas de hacerlo sin utilizar expresamente las matemáticas, pero esta es la base de como funciona el indicar que se aplique un estilo sin necesidad de seleccionar elemento por elemento
 
 ### Pseudo-elementos:
-
+Su sintaxis son dos puntos "::" antes, despues de seleccionar lo que queramos puntualmente cambiar, como un solo caracter a la vez modificar el color 
 
 Consultar: Ejercicio_005.html
