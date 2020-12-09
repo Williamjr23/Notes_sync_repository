@@ -13,6 +13,10 @@ Selector:
 P 
 ```
 Propiedad:
+```css
+color 
 ```
-
+valor:
+```css
+red 
 ```
