@@ -24,13 +24,13 @@
 
 ### Descripción de otras etiquetas muy usadas:
 
-| Etiqueta           | Descripción |
-| ------------------ | ----------- |
-| ```<div></div> ``` | Es el contenedor mas común y mas usado en ht            |
-| ``` ```            |             |
-| ``` ```            |             |
-| ``` ```            |             |
-| ``` ```            |             |
-| ``` ```            |             |
-| ``` ```            |             |
-| ``` ```            |             |
+| Etiqueta                 | Descripción                                                                               |
+| ------------------------ | ----------------------------------------------------------------------------------------- |
+| ```<div></div> ```       | Es el contenedor mas común y mas usado en HTML, pero no tiene un significado en especial. |
+| ```<button></button> ``` | Es utilizado para hacer botones. Normalmente va acompañado                                                                                          |
+| ``` ```                  |                                                                                           |
+| ``` ```                  |                                                                                           |
+| ``` ```                  |                                                                                           |
+| ``` ```                  |                                                                                           |
+| ``` ```                  |                                                                                           |
+| ``` ```                  |                                                                                           |
