@@ -82,9 +82,9 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
     <section>Sección principal</section>
     <footer>
         <ul>
-        <li><a href="platzi.com">Contáctanos</a></li>
-        <li><a href="platzi.com">Política de privacidad</a></li>
-        <li><a href="platzi.com">Términos y condiciones</a></li>
+        <li><a href="www.platzi.com">Contáctanos</a></li>
+        <li><a href="www.platzi.com">Política de privacidad</a></li>
+        <li><a href="www.platzi.com">Términos y condiciones</a></li>
         </ul>
     </footer>
 </body>
