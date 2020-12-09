@@ -47,3 +47,4 @@
 > ```
 
 ### Pseudo-clases
+Las pseudoclases, si se quiere aplicar un estilo en especial 
