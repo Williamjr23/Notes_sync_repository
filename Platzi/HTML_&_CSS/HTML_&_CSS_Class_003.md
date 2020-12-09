@@ -24,12 +24,13 @@
 
 ### Descripción de otras etiquetas muy usadas:
 
-| Etiqueta |     |
-| -------- | --- |
-|          |     |
-|          |     |
-|          |     |
-|          |     |
-|          |     |
-|          |     |
-|          |     |
+| Etiqueta           | Descripción |
+| ------------------ | ----------- |
+| ```<div></div> ``` | Es el contenedor mas común y mas usado en ht            |
+| ``` ```            |             |
+| ``` ```            |             |
+| ``` ```            |             |
+| ``` ```            |             |
+| ``` ```            |             |
+| ``` ```            |             |
+| ``` ```            |             |
