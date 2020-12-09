@@ -47,10 +47,9 @@
 > ```
 
 ### Pseudo-clases
-Si se quiere aplicar un estilo en especial (el primer parrafo, el segundo parrafo, el ultimo, numeros pares o impares, etc...) para eso están las "Pseudo-clases" y estas nos van a dar estílo específicos y aquí mencionaremos algúnos cuantos
-Ejemplos: 
+Si se quiere aplicar un estilo en especial (el primer parrafo, el segundo parrafo, el ultimo, numeros pares o impares, etc...) para eso están las "Pseudo-clases" y estas nos van a dar estílo específicos y aquí mencionaremos algúnos cuantos:
 
-* First-child(hijo primari)
+* First Child (Primer_hijo)
 ```html
 p:first-child 
 	{
