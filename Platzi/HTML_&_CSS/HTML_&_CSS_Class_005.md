@@ -16,5 +16,5 @@ Y esto da paso a dos tipos de errores que podemos encontrar en HTML:
 
 
 ### Sistema de validación de etiquetas
-Esta página nos permite ingresar ya sea el imput la url o el archivo de el codigo con el que estemos tratando y 
+Esta página nos permite ingresar ya sea el imput la url o el archivo de el codigo con el que estemos tratando y te marca algúnos de los errores sintácticos que puedes llegar a tener:
 https://validator.w3.org/
