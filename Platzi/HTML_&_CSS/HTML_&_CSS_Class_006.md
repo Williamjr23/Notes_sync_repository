@@ -11,7 +11,7 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
 	
 ```html 
 	
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,7 +36,7 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
     </div>
 </body>
 </html>
-
+ 
 ```
 	
 </details>
@@ -71,3 +71,20 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
 </body>
 </html>
 ```
+
+<details>
+<summary>I could use some help...</summary>
+<p>
+
+```c#
+public class Order
+{
+    public int OrderId { get; set; }
+    public int CustomerId { get; set; }
+
+    public List<int> Products { get; set; }
+}
+\```
+
+</p>
+</details>  
