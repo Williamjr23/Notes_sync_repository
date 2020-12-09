@@ -12,12 +12,12 @@
 ### Descripción de las etiquetas semánticas para la estructura base de nuestra página
 > Nota: Una etiqueta se califica como semántica si tiene que ver el significado, es decir, si nos informa sobre lo que trata su contenido.
 
-| Etiqueta                 | Descripción                                                                                                                                                                                |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ```<header></header> ``` | Se utiliza esta etiqueta para definir la cabecera de nuestra página, donde usualmente colocamos un logo, el título de la página o aplicación y a veces un menú con una lista de navegación |
-| ```<nav></nav>```                  |                                                                                                                                                                                            |
-| ``` ```                  |                                                                                                                                                                                            |
-| ``` ```                  |                                                                                                                                                                                            |
-| ``` ```                  |                                                                                                                                                                                            |
-| ``` ```                  |                                                                                                                                                                                            |
-| ``` ```                  |                                                                                                                                                                                            |
+| Etiqueta                   | Descripción                                                                                                                                                                                |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ```<header></header> ```   | Se utiliza esta etiqueta para definir la cabecera de nuestra página, donde usualmente colocamos un logo, el título de la página o aplicación y a veces un menú con una lista de navegación |
+| ```<nav></nav> ```         | Esta es la etiqueta que usamos para colocar enlaces de navegación                                                                                                                          |
+| ```<article></article> ``` |                                                                                                                                                                                            |
+| ``` ```                    |                                                                                                                                                                                            |
+| ``` ```                    |                                                                                                                                                                                            |
+| ``` ```                    |                                                                                                                                                                                            |
+| ``` ```                    |                                                                                                                                                                                            |
