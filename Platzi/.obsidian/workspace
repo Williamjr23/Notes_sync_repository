@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c92806109427ffe5",
+        "id": "fc224bf874565c1f",
         "type": "leaf",
+        "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_003.md",
+            "mode": "source"
+          }
         }
       },
       {
-        "id": "62cf248e533e84f2",
+        "id": "47a2a5649b0e2f62",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -95,10 +98,10 @@
   },
   "lastOpenFiles": [
     "HTML_&_CSS/HTML_&_CSS_Class_003.md",
-    "HTML_&_CSS/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_002.md",
-    "Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_001.md",
+    "HTML_&_CSS/Untitled.md",
+    "Untitled.md",
     "Quimica/Quimica 3era clase Configuración electróncia.md",
     "nose lo que quieras.md",
     "Quimica/Untitled.md",
