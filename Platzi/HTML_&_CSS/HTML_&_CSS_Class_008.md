@@ -6,5 +6,7 @@ Tipos de selectores:
 > Se aplica con un asterisco "*"  
 > syntax:
 > ```html
-> 
+> * {
+>	margin 0, 
+>	 } 
 > ```
