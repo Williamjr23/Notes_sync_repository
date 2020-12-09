@@ -35,5 +35,13 @@
 >```
 
 * ID
->
+
+
 >Nota: (Tampoco es muy bueno ni tan recomendable trabajar con IDs, mas adelante se hablará sobre la especificidad y se verá por que no es tan bueno trabajar con IDs>
+
+> Ejemplo:
+> ```
+> # id {
+> 
+	> }
+> ```
