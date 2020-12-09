@@ -69,7 +69,7 @@ p:last-child
 
 * Para Pares:
 ```html
-p:nth-child(n+2)
+p:nth-child(2n)
 	{
 	color:red;
 	}
@@ -80,7 +80,7 @@ p:nth-child(n+2)
 
 * Para impares:
 ```html
-p:nth-child(n+3)
+p:nth-child(2n)
 	{
 	color:red;
 	}
