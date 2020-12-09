@@ -25,4 +25,10 @@
 > ```
 
 * Clase
-> Se colocan atributos a los eleméntos, aquí se coloca un identificador  "ID" a nuestros elementos para poderlos trabajar dentro de CSS y decirle 
+> Se colocan atributos a los eleméntos, aquí se coloca un identificador  "ID" a nuestros elementos para poderlos trabajar dentro de CSS y especificar por ejemplo que el titulo principal tiene un color, un formato y el pie de página otro etc...
+
+>Ejemplo:
+>```html
+>
+>```
+>
