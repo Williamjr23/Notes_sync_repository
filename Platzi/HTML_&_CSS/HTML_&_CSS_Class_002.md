@@ -69,3 +69,4 @@ La siguente etiqueta es:
 <html lang="en"> 
 ```
 
+Se usa casi siempre un atributo de idioma en la etiqueta html para declarar el idioma predeterminado del texto de la página. Cuando la página tenga contenido en otro idioma, agregue un atributo de idioma a un elemento que rodee a ese contenido.
