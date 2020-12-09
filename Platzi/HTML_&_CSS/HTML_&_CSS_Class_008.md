@@ -69,9 +69,12 @@ p:last-child
 
 * Para Pares:
 ```html
-p:last-child(n+)
+p:nth-child(n+2)
+	{
+	color:red;
+	}
 ```
-
+Aquí se le indíca si
 * Para impares:
 ```html
 p:nth
