@@ -16,3 +16,4 @@ Y esto da paso a dos tipos de errores que podemos encontrar en HTML:
 
 
 ### Sistema de validación de etiquetas
+https://validator.w3.org/
