@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "f9298f7c36e355d7",
+        "id": "62cf248e533e84f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_002.md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_003.md",
             "mode": "preview"
           }
         }
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_003.md",
     "HTML_&_CSS/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_002.md",
     "Untitled.md",
@@ -105,7 +106,6 @@
     "nose lo que quieras.md",
     "Quimica/Untitled.md",
     "Git_Gihub/Git_&_Github_class_002.md",
-    "Git_Gihub/Git_&_Github_class_001.md",
-    "Git_Gihub/Untitled 1.md"
+    "Git_Gihub/Git_&_Github_class_001.md"
   ]
 }
