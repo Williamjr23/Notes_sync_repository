@@ -6,7 +6,6 @@
       {
         "id": "efff066e1c76a13b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +17,12 @@
       {
         "id": "8f0b7d8b667959de",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "HTML_&_CSS/HTML_&_CSS_Class_005.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }

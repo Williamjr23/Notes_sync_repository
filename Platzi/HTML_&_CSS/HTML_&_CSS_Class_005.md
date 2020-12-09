@@ -6,6 +6,6 @@ Y esto da paso a dos tipos de errores que podemos encontrar en HTML:
 
 ### Tipos de errores:
 
-* Er
+* Errores Sintácticos: Son errores de escritura en el código que hacen que el programa no funcione.
 
 (En curso u.u)
