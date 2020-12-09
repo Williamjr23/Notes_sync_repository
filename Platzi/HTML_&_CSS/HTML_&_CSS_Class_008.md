@@ -47,7 +47,8 @@
 > ```
 
 ### Pseudo-clases
-Si se quiere aplicar un estilo en especial (el primer parrafo, el segundo parrafo, el ultimo, numeros pares o impares, etc...) para eso están las "Pseudo-clases" y estas nos van a dar estílo específicos como por ejemplo:
+>Si se quiere aplicar un estilo en especial (el primer parrafo, el segundo parrafo, el ultimo, numeros pares o impares, etc...) para eso están las "Pseudo-clases" y estas nos van a dar estílo específicos y aquí mencionaremos algúnos cuantos
+Ejemplos: 
 
 first child:
 ```html
@@ -56,7 +57,7 @@ p:first-child
 	color: white;
 	}
 ```
-
+La pseudo-clase :first-child de CSS representa el primer elemento entre un grupo de elementos hermanos.
 ```html
 ```
 
