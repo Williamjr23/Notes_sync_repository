@@ -9,3 +9,4 @@
 | ```<br>```    | Con esta etiqueta podemos hacer saltos de linea                                                                                                                                                                                                                                             |
 | ```<hr>```    | Es parecido a ```<br>``` solo que en este caso representa un quiebre temático entre los párrafos de una sección.                                                                                                                                                                                                                                                                             | 
 
+### Descripción de las etiquetas semánc
