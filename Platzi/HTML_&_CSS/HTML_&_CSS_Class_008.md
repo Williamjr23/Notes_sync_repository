@@ -1,6 +1,10 @@
 # Tipos de selectores, pseudo-clases y pseudo-elementos
 
-Tipos de selectores
+Tipos de selectores:
 
 * Universal
-> Se aplica con un asterisco \"*" 
+> Se aplica con un asterisco "*"  
+> syntax:
+> ```html
+> 
+> ```
