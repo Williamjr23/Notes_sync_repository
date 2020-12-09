@@ -11,3 +11,5 @@ Y esto da paso a dos tipos de errores que podemos encontrar en HTML:
 
 * Errores lógicos:
 > En estos errores la sintaxis es correcta, pero el código no hace lo que debería, por lo que el programa funciona de forma incorrecta
+
+### 
