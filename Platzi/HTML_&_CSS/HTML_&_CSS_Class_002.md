@@ -74,6 +74,6 @@ Se usa casi siempre un atributo de idioma en la etiqueta html para declarar el i
 Y si la página está en varios idiomas diferentes de preferencia debe ser indicado y para esas diferentes opciones puedes consutlar mas detalles [aquí](https://www.w3.org/International/questions/qa-html-language-declarations.es)
 
 Luego tenemos: 
-```
-<meta charset="UTF-8">
+```html
+<meta charset="UTF-8"> 
 ```
