@@ -35,7 +35,7 @@
 >```
 
 * ID
->Se conocer
+>Se conocerá mas adelante pero se indica por que pertenece a los tipos de selectores
 
 >Nota: (Tampoco es muy bueno ni tan recomendable trabajar con IDs, mas adelante se hablará sobre la especificidad y se verá por que no es tan bueno trabajar con IDs>
 
@@ -45,3 +45,5 @@
 >     border-radius: 20px;
 > }
 > ```
+
+### Pseudo-clases
