@@ -2,9 +2,9 @@
 
 ### Descripción de algunos elementos vacíos
 
-| Etiqueta | Descripción | 
+| Etiqueta | Descripción |
 | -------- | ----------- |
-|          |             |
-|          |             |
-|          |             |
-|          |             |
+| <img>    |  La utilizamos para añadir imag           |
+| <input>  |             |
+| <br>     |             |
+| <hr>     |             |
