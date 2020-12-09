@@ -77,3 +77,5 @@ Luego tenemos:
 ```html
 <meta charset="UTF-8"> 
 ```
+
+El elemento meta con atributo charset en un documento HTML está el destinado a indicar la codificación de caracteres utilizada 
