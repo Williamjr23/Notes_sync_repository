@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "dbc8d7891e53930c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_004.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "efff066e1c76a13b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_004.md",
+            "file": "HTML_&_CSS/Untitled.md",
             "mode": "preview"
           }
         }
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_004.md",
+                "file": "HTML_&_CSS/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +86,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_004.md",
     "HTML_&_CSS/HTML_&_CSS_Class_003.md",
     "HTML_&_CSS/HTML_&_CSS_Class_001.md",
     "HTML_&_CSS/HTML_&_CSS_Class_002.md",
     "HTML_&_CSS/HTML_&_CSS_Class_001 1.md",
-    "HTML_&_CSS/Untitled.md",
     "Untitled.md",
     "Quimica/Quimica 3era clase Configuración electróncia.md",
     "nose lo que quieras.md",
