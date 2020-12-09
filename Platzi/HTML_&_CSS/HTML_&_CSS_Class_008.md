@@ -3,8 +3,8 @@
 Tipos de selectores:
 
 * Universal
-> Se aplica con un asterisco "*"  se aplican las propiedades a todos los elementos html)
-> 
+> Se aplica con un asterisco "*"  (con esta opción se aplican las propiedades a todos los elementos html) 
+
 > syntax:
 > ```html
 > * {
