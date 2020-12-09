@@ -6,6 +6,7 @@
       {
         "id": "fc224bf874565c1f",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -15,13 +16,12 @@
         }
       },
       {
-        "id": "47a2a5649b0e2f62",
+        "id": "7822d4f808f8d4fb",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_003.md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_004.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_003.md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_004.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "HTML_&_CSS/HTML_&_CSS_Class_003.md",
     "HTML_&_CSS/HTML_&_CSS_Class_004.md",
+    "HTML_&_CSS/HTML_&_CSS_Class_003.md",
     "HTML_&_CSS/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_002.md",
     "HTML_&_CSS/HTML_&_CSS_Class_001.md",
