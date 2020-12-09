@@ -62,30 +62,3 @@ Reto 1 Organiza el siguiente bloque de código de forma semántica
 </body>
 </html>
 ```
-
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reto 1: Organiza de forma semántica</title>
-</head>
-<body>
-    <header>
-        <h1>Platzi-video</h1>
-        <ul>
-            <li><button onclick="">Cuenta</button></li>
-            <br>
-            <li><button onclick="">Cerrar sesión</button></li>
-        </ul>
-    </header>
-    <section>Sección principal</section>
-    <footer>
-        <ul>
-        <li><a href="www.platzi.com">Contáctanos</a></li>
-        <li><a href="www.platzi.com">Política de privacidad</a></li>
-        <li><a href="www.platzi.com">Términos y condiciones</a></li>
-        </ul>
-    </footer>
-</body>
-</html>
