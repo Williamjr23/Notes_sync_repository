@@ -27,6 +27,7 @@ En pocas palabras si defines también el atributo "content" después del atribut
 
 Y esto te ahorra el trabajo de tener que configurarlo tu mismo para cada dispositivo, practicamente le estás dando los parámetros de que tu sitio de escritorio así como lo visualizas tu se transporte hacia cualquier dispositivo de una manera orgánica, pero si por otro modo quisieras saber un poco mas a cerca de como personalizarlo en los diferéntes dispositivos está este [artículo](https://blog.hubspot.com/marketing/mobile-viewport-setup) que te podría interesar para saber mas a fondo como funciona
 	
-Luego con la etiqueta <!DOCTYPE>
+Luego con la etiqueta <!DOCTYPE html> se está indicando que el documento está utilizando html
 
 A partir de aquí ya no nos tenemos que preocupar tanto por la anatomía o estructura principal de nuestra página, ya que esto nos permite simplemente empezar a escribir directamente desde el body y agregar lo que necesitemos a partir de aquí nuestra página ya puede mostrarse
+
