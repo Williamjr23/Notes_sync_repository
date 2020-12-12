@@ -1,3 +1,7 @@
-# Modelo de caja
+# Modelo de caja, valores relativos y absolutos
 
-j
+### Modelo de caja:
+
+* Todos los elementos HTML tienen
+
+
