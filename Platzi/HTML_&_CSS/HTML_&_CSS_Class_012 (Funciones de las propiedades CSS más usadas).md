@@ -21,6 +21,6 @@
 | Propiedades   | Utilidad                                                                                    |
 | ------------- | ------------------------------------------------------------------------------------------- |
 | border        | Define el tamaño, estilo y color del borde de un elemento. Por ejemplo: ```border: 2px``` . |
-| border-radius | Define que tan redondeado quiero mi elemento. Por ejemplo: ```border-radius: 20px; ``` .    |
+| border-radius | Define que tan redondeado quiero mi elemento. Por ejemplo: ```border-radius: 20px; ```, se puede utilizar para dar efectos mas estilizados en los bordes de nuestros objetos .    |
 |               |                                                                                             |
 	
