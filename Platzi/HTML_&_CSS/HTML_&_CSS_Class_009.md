@@ -33,7 +33,7 @@ Ejemplo:
 ```
 margin: 10px 20px 30px 40px;
 ```
->nota: recuerda que el margen por objeto o clase (class) es seteado objeto por objeto y es una propiedad directa de el objeto mismo, así que como lo digimos anteriormente, si tu seteas el margen de tu objeto en 10px, y la página por defecto tiene margen para separar el contenido de los bordes (siempre viene un margen por defecto), este se sumará con el del objeto y suponiendo que este es de 10px también tendrías el borde superior y el borde inferior sumandose a los bordes del objeto y esto no quedaría muy parejo, por eso se menciona que es buena practica eliminar estos bordes por defecto y trabajar con los que nosotros querramos dentro de cada objeto o caja
+>nota: recuerda que el margen por objeto o clase (class) es seteado objeto por objeto y es una propiedad directa de el objeto mismo, así que como lo digimos anteriormente, si tu seteas el margen de tu objeto en 10px, y la página por defecto tiene margen para separar el contenido de los bordes (siempre viene un margen por defecto), este se sumará con el del objeto y suponiendo que este es de 10px también tendrías el borde superior y el borde lateral sumandose a los bordes del objeto adyaciente, esto no quedaría muy parejo y por eso se menciona que es buena practica eliminar estos bordes por defecto y trabajar con los que nosotros querramos dentro de cada objeto o caja
 ### Como evitar que otras capas modifiquen el tamaño del contenido?
 Dentro de nuestra hoja de estilos (CSS) se indíca:
 ```html
