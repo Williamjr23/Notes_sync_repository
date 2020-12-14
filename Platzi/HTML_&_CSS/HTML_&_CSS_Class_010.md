@@ -5,8 +5,9 @@
 * px (pixels)
 * mm (milimeters)
 * pt (point)
-* > Point values are only for print CSS! A point is a unit of measurement used for real-life ink-on-paper typography. 72pts = one inch
-* pc()
+> Point values are only for print CSS! A point is a unit of measurement used for real-life ink-on-paper typography. 72pts = one inch
+* pc (picas)
+> picas (1pc = 12 pt) Try it 
 
 ### Unidades de medida relativas:
 * vmax
