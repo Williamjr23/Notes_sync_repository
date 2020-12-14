@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git_Gihub/Git_&_Github_class_002 (Por que un sistema de control de versiones).md",
+            "file": "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git_Gihub/Git_&_Github_class_002 (Por que un sistema de control de versiones).md",
+                "file": "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +87,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
     "Git_Gihub/Git_&_Github_class_002 (Por que un sistema de control de versiones).md",
     "Git_Gihub/Git_&_Github_class_003 (Instalando Git y GitBash en Windows).md",
     "Git_Gihub/Git_&_Github_class_004 (Editores de código, archivos binarios y de texto plano).md",
@@ -94,7 +96,6 @@
     "Git_Gihub/Untitled.md",
     "Git_Gihub/Untitled 1.md",
     "Git_Gihub/Git_&_Github_class_002.md",
-    "Git_Gihub/Git_&_Github_class_001.md",
-    "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md"
+    "Git_Gihub/Git_&_Github_class_001.md"
   ]
 }
