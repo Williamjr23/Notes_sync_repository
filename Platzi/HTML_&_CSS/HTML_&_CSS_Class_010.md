@@ -22,7 +22,10 @@ Ejemplo:
 ```html
 <style>
 	header {
-		bacground-color: <color>;
+		bacground-color: #21C98B;
+		width: 100%;
+		height: 80px;
 	}
 </style>
 ```
+> En este caso solamente el "width:" está establecido con una unidad relativ
