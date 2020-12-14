@@ -46,9 +46,9 @@ Ejemplo:
 		margin: 0; 
 	}
 ```
->Nota: recordar que como buena practica, los valores puestos en 0 no se agrega una medida relativa o absoluta al final, simplemente 0 es un valor nulo.
+> nota: recordar que como buena practica, los valores puestos en 0 no se agrega una medida relativa o absoluta al final, simplemente 0 es un valor nulo.
 
-nota: Puedes agregar propiedades a los hijos de las etiquetas para que solo el hijo dentro de esa etiqueta tenga esas propiedades pero la misma etiqueta en otra parte de la página no se vea afectada
+> nota: Puedes agregar propiedades a los hijos de las etiquetas para que solo el hijo dentro de esa etiqueta tenga esas propiedades pero la misma etiqueta en otra parte de la página no se vea afectada
 Ejemplo:
 ```css
 <style>
@@ -59,6 +59,6 @@ Ejemplo:
 </style>
 ```
 
-nota: Utilizar también el inspector con la página lanzada, para modificar algúnas cosas y ver el resultado, no solo escribir codigo, si no que también siempre es bueno revisarlo desde el inspector.
+> nota: Utilizar también el inspector con la página lanzada, para modificar algúnas cosas y ver el resultado, no solo escribir codigo, si no que también siempre es bueno revisarlo desde el inspector.
 
 Ejercicio practico: Ejercicio_007.html
