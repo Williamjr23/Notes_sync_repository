@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
+                "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
                 "mode": "source"
               }
             }
@@ -67,12 +67,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 149
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
+                "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +104,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Terminal_classes/Untitled 2.md",
     "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
     "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md",
     "Terminal_classes/Untitled 1.md",
@@ -113,7 +113,6 @@
     "Terminal_classes/Untitled 10.md",
     "Terminal_classes/Untitled 9.md",
     "Terminal_classes/Untitled 8.md",
-    "Terminal_classes/Untitled 7.md",
-    "Terminal_classes/Untitled 5.md"
+    "Terminal_classes/Untitled 7.md"
   ]
 }
