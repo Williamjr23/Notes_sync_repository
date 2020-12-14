@@ -11,8 +11,9 @@
 
 ### Unidades de medida relativas:
 * vmax (viewport Maximum)
-* > Viewport Maximum (vmax). This unit is based on the larger dimension of the viewport. If the viewport height is larger than the width, the value of 1vmax will be equal to 1% of viewport height.
-
+> Viewport Maximum (vmax). This unit is based on the larger dimension of the viewport. If the viewport height is larger than the width, the value of 1vmax will be equal to 1% of viewport height.
+* vmin (viewport Maximum)
+> This unit is based on the smaller dimension of the viewport.
 * em (emphemeral unit)
 > It means “emphemeral unit” which is relative to the current font size
 * ch (cap height)
