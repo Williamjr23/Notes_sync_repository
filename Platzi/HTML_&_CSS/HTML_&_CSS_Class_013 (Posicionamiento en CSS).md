@@ -9,7 +9,8 @@ div { position: absolute: right: 0px; }
 ```
 La propiedad **position** tiene 7 valores diferentes: relative, absolute, fixed, sticky, static, initial e inherit. Veremos de qué se tratan:
 
-| propiedad y valor  | Descripción                                             |
-| ------------------ | ------------------------------------------------------- |
-| Position: relative | El elemento se coloca en relación a su posición normal. |
-| Position: absolute | Los elementos con esta posición se ubican en relación al elemento relativo más cercando. Aqu                                                        |
+| propiedad y valor  | Descripción                                                                                                                                                   |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Position: relative | El elemento se coloca en relación a su posición normal.                                                                                                       |
+| Position: absolute | Los elementos con esta posición se ubican en relación al elemento relativo más cercando. Aquí podemos hacer uso de las propiedades top, bottom, left y right. |
+| Position: fixed    | El elemento se ubica en relación con la ventana del navegador y también se ve afectado por las proiedades top,                                                                                                                                                               |
