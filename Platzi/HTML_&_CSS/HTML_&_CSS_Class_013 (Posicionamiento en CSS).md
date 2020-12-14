@@ -7,4 +7,5 @@ En CSS los elementos se posicionan utilizando las propiedades top (superior), bo
 ```CSS
 div { position: absolute: right: 0px; }
 ```
-La propiedad **position** tiene 7 valores diferentes: relative, absolute, fixed, sticky, static, initial e inherit. Veremos de q
+La propiedad **position** tiene 7 valores diferentes: relative, absolute, fixed, sticky, static, initial e inherit. Veremos de qué se tratan:
+
