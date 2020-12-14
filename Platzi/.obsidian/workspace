@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+                "file": "Terminal_classes/Untitled 3.md",
                 "mode": "source"
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+                "file": "Terminal_classes/Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Terminal_classes/Untitled 3.md",
     "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
     "Terminal_classes/Untitled 2.md",
     "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
@@ -112,7 +113,6 @@
     "Terminal_classes/Untitled 6.md",
     "Terminal_classes/Untitled.md",
     "Terminal_classes/Untitled 10.md",
-    "Terminal_classes/Untitled 9.md",
-    "Terminal_classes/Untitled 8.md"
+    "Terminal_classes/Untitled 9.md"
   ]
 }
