@@ -28,4 +28,4 @@ Ejemplo:
 	}
 </style>
 ```
-> En este caso solamente el "width:" está establecido con una unidad relativ
+> En este caso solamente el "width:" está establecido con una unidad relativa, en este caso siendo el porcentaje "%" y así indicamos que se muestre desde donde se muestre el ancho siempre va a llenar el 100% de la página para el header, y que
