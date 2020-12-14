@@ -18,8 +18,9 @@
 3. **RGB** 
 > Donde la R significa Red, G significa Green y B dignifica Blue; por lo que escribimos  rgb (Red,Green,Blue) y cada uno de ellos es un valor de 0 a 255 que describe la intensidad de ese color. Por ejemplo, para denotar el color verde, escribimos: ```rgb(0,255,0) ``` . También a estos valores se les puede agregar una opacidad (transparencia) que va de 0 a 1, por ejemplo: ```rgba(0,255,0,0,5) lo que quiere decir que el color verde lo que queremos con una trasparencia del 5% (0.5).
 
-| Propiedades   | Utilidad                                                                                  |
-| ------------- | ----------------------------------------------------------------------------------------- |
-| border        | Define el tamaño, estilo y color del borde de un elemento. Por ejemplo: ```border: 2px``` |
-| border-radius | Define que tan redondeado quiero mi elemento. Por ejemplo:                                                                                           |
+| Propiedades   | Utilidad                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------- |
+| border        | Define el tamaño, estilo y color del borde de un elemento. Por ejemplo: ```border: 2px``` . |
+| border-radius | Define que tan redondeado quiero mi elemento. Por ejemplo: ```border-radius: 20px; ``` .    |
+|               |                                                                                             |
 	
