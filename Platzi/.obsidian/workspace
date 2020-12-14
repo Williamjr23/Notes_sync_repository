@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
+            "file": "Terminal_classes/Untitled 6.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
+                "file": "Terminal_classes/Untitled 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Terminal_classes/Untitled 6.md",
     "Terminal_classes/Untitled 5.md",
     "Terminal_classes/Untitled 4.md",
     "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
@@ -94,7 +95,6 @@
     "Terminal_classes/Untitled 2.md",
     "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
     "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md",
-    "Terminal_classes/Untitled 1.md",
-    "Terminal_classes/Untitled 6.md"
+    "Terminal_classes/Untitled 1.md"
   ]
 }
