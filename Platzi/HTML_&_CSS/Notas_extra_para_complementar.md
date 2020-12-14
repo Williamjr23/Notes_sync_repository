@@ -10,4 +10,4 @@ nota: css grid es un curso completo por separado de CSS para mejorar en esto as�
 https://flexboxfroggy.com/#es
 
 Página para buscar fuentes nuevas al diseño:
-fonts.google.com
+https://fonts.google.com
