@@ -48,3 +48,5 @@ Ejemplo:
 </style>
 
 ```
+
+nota: Utilizar también el inspector con la página lanzada,
