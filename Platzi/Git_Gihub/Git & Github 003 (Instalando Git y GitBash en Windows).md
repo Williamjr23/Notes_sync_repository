@@ -1,4 +1,4 @@
-# Git & Github 003 (Instalando Git y GitBash en Windows)
+# Instalando Git y GitBash en Windows
 
 ### si tienes ubuntu o devian:
 ```terminal
