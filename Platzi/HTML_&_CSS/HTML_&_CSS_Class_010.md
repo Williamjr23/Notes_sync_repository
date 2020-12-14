@@ -37,3 +37,5 @@ Ejemplo:
 	}
 ```
 >Nota: recordar que como buena practica, los valores puestos en 0 no se agrega una medida relativa o absoluta al final, simplemente 0 es un valor nulo.
+
+nota: Pue
