@@ -1,6 +1,4 @@
-# Modelo de caja, valores relativos y absolutos
-
-### Modelo de caja:
+# Modelo de caja
 
 > Todos los elementos HTML tienen un modelo de caja, y este modelo de caja está compuesto por 4 elementos: 
 
@@ -34,7 +32,7 @@ Ejemplo:
 ```
 margin: 10px 20px 30px 40px;
 ```
->nota: recuerda que el margen por objeto o clase (class) es seteado objecto por objeto y es una propiedad directa de el objeto, así que como lo digimos anteriormente, si tu seteas el margen de tu objeto en 10px, y la página por defecto tiene margen para separar el contenido de los bordes (siempre viene un margen por defecto), este se sumará con el del objeto y suponiendo que este es de 10px también tendrías el borde superior y el borde inferior sumandose a los bordes del objeto y esto no quedaría muy parejo, por eso se menciona que es buena practic
+>nota: recuerda que el margen por objeto o clase (class) es seteado objecto por objeto y es una propiedad directa de el objeto, así que como lo digimos anteriormente, si tu seteas el margen de tu objeto en 10px, y la página por defecto tiene margen para separar el contenido de los bordes (siempre viene un margen por defecto), este se sumará con el del objeto y suponiendo que este es de 10px también tendrías el borde superior y el borde inferior sumandose a los bordes del objeto y esto no quedaría muy parejo, por eso se menciona que es buena practica eliminar estos bordes por defecto y trabajar con los que nosotros querramos dentro de cada objeto o caja
 ### Como evitar que otras capas modifiquen el tamaño del contenido?
 Dentro de nuestra hoja de estilos (CSS) se indíca:
 ```html
