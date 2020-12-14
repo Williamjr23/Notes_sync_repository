@@ -29,7 +29,11 @@ Hay varias formas de cambiar el tamaño de nuestro margin, en primera instancia 
 margin-bottom: 10px;
 ```
 
-O también, se especifican los margenes de cada lado en uno solo, se tiene que tomar en cuenta que esta opción funciona como las manecillas de el reloj y se especificarán tantas como se deseen ya sea 1,3
+O también, se especifican los margenes de cada lado en uno solo, se tiene que tomar en cuenta que esta opción funciona como las manecillas de el reloj y se especificarán tantas como se deseen ya sea 1,2,3 o las 4 (inicia desde el margen de arriba)
+Ejemplo:
+```
+margin: 10px 20px 30px 40px;
+```
 ### Como evitar que otras capas modifiquen el tamaño del contenido?
 Dentro de nuestra hoja de estilos (CSS) se indíca:
 ```html
