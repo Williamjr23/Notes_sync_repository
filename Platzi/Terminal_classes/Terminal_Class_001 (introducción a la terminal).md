@@ -6,9 +6,9 @@
 
 Los comandos se componen de:
 
-- **Nombre** <Nombre de un programa>
-- **Parametros** <información adicional> 
-- **Modificadores** <alteran o es la orden que se va a ejecutar></alteran>
+- **Nombre** ```<Nombre de un programa>```
+- **Parametros** ```<información adicional>``` 
+- **Modificadores** ```<alteran o es la orden que se va a ejecutar></alteran>```
 
 Lista de comandos basicos:
 
