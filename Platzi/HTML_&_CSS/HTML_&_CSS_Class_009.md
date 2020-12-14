@@ -34,6 +34,7 @@ Ejemplo:
 ```
 margin: 10px 20px 30px 40px;
 ```
+>nota: recuerda que el margen por objeto o clase (class) es seteado objecto por objeto y es una propiedad 
 ### Como evitar que otras capas modifiquen el tamaño del contenido?
 Dentro de nuestra hoja de estilos (CSS) se indíca:
 ```html
