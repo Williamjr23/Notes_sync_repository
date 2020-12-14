@@ -17,12 +17,9 @@
 > Todas las capas de la caja se van sumando, digamos que el contenido está a 20px (pixeles) y el padding igual a 20px, entonces tendríamos 40px coloreados o indicados en el navegador ya que se suman los del padding mas los de el contenido y así también con el border.
 ### Como evitar que otras capas modifiquen el tamaño del contenido?
 Dentro de nuestra hoja de estilos (CSS) se indíca:
+```html
+box-sizing: cualquier_opcion_de_abajo; 
 ```
-box-sizing: border-box;
-```
-Esto indica que nuestra caja respete los valores seteados en un principio
-
-La propiedad box-sizing puede ser usada para ajustar el siguiente comportamiento:
 
 content-box es el comportamiento CSS por defecto para el tamaño de la caja (box-sizing). Si se define el ancho de un elemento en 100 pixeles, la caja del contenido del elemento tendrá 100 pixeles de ancho, y el ancho de cualquier borde o relleno ser añadirá al ancho final desplegado.
 border-box le dice al navegador tomar en cuenta para cualquier valor que se especifique de borde o de relleno para el ancho o alto de un elemento. Es decir, si se define un elemento con un ancho de 100 pixeles. Esos 100 pixeles incluíran cualquier borde o relleno que se añadan, y la caja de contenido se encogerá para absorber ese ancho extra. Esto típicamente hace mucho más fácil dimensionar elementos.
