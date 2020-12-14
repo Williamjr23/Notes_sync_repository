@@ -12,4 +12,9 @@
 
 ### Buenas prácticas:
 * Establecer reglas
-* Explicar la 
+> Con el equipo
+* Explicar la estructura base
+> Explicar 
+* Establecer estándares de codificación 
+* Evitar largas hojas de estilo
+* Documentación
