@@ -17,7 +17,7 @@ body {
 	margin: 0;
 }
 ```
->Indicamos que el margen de nuestro body o cuerpo de la página es igual a 0, no es necesario indicar si son pixeles o no, 
+>Indicamos que el margen de nuestro body o cuerpo de la página es igual a 0, no es necesario indicar si son pixeles o no, cuando el valor es 0 esto no es necesario.
 ### Las capas del modelo de caja se suman:
 > Todas las capas de la caja se van sumando, digamos que el contenido está a 20px (pixeles) y el padding igual a 20px, entonces tendríamos 40px coloreados o indicados en el navegador ya que se suman los del padding mas los de el contenido y así también con el border.
 
