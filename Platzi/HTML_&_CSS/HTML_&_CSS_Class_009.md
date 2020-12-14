@@ -28,12 +28,12 @@ Ejemplo:
 margin-bottom: 10px;
 ```
 
-O también, se especifican los margenes de cada lado en uno solo, se tiene que tomar en cuenta que esta opción funciona como las manecillas de el reloj y se especificarán tantas como se deseen ya sea 1,2,3 o las 4 (inicia desde el margen de arriba  y va en sentido de las manecillas del reloj osea: top, rig)
+O también, se especifican los margenes de cada lado en uno solo, se tiene que tomar en cuenta que esta opción funciona como las manecillas de el reloj y se especificarán tantas como se deseen ya sea 1,2,3 o las 4 (inicia desde el margen de arriba  y va en sentido de las manecillas del reloj osea: top, right, bottom, left.)
 Ejemplo:
 ```
 margin: 10px 20px 30px 40px;
 ```
->nota: recuerda que el margen por objeto o clase (class) es seteado objecto por objeto y es una propiedad directa de el objeto, así que como lo digimos anteriormente, si tu seteas el margen de tu objeto en 10px, y la página por defecto tiene margen para separar el contenido de los bordes (siempre viene un margen por defecto), este se sumará con el del objeto y suponiendo que este es de 10px también tendrías el borde superior y el borde inferior sumandose a los bordes del objeto y esto no quedaría muy parejo, por eso se menciona que es buena practica eliminar estos bordes por defecto y trabajar con los que nosotros querramos dentro de cada objeto o caja
+>nota: recuerda que el margen por objeto o clase (class) es seteado objeto por objeto y es una propiedad directa de el objeto mismo, así que como lo digimos anteriormente, si tu seteas el margen de tu objeto en 10px, y la página por defecto tiene margen para separar el contenido de los bordes (siempre viene un margen por defecto), este se sumará con el del objeto y suponiendo que este es de 10px también tendrías el borde superior y el borde inferior sumandose a los bordes del objeto y esto no quedaría muy parejo, por eso se menciona que es buena practica eliminar estos bordes por defecto y trabajar con los que nosotros querramos dentro de cada objeto o caja
 ### Como evitar que otras capas modifiquen el tamaño del contenido?
 Dentro de nuestra hoja de estilos (CSS) se indíca:
 ```html
