@@ -1,1 +1,1 @@
-Herramienta 
+Display flex en CSS guia de uso completo de esta propiedad, (nota: se ve que es importante aprender a usar esto y puede ayudar a que las páginas sean más dinamicas, leer a detalle cuando se quiera implementar o se tenga algo de tiempo libre u.u)
