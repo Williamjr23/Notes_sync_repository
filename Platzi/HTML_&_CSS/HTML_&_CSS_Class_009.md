@@ -3,9 +3,9 @@
 > Todos los elementos HTML tienen un modelo de caja, y este modelo de caja está compuesto por 4 elementos: 
 
 1. Contenido: 
-> Donde se encuentra el contenido  de nuestra caja todo lo que podamos agregar a esta.
+> Donde se encuentra el contenido  de nuestra caja todo lo que podamos agregar a esta. (Tambi)
 2. Padding: 
-> Los paddings siempre nos van a afectar el modelo de caja, eso se tiene que tener siempre presente y esta capa de la caja es la que bordea y separa al contenido del borde.
+> Los paddings siempre nos van a afectar el modelo de caja, eso se tiene que tener siempre presente y esta capa de la caja es la que bordea y separa al contenido del borde.  (Es un relleno al rededor del contenido y también este relleno es transparente por default)
 3. Border
 > Es otra parte de nuestra caja, recubre el padding que a su vez recubre el contenido y como su nombre lo indica, esto es un borde.
 
