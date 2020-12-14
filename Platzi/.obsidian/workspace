@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_012.md",
+            "file": "HTML_&_CSS/Notas_extra_para_complementar.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 638
+    "width": 710
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_012.md",
+                "file": "HTML_&_CSS/Notas_extra_para_complementar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_012.md",
     "HTML_&_CSS/HTML_&_CSS_Class_011.md",
     "HTML_&_CSS/HTML_&_CSS_Class_010.md",
@@ -94,7 +95,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_007.md",
     "HTML_&_CSS/HTML_&_CSS_Class_006.md",
     "HTML_&_CSS/HTML_&_CSS_Class_005.md",
-    "HTML_&_CSS/HTML_&_CSS_Class_004.md",
-    "HTML_&_CSS/HTML_&_CSS_Class_003.md"
+    "HTML_&_CSS/HTML_&_CSS_Class_004.md"
   ]
 }
