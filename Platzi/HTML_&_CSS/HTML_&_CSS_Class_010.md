@@ -19,7 +19,7 @@
 > The half of one "em" the height of the lower-case x of that font
 * rem (The root element's font-size)
 * vmin
-> 
+>  However, if you change the " html" font-size in the CSS you will see that everything else changes relative to it 
 * vw
 * vh
 
