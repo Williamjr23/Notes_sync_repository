@@ -43,10 +43,12 @@ Ejemplo:
 ```css
 <style>
 	header img {
-		
+		width: 200px
+		margin-top: 
 	}
 </style>
-
 ```
 
 nota: Utilizar también el inspector con la página lanzada, para modificar algúnas cosas y ver el resultado, no solo escribir codigo, si no que también siempre es bueno revisarlo desde el inspector.
+
+Ejercicio practico: Ejercicio_007.html
