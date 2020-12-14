@@ -1,4 +1,5 @@
 # Modelo de caja
+Es importante conocer el modelo de c
 
 > Todos los elementos HTML tienen un modelo de caja, y este modelo de caja está compuesto por 4 elementos: 
 
@@ -7,10 +8,10 @@
 2. Padding: 
 > Los paddings siempre nos van a afectar el modelo de caja, eso se tiene que tener siempre presente y esta capa de la caja es la que bordea y separa al contenido del borde.  (Es un relleno al rededor del contenido y también este relleno es transparente por default.)
 3. Border
-> Es otra parte de nuestra caja, recubre el padding que a su vez recubre el contenido y como su nombre lo indica, esto es un borde.
+> Es otra parte de nuestra caja, recubre el padding que a su vez recubre el contenido y como su nombre lo indica, esto es un borde. (Es literalmente el borde de nuestra caja.)
 
 4. Margin
-> Nos funciona para cuando tenemos otros elementos a los lados, las paginas por defecto siempre tienen un margin, y es muy bueno y muy buena practica que nosotros se lo quitemos siempre, para que no se vean afectadas nuestras creaciones en el navegador ya que viven en bordes independientes y como veremos mas adelante, estos se suman y va siendo dificil de controlar a menudo que se van agregando objetos, y esto se hace agregando a nuestro (CSS o style) lo siguiente: (También se puede decir que este es el espacio asignado fuera de nuestra caja)
+> Nos funciona para cuando tenemos otros elementos a los lados, las paginas por defecto siempre tienen un margin, y es muy bueno y muy buena practica que nosotros se lo quitemos siempre, para que no se vean afectadas nuestras creaciones en el navegador ya que viven en bordes independientes y como veremos mas adelante, estos se suman y va siendo dificil de controlar a menudo que se van agregando objetos, y esto se hace agregando a nuestro (CSS o style) lo siguiente: (También se puede decir que este es el espacio asignado fuera de nuestra caja.)
 
 ```html
 body {
