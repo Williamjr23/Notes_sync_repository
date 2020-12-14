@@ -38,4 +38,4 @@ Ejemplo:
 ```
 >Nota: recordar que como buena practica, los valores puestos en 0 no se agrega una medida relativa o absoluta al final, simplemente 0 es un valor nulo.
 
-nota: Pue
+nota: Puedes agregar propiedades a los hijos de las etiquetas para que solo el hijo dentro de esa etiqueta tenga esas propiedades pero la misma etiqueta en otra parte
