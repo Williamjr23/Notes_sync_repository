@@ -1,4 +1,4 @@
-# Terminal class 009  (Permisos sobre archivos sistema octal)
+# Permisos sobre archivos sistema octal
 
 ### sistema de permisos octal:
 Esto se llama notación octal porque los números binarios se convierten a base 8 utilizando los dígitos del 0 al 8:

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminal_classes/Untitled 8.md",
-            "mode": "source"
+            "file": "Terminal_classes/Untitled 9.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Untitled 8.md",
+                "file": "Terminal_classes/Untitled 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Terminal_classes/Untitled 9.md",
     "Terminal_classes/Untitled 8.md",
     "Terminal_classes/Untitled 7.md",
     "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
@@ -94,7 +95,6 @@
     "Terminal_classes/Untitled 4.md",
     "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
     "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
-    "Terminal_classes/Untitled 3.md",
-    "Terminal_classes/Untitled 2.md"
+    "Terminal_classes/Untitled 3.md"
   ]
 }
