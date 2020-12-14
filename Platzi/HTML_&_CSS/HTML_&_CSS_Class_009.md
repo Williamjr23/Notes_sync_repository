@@ -3,11 +3,11 @@
 > Todos los elementos HTML tienen un modelo de caja, y este modelo de caja está compuesto por 4 elementos: 
 
 1. Contenido: 
-> Donde se encuentra el contenido  de nuestra caja todo lo que podamos agregar a esta 
+> Donde se encuentra el contenido  de nuestra caja todo lo que podamos agregar a esta.
 2. Padding: 
-> Los paddings siempre nos van a afectar el modelo de caja, eso se tiene que tener siempre presente y esta capa de la caja es la que bordea y separa al contenido del borde
+> Los paddings siempre nos van a afectar el modelo de caja, eso se tiene que tener siempre presente y esta capa de la caja es la que bordea y separa al contenido del borde.
 3. Border
-> Es otra parte de nuestra caja, recubre el padding que a su vez recubre el contenido y como su nombre lo indica, esto es un borde
+> Es otra parte de nuestra caja, recubre el padding que a su vez recubre el contenido y como su nombre lo indica, esto es un borde.
 
 4. Margin
 > Nos funciona para cuando tenemos otros elementos a los lados, las paginas por defecto siempre tienen un margin, y es muy bueno y muy buena practica que nosotros se lo quitemos siempre, para que no se vean afectadas nuestras creaciones en el navegador ya que viven en bordes independientes y como veremos mas adelante, estos se suman y va siendo dificil de controlar a menudo que se van agregando objetos, y esto se hace agregando a nuestro (CSS o style) lo siguiente:
@@ -52,7 +52,8 @@ Paginas para encontrar colores y agregar a tu página web o programa:
 * https://picular.co/Video
 * http://paletton.com/#uid=1130u0keOll6mtXaCpdizhfoeei
 * https://coolors.co/001514-fbfffe-6b0504-a3320b-e6af2e
-es
+
+Esta ultima te indica donde se pueden utilizar los colores:
 * https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=3F51B5
 
 >nota: en el navegador casi siempre vamos a trabajar por pixeles, solo en algunos casos puntuales se puede trabajar con otras medidas.
