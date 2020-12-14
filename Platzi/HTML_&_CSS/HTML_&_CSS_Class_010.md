@@ -12,6 +12,7 @@
 ### Unidades de medida relativas:
 * vmax (viewport Maximum)
 * > Viewport Maximum (vmax). This unit is based on the larger dimension of the viewport. If the viewport height is larger than the width, the value of 1vmax will be equal to 1% of viewport height.
+
 * em (emphemeral unit)
 > It means “emphemeral unit” which is relative to the current font size
 * ch (cap height)
@@ -20,7 +21,8 @@
 * rem (The root element's font-size)
 * vmin
 >  However, if you change the " html" font-size in the CSS you will see that everything else changes relative to it 
-* vw
+* vw (viewport width)
+>  This unit is based on the width of the viewport. A value of 1vw is equal to 1% of the viewport width
 * vh
 
 En las unidades relativas, el tamaño de nuestro objeto en este caso depende de el dispositivo desde el que se está mostrando
