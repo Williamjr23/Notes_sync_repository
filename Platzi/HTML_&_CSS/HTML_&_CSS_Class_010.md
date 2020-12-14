@@ -24,7 +24,8 @@
 >  However, if you change the " html" font-size in the CSS you will see that everything else changes relative to it 
 * vw (viewport width)
 >  This unit is based on the width of the viewport. A value of 1vw is equal to 1% of the viewport width
-* vh
+* vh (viewport width)
+> This unit is based on the height of the viewport. A value of 1vh is equal to 1% of the viewport height.
 
 En las unidades relativas, el tamaño de nuestro objeto en este caso depende de el dispositivo desde el que se está mostrando
 Ejemplo:
