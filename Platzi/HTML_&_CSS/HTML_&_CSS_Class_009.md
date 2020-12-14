@@ -9,6 +9,7 @@
 2. Padding: 
 > Los paddings siempre nos van a afectar el modelo de caja, eso se tiene que tener siempre presente
 3. Border
+> Es otra parte de nuestra caja, recubre el padding que
 
 4. Margin
 
