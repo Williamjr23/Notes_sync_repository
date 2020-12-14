@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "HTML_&_CSS/HTML_&_CSS_Class_009.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "paginas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,6 +87,7 @@
   },
   "lastOpenFiles": [
     "HTML_&_CSS/HTML_&_CSS_Class_009.md",
+    "HTML_&_CSS/Notas_extra_para_complementar.md",
     "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
     "HTML_&_CSS/HTML_&_CSS_Class_010.md",
     "Git_Gihub/Git_&_Github_class_002 (Por que un sistema de control de versiones).md",
@@ -95,7 +95,6 @@
     "Git_Gihub/Git_&_Github_class_004 (Editores de código, archivos binarios y de texto plano).md",
     "HTML_&_CSS/HTML_&_CSS_Class_005.md",
     "Git_Gihub/Git & Github 003 (Instalando Git y GitBash en Windows).md",
-    "Git_Gihub/Untitled.md",
-    "Git_Gihub/Untitled 1.md"
+    "Git_Gihub/Untitled.md"
   ]
 }

@@ -11,7 +11,7 @@ Es importante conocer el modelo de caja por que así sabemos como y de que forma
 > Es otra parte de nuestra caja, recubre el padding que a su vez recubre el contenido y como su nombre lo indica, esto es un borde. (Es literalmente el borde de nuestra caja.)
 
 4. Margin
-> Nos funciona para cuando tenemos otros elementos a los lados, las paginas por defecto siempre tienen un margin, y es muy bueno y muy buena practica que nosotros se lo quitemos siempre, para que no se vean afectadas nuestras creaciones en el navegador ya que viven en bordes independientes y como veremos mas adelante, estos se suman y va siendo dificil de controlar a menudo que se van agregando objetos, y esto se hace agregando a nuestro (CSS o style) lo siguiente: (También se puede decir que este es el espacio asignado fuera de nuestra caja.)
+> Nos funciona para cuando tenemos otros elementos a los lados, las páginas por defecto siempre tienen un margin, y es muy bueno y muy buena practica que nosotros se lo quitemos siempre, para que no se vean afectadas nuestras creaciones en el navegador ya que viven en bordes independientes y como veremos mas adelante, estos se suman y va siendo dificil de controlar a menudo que se van agregando objetos, y esto se hace agregando a nuestro (CSS o style) lo siguiente: (También se puede decir que este es el espacio asignado fuera de nuestra caja.)
 
 ```html
 body {
@@ -49,7 +49,7 @@ box-sizing: border-box;
 ```
 > "border-box" le dice al navegador tomar en cuenta para cualquier valor que se especifique de borde o de relleno para el ancho o alto de un elemento. Es decir, si se define un elemento con un ancho de 100 pixeles. Esos 100 pixeles incluíran cualquier borde o relleno que se añadan, y la caja de contenido se encogerá para absorber ese ancho extra. Esto típicamente hace mucho más fácil dimensionar elementos.
 
-Paginas para encontrar colores y agregar a tu página web o programa:
+Páginas para encontrar colores y agregar a tu página web o programa:
 * https://picular.co/Video
 * http://paletton.com/#uid=1130u0keOll6mtXaCpdizhfoeei
 * https://coolors.co/001514-fbfffe-6b0504-a3320b-e6af2e
