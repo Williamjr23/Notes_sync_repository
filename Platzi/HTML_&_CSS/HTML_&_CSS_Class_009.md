@@ -1,5 +1,5 @@
 # Modelo de caja
-Es importante conocer el modelo de c
+Es importante conocer el modelo de caja por que así sabemos como y de que forma pueden ser nuestros elementos de la página alterados ya sea por valores internos del elemento, o por valores externos a este que interactuan indirectamente con sus margenes.
 
 > Todos los elementos HTML tienen un modelo de caja, y este modelo de caja está compuesto por 4 elementos: 
 
