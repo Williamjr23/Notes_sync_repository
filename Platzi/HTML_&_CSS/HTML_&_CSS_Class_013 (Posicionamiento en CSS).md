@@ -9,3 +9,5 @@ div { position: absolute: right: 0px; }
 ```
 La propiedad **position** tiene 7 valores diferentes: relative, absolute, fixed, sticky, static, initial e inherit. Veremos de qué se tratan:
 
+| propiedad y valor | Descripción
+| ----------------- |
