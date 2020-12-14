@@ -10,8 +10,9 @@
 > picas (1pc = 12 pt) Try it 
 
 ### Unidades de medida relativas:
-* vmax
-* em
+* vmax (viewport Maximum)
+* > Viewport Maximum (vmax). This unit is based on the larger dimension of the viewport. If the viewport height is larger than the width, the value of 1vmax will be equal to 1% of viewport height.
+* em 
 * ch
 * ex
 * rem
