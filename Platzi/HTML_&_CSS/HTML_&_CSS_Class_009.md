@@ -66,3 +66,5 @@ Notas extra:
 >Es bueno aprender a hacerlo pero agregando este archivo nos facilita todo ese proceso.
 https://necolas.github.io/normalize.css/
 Al Agregar el link en nuestro index o archivo.html debe ir primero que el link de la hoja de estilos principal para que no se vea afectado lo que estemos haciendo o definiendo.
+
+Ejercicio practico: Ejercicio_006.html
