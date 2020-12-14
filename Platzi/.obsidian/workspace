@@ -4,25 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0f593947becebd8c",
+        "id": "12a52d558534c90b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "0f942a2f2276b04c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
-            "mode": "preview"
           }
         }
       }
@@ -64,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 709,
-    "collapsed": true
+    "width": 709
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
     "HTML_&_CSS/Untitled.md",
+    "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
     "Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
