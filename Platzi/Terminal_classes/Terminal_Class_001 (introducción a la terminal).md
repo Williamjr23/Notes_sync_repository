@@ -19,4 +19,4 @@ man
 ```terminal
 history 
 ```
->se utiliza ver los comandos utlizados anteriormente
+>se utiliza para ver los comandos utlizados anteriormente
