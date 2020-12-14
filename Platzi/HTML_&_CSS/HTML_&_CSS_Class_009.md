@@ -16,7 +16,10 @@
 ### Las capas del modelo de caja se suman:
 > Todas las capas de la caja se van sumando, digamos que el contenido está a 20px (pixeles) y el padding igual a 20px, entonces tendríamos 40px coloreados o indicados en el navegador ya que se suman los del padding mas los de el contenido y así también con el border.
 ### Como evitar que otras capas modifiquen el tamaño del contenido?
-> 
+Dentro de nuestra hoja de estilos (CSS) se indíca:
+```
+box-sizing: border-box;
+```
 
 
 Paginas para encontrar colores y agregar a tu página web o programa:
