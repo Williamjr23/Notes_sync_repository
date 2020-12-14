@@ -49,4 +49,4 @@ Ejemplo:
 
 ```
 
-nota: Utilizar también el inspector con la página lanzada,
+nota: Utilizar también el inspector con la página lanzada, para modificar algúnas cosas y ver el resultado, no solo escribir codigo, si no que también siempre es bueno revisarlo desde el inspector.
