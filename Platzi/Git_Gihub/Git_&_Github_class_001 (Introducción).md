@@ -1,4 +1,4 @@
-# Git & Github Class 001 (Introducción)
+# Introducción
 
 ### Que es git?
 

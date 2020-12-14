@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git_Gihub/Git_&_Github_class_001.md",
-            "mode": "source"
+            "file": "Git_Gihub/Untitled 1.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git_Gihub/Git_&_Github_class_001.md",
+                "file": "Git_Gihub/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Git_Gihub/Git_&_Github_class_001.md",
-    "Git_Gihub/Git_&_Github_class_002.md",
     "Git_Gihub/Untitled 1.md",
+    "Git_Gihub/Git_&_Github_class_002.md",
+    "Git_Gihub/Git_&_Github_class_001.md",
     "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
     "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md",
     "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
