@@ -16,9 +16,10 @@
 > It means “emphemeral unit” which is relative to the current font size
 * ch (cap height)
 * ex (x-height)
-> The half of one "em"
-* rem
+> The half of one "em" the height of the lower-case x of that font
+* rem (The root element's font-size)
 * vmin
+> 
 * vw
 * vh
 
