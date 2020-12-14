@@ -20,4 +20,5 @@
 * Evitar largas hojas de estilo
 > Para cumplir con lo de el codigo mantenible y escalable
 * Documentación
-> Se basa en ciertas cosas puntuales que pueden ser complejas para poderlas c
+> Se basa en ciertas cosas puntuales que pueden ser complejas para poderlas comprender en un futuro 
+
