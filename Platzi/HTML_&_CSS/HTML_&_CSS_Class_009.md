@@ -52,6 +52,8 @@ Paginas para encontrar colores y agregar a tu página web o programa:
 * https://picular.co/Video
 * http://paletton.com/#uid=1130u0keOll6mtXaCpdizhfoeei
 * https://coolors.co/001514-fbfffe-6b0504-a3320b-e6af2e
+es
+* https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=3F51B5
 
 >nota: en el navegador casi siempre vamos a trabajar por pixeles, solo en algunos casos puntuales se puede trabajar con otras medidas.
 
