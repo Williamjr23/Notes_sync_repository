@@ -4,7 +4,7 @@ Todos los elementos en CSS son cuadrados o rectángulos y aparte de eso, estos e
 
 | Tipos de display | Descripción |
 | ---------------- | ----------- |
-| Block            | Quiero que pensemos en este display como el flujo que tenemos cada vez que escribimos de izquierda a derecha, pero cuandose nos acaba el espacio horizontalmente, seguimos abajo. Este es el flujo de bloque             |
+| Block            | Quiero que pensemos en este display como el flujo que tenemos cada vez que escribimos de izquierda a derecha, pero cuandose nos acaba el espacio horizontalmente, seguimos abajo. Este es exactamente el que obedece display block, los elementos se visualizan uno debajo d            |
 |                  |             |
 |                  |             |
 |                  |             |
