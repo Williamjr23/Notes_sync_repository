@@ -9,9 +9,11 @@
 2. Padding: 
 > Los paddings siempre nos van a afectar el modelo de caja, eso se tiene que tener siempre presente
 3. Border
-> Es otra parte de nuestra caja, recubre el padding que
+> Es otra parte de nuestra caja, recubre el padding que a su vez recubre el contenido y como su nombre lo indica, esto es un borde
 
 4. Margin
+
+>nota: todas las capas de la caja se van sumando, digamos que el contenido e
 
 Paginas para encontrar colores y agregar a tu página web o programa:
 * https://picular.co/Video
