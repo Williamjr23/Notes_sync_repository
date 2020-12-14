@@ -23,11 +23,12 @@ body {
 
 ### Cambiar el tamaño de nuestro margin:
 Hay varias formas de cambiar el tamaño de nuestro margin, en primera instancia se puede definir ya sea con: (bottom, top, left, right)
+Ejemplo:
 ```
 margin-bottom: 10px;
 ```
 
-O también, se especifican los margenes de cada lado en uno solo, se tiene que tomar en cuenta que esta opción funciona como las manecillas de el reloj y se especificarán tantas como se deseen ya sea 1,2,3 o las 4 (inicia desde el margen de arriba)
+O también, se especifican los margenes de cada lado en uno solo, se tiene que tomar en cuenta que esta opción funciona como las manecillas de el reloj y se especificarán tantas como se deseen ya sea 1,2,3 o las 4 (inicia desde el margen de arriba  y va en sentido de las manecillas del reloj osea: top, rig)
 Ejemplo:
 ```
 margin: 10px 20px 30px 40px;
