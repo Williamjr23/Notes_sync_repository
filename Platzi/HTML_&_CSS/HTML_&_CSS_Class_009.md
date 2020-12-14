@@ -12,9 +12,11 @@
 > Es otra parte de nuestra caja, recubre el padding que a su vez recubre el contenido y como su nombre lo indica, esto es un borde
 
 4. Margin
-> Nos funciona para cuando tenemos otros elementos a los lados, las paginas por defecto siempre tienen un margin, y es muy bueno y muy buena practica que nosotros se lo quitemos siempre, para que no se vean afectadas nuestras creaciones en el navegador y esto se hace agregando a nuestro (CSS o style) lo s:
-```
-
+> Nos funciona para cuando tenemos otros elementos a los lados, las paginas por defecto siempre tienen un margin, y es muy bueno y muy buena practica que nosotros se lo quitemos siempre, para que no se vean afectadas nuestras creaciones en el navegador y esto se hace agregando a nuestro (CSS o style) lo siguiente:
+```html
+body {
+	margin: 0;
+}
 ```
 
 ### Las capas del modelo de caja se suman:
