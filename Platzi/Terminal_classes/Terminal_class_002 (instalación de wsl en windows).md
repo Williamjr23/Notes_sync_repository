@@ -14,9 +14,9 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 Y reinicia el ordenador
 
-Luego en la microsoft store busca tu versión favorita de linux #ubuntu 20.4 lts
+Luego en la microsoft store busca tu versión favorita de linux "ubuntu 20.4" lts
 
-Al lanzar tu terminal ingresa tu nombre de usuario #puede ser distinto al de windows
+Al lanzar tu terminal ingresa tu nombre de usuario puede ser distinto al de windows
 
 Y crea tu contraseña
 

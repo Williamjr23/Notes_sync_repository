@@ -10,6 +10,7 @@
           {
             "id": "9cca936f4ad0dbdf",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -21,7 +22,6 @@
           {
             "id": "3a862ae98f3aa4d9",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
