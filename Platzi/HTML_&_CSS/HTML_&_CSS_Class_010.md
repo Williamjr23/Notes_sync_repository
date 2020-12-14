@@ -61,6 +61,7 @@ Ejemplo:
 
 > nota: Utilizar también el inspector con la página lanzada, para modificar algúnas cosas y ver el resultado, no solo escribir codigo, si no que también siempre es bueno revisarlo desde el inspector.
 
-P
+Pagina para agregar degradados o gradiantes a nuestros colores de la página u.u:
+* https://cssgradient.io/gradient-backgrounds/
 
 Ejercicio practico: Ejercicio_007.html
