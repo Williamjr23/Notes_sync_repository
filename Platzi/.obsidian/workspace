@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminal_classes/Notas_extra (para solucionar problemas en la terminal).md",
-            "mode": "source"
+            "file": "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 190
+    "width": 638
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Notas_extra (para solucionar problemas en la terminal).md",
+                "file": "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Terminal_classes/Untitled 10.md",
-    "Terminal_classes/Untitled 9.md",
-    "Terminal_classes/Untitled 8.md",
-    "Terminal_classes/Untitled 7.md",
-    "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
-    "Terminal_classes/Untitled 6.md",
-    "Terminal_classes/Untitled 5.md",
-    "Terminal_classes/Untitled 4.md",
+    "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
+    "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md",
     "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
-    "Terminal_classes/Terminal_Class_003 (Organización de archivos).md"
+    "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
+    "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
+    "Terminal_classes/Terminal_Class_009  (Permisos sobre archivos sistema octal).md",
+    "Terminal_classes/Terminal_Class_008 (Administración de procesos en background y foreground).md",
+    "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
+    "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
+    "Terminal_classes/Untitled 10.md"
   ]
 }
