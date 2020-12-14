@@ -54,3 +54,11 @@ Paginas para encontrar colores y agregar a tu página web o programa:
 * https://coolors.co/001514-fbfffe-6b0504-a3320b-e6af2e
 
 >nota: en el navegador casi siempre vamos a trabajar por pixeles, solo en algunos casos puntuales se puede trabajar con otras medidas.
+
+Notas extra:
+
+>Una buena practica es normalizar nuestro proyecto (eliminar los márgenes que vienen por defecto, entre otras cosas)
+
+>Es bueno aprender a hacerlo pero agregando este archivo nos facilita todo ese proceso.
+https://necolas.github.io/normalize.css/
+Al Agregar el link en nuestro index o archivo.html debe ir primero que el link de la hoja de estilos principal para que no se vea afectado lo que estemos haciendo o definiendo.
