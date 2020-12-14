@@ -16,5 +16,5 @@
 > Donde blanco se define como ```#FFFFFF``` y negro como ```#000000``` . 
 
 3. **RGB** 
-> Donde la R significa Red, G significa Green y B dignifica Blue; por lo que escribimos  rgb (Red,Green,Blue) y cada uno de ellos es un valor de 0 a 255
+> Donde la R significa Red, G significa Green y B dignifica Blue; por lo que escribimos  rgb (Red,Green,Blue) y cada uno de ellos es un valor de 0 a 255 que describe la intensidad de ese color. Por ejemplo, para denotar el color verde, escribimos: ```rgb(0,255,0)
 	
