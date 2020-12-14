@@ -5,3 +5,5 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 http://css-tricks.com/snippets/css/complete-guide-grid/
 
 nota: css grid es un curso completo por separado de CSS para mejorar en esto así que parece ser bastante prometedor u.u 
+
+* Un juego dinamico para
