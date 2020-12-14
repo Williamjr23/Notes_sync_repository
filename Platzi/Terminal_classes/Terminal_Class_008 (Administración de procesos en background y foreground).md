@@ -1,4 +1,4 @@
-# Terminal class 008 (Administración de procesos en background y foreground)
+# Administración de procesos en background y foreground
 
 ### tipos de proccesos 	
 
