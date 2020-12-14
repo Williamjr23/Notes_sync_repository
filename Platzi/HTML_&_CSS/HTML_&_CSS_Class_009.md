@@ -13,7 +13,7 @@
 
 4. Margin
 
->nota: todas las capas de la caja se van sumando, digamos que el contenido e
+>nota: todas las capas de la caja se van sumando, digamos que el contenido está a 20px (pixeles) y el padding igual a 20px, entonces tendríamos 40px coloreados o indicados en el navegador ya que se suman los del padding mas los de el contenido y así también con el border
 
 Paginas para encontrar colores y agregar a tu página web o programa:
 * https://picular.co/Video
