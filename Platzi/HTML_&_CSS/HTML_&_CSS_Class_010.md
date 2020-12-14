@@ -18,3 +18,11 @@
 * vh
 
 En las unidades relativas, el tamaño de nuestro objeto en este caso depende de el dispositivo desde el que se está mostrando
+Ejemplo:
+```html
+<style>
+	header {
+		bacground-color: <color>;
+	}
+</style>
+```
