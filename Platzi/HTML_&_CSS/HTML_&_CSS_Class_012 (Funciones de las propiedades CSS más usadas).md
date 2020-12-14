@@ -9,5 +9,6 @@
  ### Color 
  > Define el color de nuestros textos. Estos colores los podemos escribir de 3 formas en CSS: 
  
-1.  *Nombres de los colores:  Por ejemplo: black, red, green.
+1.  **Nombres de los colores*
+> Por ejemplo: black, red, green.
 	
