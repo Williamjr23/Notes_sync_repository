@@ -22,7 +22,7 @@ body {
 > Todas las capas de la caja se van sumando, digamos que el contenido está a 20px (pixeles) y el padding igual a 20px, entonces tendríamos 40px coloreados o indicados en el navegador ya que se suman los del padding mas los de el contenido y así también con el border.
 
 ### Cambiar el tamaño de nuestro margin:
-Hay varias formas de cambiar el tamaño de nuestro margin, en primera instancia se puede definir ya sea con: (bottom,top,left,right)
+Hay varias formas de cambiar el tamaño de nuestro margin, en primera instancia se puede definir ya sea con: (bottom, top, left, right)
 ```
 margin-bottom: 10px;
 ```
