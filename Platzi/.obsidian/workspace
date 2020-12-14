@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_009.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grep",
+                "query": "paginas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_009.md",
     "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_010.md",
     "Git_Gihub/Git_&_Github_class_002 (Por que un sistema de control de versiones).md",
     "Git_Gihub/Git_&_Github_class_003 (Instalando Git y GitBash en Windows).md",
     "Git_Gihub/Git_&_Github_class_004 (Editores de código, archivos binarios y de texto plano).md",
     "HTML_&_CSS/HTML_&_CSS_Class_005.md",
     "Git_Gihub/Git & Github 003 (Instalando Git y GitBash en Windows).md",
     "Git_Gihub/Untitled.md",
-    "Git_Gihub/Untitled 1.md",
-    "Git_Gihub/Git_&_Github_class_002.md",
-    "Git_Gihub/Git_&_Github_class_001.md"
+    "Git_Gihub/Untitled 1.md"
   ]
 }
