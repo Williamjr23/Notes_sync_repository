@@ -14,7 +14,10 @@
 * Establecer reglas
 > Con el equipo
 * Explicar la estructura base
-> Explicar 
+> Explicar como funciona de base el proyecto
 * Establecer estándares de codificación 
+> Definir los estandares y no romper con esas reglas
 * Evitar largas hojas de estilo
+> Para cumplir con lo de el codigo mantenible y escalable
 * Documentación
+> Se basa en ciertas cosas puntuales que pueden ser complejas para poderlas c
