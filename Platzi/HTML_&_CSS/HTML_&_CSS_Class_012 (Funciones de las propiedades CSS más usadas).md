@@ -6,5 +6,8 @@
 | background       | Puede definir el color de fondo o la url de fondo de un elemento. Por ejemplo: ```background: url(';puppy.png';);``` . |
 | background-color | Define el color de fondo de un elemento. Por ejemplo: ```bacground-color: red;``` .                                    |
  
- ### Color
+ ### Color 
+ > Define el color de nuestros textos. Estos colores los podemos escribir de 3 formas en CSS: 
+ 
+1.  *Nombres de los colores:  Por ejemplo: black, red, green.
 	
