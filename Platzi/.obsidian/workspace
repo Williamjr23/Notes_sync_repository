@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "88036303c3409eac",
+        "id": "37d321bf1d55a64d",
         "type": "split",
         "children": [
           {
@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "3a862ae98f3aa4d9",
+            "id": "a40d7ae4a53076d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
-                "mode": "preview"
+                "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+                "mode": "source"
               }
             }
           }
@@ -104,6 +104,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
     "Terminal_classes/Untitled 2.md",
     "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
     "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md",
@@ -112,7 +113,6 @@
     "Terminal_classes/Untitled.md",
     "Terminal_classes/Untitled 10.md",
     "Terminal_classes/Untitled 9.md",
-    "Terminal_classes/Untitled 8.md",
-    "Terminal_classes/Untitled 7.md"
+    "Terminal_classes/Untitled 8.md"
   ]
 }
