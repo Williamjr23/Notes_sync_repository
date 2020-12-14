@@ -12,8 +12,8 @@ Syntax
 grep <texto a buscar> <en que archivo se va a buscar.extencion del archivo>
 ```
 Ejemplo:
-```
-grep Hola HolaMundo.txt
+```terminal
+grep Hola HolaMundo.txt 
 ```
 >Función:
 >
@@ -24,7 +24,7 @@ grep Hola HolaMundo.txt
 >
 
 Ejemplo:
-```
+```terminal
 grep -i hola HolaMundo.txt 
 ```
 >Función:
@@ -35,7 +35,7 @@ grep -i hola HolaMundo.txt
 >```
 
 Ejemplo:
-```
+```terminal 
 grep -i "mundo$" HolaMundo.txt
 ```
 
