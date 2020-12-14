@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "37d321bf1d55a64d",
+        "id": "f015d7a0ad06722d",
         "type": "split",
         "children": [
           {
             "id": "9cca936f4ad0dbdf",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal_classes/Untitled 3.md",
+                "file": "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "a40d7ae4a53076d8",
+            "id": "76bd70bc92e899a4",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+                "file": "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
                 "mode": "preview"
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Untitled 3.md",
+                "file": "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Terminal_classes/Untitled 3.md",
+    "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
     "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+    "Terminal_classes/Untitled 3.md",
     "Terminal_classes/Untitled 2.md",
     "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
     "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md",
     "Terminal_classes/Untitled 1.md",
     "Terminal_classes/Untitled 6.md",
     "Terminal_classes/Untitled.md",
-    "Terminal_classes/Untitled 10.md",
-    "Terminal_classes/Untitled 9.md"
+    "Terminal_classes/Untitled 10.md"
   ]
 }
