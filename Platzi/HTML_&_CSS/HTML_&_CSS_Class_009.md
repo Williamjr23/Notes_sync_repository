@@ -35,13 +35,14 @@ margin: 10px 20px 30px 40px;
 ```
 >nota: recuerda que el margen por objeto o clase (class) es seteado objeto por objeto y es una propiedad directa de el objeto mismo, así que como lo digimos anteriormente, si tu seteas el margen de tu objeto en 10px, y la página por defecto tiene margen para separar el contenido de los bordes (siempre viene un margen por defecto), este se sumará con el del objeto y suponiendo que este es de 10px también tendrías el borde superior y el borde lateral sumandose a los bordes del objeto adyaciente, esto no quedaría muy parejo y por eso se menciona que es buena practica eliminar estos bordes por defecto y trabajar con los que nosotros querramos dentro de cada objeto o caja.
 
-### Como evitar que otras capas modifiquen el tamaño del contenido?
-Dentro de nuestra hoja de estilos (CSS) se indíca:
+### Modificar el comportamiento del contenido de nuestra caja:
+Dentro de nuestra hoja de estilos (CSS) se indíca ya sea:
 ```html
 box-sizing: content-box;
 ```
 > "content-box " es el comportamiento CSS por defecto para el tamaño de la caja (box-sizing). Si se define el ancho de un elemento en 100 pixeles, la caja del contenido del elemento tendrá 100 pixeles de ancho, y el ancho de cualquier borde o relleno ser añadirá al ancho final desplegado.
 
+O también:
 ```html
 box-sizing: border-box; 
 ```
