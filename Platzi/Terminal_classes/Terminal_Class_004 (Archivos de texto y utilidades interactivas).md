@@ -1,4 +1,4 @@
-# Terminal class 004 (Archivos de texto y utilidades interactivas)
+# Archivos de texto y utilidades interactivas
 
 Archivos binarios
 - Programas ejecutables
