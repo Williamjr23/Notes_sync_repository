@@ -1,4 +1,4 @@
-# Git & Github class 002 (Por que usar un sistema de control de varsiones como Git?)
+# Por que usar un sistema de control de varsiones como Git?
 
 ### Por que un sistema de control de versiones?
 Por que nos permite mantener el control de los cambios que hacemos en nuestros archivos y trabajar en conjunto con otras personas y **Git** es uno de los sistemas de control de versiones mas famosos creado por linux foundation
