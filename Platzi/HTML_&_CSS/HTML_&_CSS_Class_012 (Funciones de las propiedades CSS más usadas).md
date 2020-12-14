@@ -12,5 +12,8 @@
 1.  **Nombres de los colores*
 > Por ejemplo: black, red, green.
 
-2. **Sistema hexadecimal** : Donde blanco se define como #FFFFFF y negro como #000000. 
+2. **Sistema hexadecimal** 
+> Donde blanco se define como ```#FFFFFF``` y negro como ```#000000``` . 
+
+3. **RGB** : Donde
 	
