@@ -11,5 +11,5 @@
 4. ** ITCSS**  (Triangulo invertido de CSS)
 > Poder dividir todos nuestras partes de css para que no se modifiquen entre si
 
-5. ** Atomic Design (Diseño atómico)
-> Lo separó en 
+5. ** Atomic Design** (Diseño atómico)
+> Lo separó en Átomos, Moléculas, Organismos... etc...
