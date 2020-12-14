@@ -13,3 +13,6 @@
 
 4. Margin
 
+* Paginas para encontrar colores y agregar a tu página web o programa:
+* https://picular.co/Video
+* http://paletton.com/#uid=1130u0keOll6mtXaCpdizhfoeei
