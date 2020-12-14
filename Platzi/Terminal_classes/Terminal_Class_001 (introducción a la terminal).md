@@ -12,12 +12,11 @@ Los comandos se componen de:
 
 Lista de comandos basicos:
 
-```linux
+```terminal 
 man
 ```
->se utiliza para ver informacion detallada
-```linux
-history
+>se utiliza para ver informacion detallada (manual)
+```terminal
+history 
 ```
->ver los comandos utlizados anteriormente
-```
+>se utiliza ver los comandos utlizados anteriormente
