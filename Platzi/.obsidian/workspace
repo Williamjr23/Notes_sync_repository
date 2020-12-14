@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1979825a8bfd32e4",
+        "id": "0f593947becebd8c",
         "type": "leaf",
-        "dimension": 51.72043010752688,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d93bf6824ef737b8",
-        "type": "leaf",
-        "dimension": 48.27956989247312,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/Untitled.md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
             "mode": "source"
           }
         }
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/Untitled.md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
