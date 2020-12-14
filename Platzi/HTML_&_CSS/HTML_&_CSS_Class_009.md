@@ -20,7 +20,7 @@ Dentro de nuestra hoja de estilos (CSS) se indíca:
 ```
 box-sizing: border-box;
 ```
-Para que el tamaño de nuestra caja, no se vea 
+Esto indica que nuestra caja respete los valores seteados en un principio 
 
 Paginas para encontrar colores y agregar a tu página web o programa:
 * https://picular.co/Video
