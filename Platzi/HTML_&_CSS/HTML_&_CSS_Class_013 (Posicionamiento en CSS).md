@@ -19,4 +19,4 @@ La propiedad **position** tiene 7 valores diferentes: relative, absolute, fixed,
 | Position: initial   | Ubica el elemento en la posición que tiene de forma predeterminada.                                                                                                                          |
 | Position: inherital | Como su nombre lo indica, este valor hereda esta propiedad de su elemento padre                                                                                                              |
 
-
+Página para entender mejor el posicionamiento en CSS: https://medium.com/@jacobgreenaway12/taming-the-css-beast-master-positioning-5882bad14458
