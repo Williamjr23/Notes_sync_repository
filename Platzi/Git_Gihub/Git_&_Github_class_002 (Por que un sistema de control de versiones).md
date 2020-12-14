@@ -23,31 +23,31 @@ Por que nos permite mantener el control de los cambios que hacemos en nuestros a
 >Envía los ultimos cambios del archivo a la base del sistema de control de versiones
 
 >**Añade archivos que se hallan cambiado en la carpeta:**
->```
->$ git add .
+>```git terminal
+>$ git add . 
 >```
 >Toma archivos que hallan cambiado en la carpeta en la que te encuentres
 
 >**Comenta los cambios y los guarda**
->```
->$ git commit -m "Cambios a v1"
+>```git terminal
+>$ git commit -m "Cambios a v1" 
 >```
 >Guarda el comentario de que se hicieron cambios a la versión 1
 
 >**Ver el estatus de tu git**
->```
->$ git status
+>```git terminal
+>$ git status 
 >```
 >Ver el estatus de tu base de datos (si haces un cambio y no lo haz añadido aquí va a salir)
 
 >**Muestra los cambios**
->```
->$ git show
+>```git terminal
+>$ git show 
 >```
 >Todos los cambios historicos hechos y quien los hizo
 
 >**Historial de un archivo**
->```
->$ git log biografía.txt
+>```git terminal
+>$ git log biografía.txt 
 >```
 >Ver la historia entera de un archivo
