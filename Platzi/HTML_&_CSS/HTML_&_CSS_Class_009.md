@@ -7,7 +7,7 @@
 1. Contenido: 
 > Donde se encuentra el contenido  de nuestra caja todo lo que podamos agregar a esta 
 2. Padding: 
-
+> Los paddings siempre nos van a afectar el modelo de caja, eso se tiene que tener siempre presente
 3. Border
 
 4. Margin
