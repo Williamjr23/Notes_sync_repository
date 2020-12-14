@@ -1,4 +1,4 @@
-# Terminal class 007 (Procesamiento de datos)
+# Procesamiento de datos
 
 ## Flujos estandar:
 
