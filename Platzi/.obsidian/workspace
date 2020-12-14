@@ -4,22 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "dfd223975529b748",
-        "type": "leaf",
-        "dimension": 51.7948717948718,
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_009.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "9cca936f4ad0dbdf",
         "type": "leaf",
-        "dimension": 48.205128205128204,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
