@@ -89,5 +89,5 @@ Ejemplo:
 > Lo separó en Átomos, Moléculas, Organismos, para hacer templates y páginas.
 
 Dejo aquí las siguientes páginas para leer a cerca de estas tecnoloías respectivamene:
-
+* [oocss](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 * [atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
