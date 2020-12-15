@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/Notas_extra_para_complementar.md",
-            "mode": "source"
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
+            "mode": "preview"
           }
         }
       },
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/Notas_extra_para_complementar.md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +97,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
     "HTML_&_CSS/Notas_extra_para_complementar.md",
     "Terminal_classes/Notas_extra (para solucionar problemas en la terminal).md",
     "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
     "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
     "HTML_&_CSS/HTML_&_CSS_Class_010 (Valores relativos y absolutos).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
     "HTML_&_CSS/Untitled.md"
