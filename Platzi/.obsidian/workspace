@@ -6,6 +6,7 @@
       {
         "id": "12a52d558534c90b",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "178c29acc4db4ea2",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -64,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 676,
-    "collapsed": true
+    "width": 676
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -99,6 +98,7 @@
   },
   "lastOpenFiles": [
     "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
+    "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_010 (Valores relativos y absolutos).md",
     "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
@@ -106,7 +106,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
     "HTML_&_CSS/Untitled.md",
     "Untitled.md",
-    "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md"
   ]
 }

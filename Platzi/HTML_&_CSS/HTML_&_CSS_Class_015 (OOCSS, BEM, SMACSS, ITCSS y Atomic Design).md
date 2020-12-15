@@ -94,4 +94,3 @@ Dejo aquí las siguientes páginas para leer a cerca de estas tecnoloías respec
 * [SMACSS](http://smacss.com)
 * [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 * [atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
-* 
