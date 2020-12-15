@@ -39,6 +39,10 @@ Ejemplo:
 
 2. **BEM** (Block Element Modifire)
 > separa los bloques, los elementos y modificadores
+```
+```
+
+>header es el bloque, button es el elemento y red es el modficador
 
 3. ** SMACSS** 
 
