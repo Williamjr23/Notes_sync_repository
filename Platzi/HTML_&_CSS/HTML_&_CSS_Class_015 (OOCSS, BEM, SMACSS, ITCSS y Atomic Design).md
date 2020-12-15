@@ -65,7 +65,7 @@ Ejemplo:
 	>1. Base
 	>>Componentes base, elementos a utilizar en toda la app, como los botones
 	>2. Layout
-	>>
+	>>Elementos que se utilizan en la página una sola vez como el hader o e footer
 	>3. Module
 	>>
 	>4. State
