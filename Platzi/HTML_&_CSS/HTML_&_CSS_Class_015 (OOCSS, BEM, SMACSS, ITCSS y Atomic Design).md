@@ -61,7 +61,7 @@ Ejemplo:
 >En este caso: "header es el bloque, button es el elemento y red" es el modficador.
 
 3. ** SMACSS** (Arquitectura de CSS escalabl y modular) 
-> Se divide en 5 Pasos
+> Se divide en 5 Pasos:
 	>1. Base
 	>>Componentes base, elementos a utilizar en toda la app, como los botones
 	>2. Layout
@@ -74,7 +74,7 @@ Ejemplo:
 	>> No todas las applicaciones tienen temas, pero la idea es que facilite la forma de cambiar de tema o de trabajar con estos
 
 4. ** ITCSS**  (Triangulo invertido de CSS)
-> Poder dividir todos nuestras partes de css para que no se modifiquen entre si
+> Poder dividir todos los archivosde nuetro CSS en ciertas partes para que no se combinen entre si y el orden es
 
 5. ** Atomic Design** (Diseño atómico)
 > Lo separó en Átomos, Moléculas, Organismos... etc...
