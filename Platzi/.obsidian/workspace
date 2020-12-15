@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_004 (La importancia del código semántico).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_005 (Debugging y servicio de validación de etiquetas).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_007 (conceptos iniciales de css).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_010 (Valores relativos y absolutos).md",
     "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
     "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
-    "Terminal_classes/Terminal_Class_009  (Permisos sobre archivos sistema octal).md",
-    "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
-    "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
-    "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
-    "HTML_&_CSS/Notas_extra_para_complementar.md"
+    "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md"
   ]
 }
