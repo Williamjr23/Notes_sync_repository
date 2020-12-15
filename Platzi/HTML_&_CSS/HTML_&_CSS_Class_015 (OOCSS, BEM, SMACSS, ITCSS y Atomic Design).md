@@ -4,9 +4,40 @@
 > Separa el diseño de el contenido y así se puede reutilizar muchisimo mejor el codigo
  
 Ejemplo:
-``` 
-
+```html 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        margin: 0;
+    }
+    .globalwidth {
+        width: 100%;
+    }
+    .header {
+        background-color: goldenrod;
+        height: 50px;
+        margin-top:0;
+    }
+    .footer {
+        background-color: pink;
+        height: 25px;
+    }
+</style>
+<body>
+    <header class="header globalwidth"><H1>Header</H1></header>
+    <footer class="footer globalwidth">Footer</footer>
+</body> 
+</html>
 ```
+> Aquí podemos ver como 
+
+
 2. **BEM** (Block Element Modify)
 > separa los bloques, los elementos y modificadores
 
