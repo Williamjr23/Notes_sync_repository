@@ -88,4 +88,6 @@ Ejemplo:
 5. ** Atomic Design** (Diseño atómico)
 > Lo separó en Átomos, Moléculas, Organismos, para hacer templates y páginas.
 
-Dejo aquí las siguientes páginas para leer a cerca de 
+Dejo aquí las siguientes páginas para leer a cerca de estas tecnoloías respectivamene:
+
+* [atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
