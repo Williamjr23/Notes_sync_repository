@@ -62,12 +62,15 @@ Ejemplo:
 
 3. ** SMACSS** (Arquitectura de CSS escalabl y modular) 
 > se divide en 5 Pasos
-	1. Base
-	>Componentes base, elementos a utilizar en toda la app, como los botones
-	3. Layout
-	4. Module
-	5. State
-	6. Theme
+	>1. Base
+	>>Componentes base, elementos a utilizar en toda la app, como los botones
+	>2. Layout
+	>>
+	>3. Module
+	>>
+	>4. State
+	>>
+	>5. Theme
 
 4. ** ITCSS**  (Triangulo invertido de CSS)
 > Poder dividir todos nuestras partes de css para que no se modifiquen entre si
