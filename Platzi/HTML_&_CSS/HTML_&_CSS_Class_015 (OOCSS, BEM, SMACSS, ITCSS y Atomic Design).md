@@ -35,7 +35,7 @@ Ejemplo:
 </body> 
 </html>
 ```
-> Aquí podemos ver como 
+> Aquí podemos ver como separamos el width que e el mismo para el ```footer``` que para el `````
 
 
 2. **BEM** (Block Element Modify)
