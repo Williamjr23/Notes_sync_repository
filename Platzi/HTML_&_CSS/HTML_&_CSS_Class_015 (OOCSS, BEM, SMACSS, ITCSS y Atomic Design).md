@@ -39,10 +39,26 @@ Ejemplo:
 
 2. **BEM** (Block Element Modifire)
 > separa los bloques, los elementos y modificadores
-```
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BEM</title>
+</head>
+<style>
+</style>
+<body>
+    <header class="header">
+        <button class="header__button--red">Red</button>
+        <button class="header__button--yellow">Yellow</button>
+    </header>
+</body>
+</html>
 ```
 
->header es el bloque, button es el elemento y red es el modficador
+>En este caso: "header es el bloque, button es el elemento y red" es el modficador
 
 3. ** SMACSS** 
 
