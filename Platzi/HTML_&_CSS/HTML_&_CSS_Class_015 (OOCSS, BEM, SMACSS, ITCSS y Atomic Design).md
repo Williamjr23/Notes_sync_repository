@@ -58,9 +58,10 @@ Ejemplo:
 </html>
 ```
 
->En este caso: "header es el bloque, button es el elemento y red" es el modficador
+>En este caso: "header es el bloque, button es el elemento y red" es el modficador.
 
-3. ** SMACSS** 
+3. ** SMACSS** (Arquitectura de CSS escalabl y modular) 
+> se divide en 5 Pasos
 
 
 4. ** ITCSS**  (Triangulo invertido de CSS)
