@@ -74,13 +74,14 @@ Ejemplo:
 	>> No todas las applicaciones tienen temas, pero la idea es que facilite la forma de cambiar de tema o de trabajar con estos
 
 4. ** ITCSS**  (Triangulo invertido de CSS)
-> Poder dividir todos los archivosde nuetro CSS en ciertas partes para que no se combinen entre si y el orden es en tipo piramide invertida así que va en descenente en el siguiente orden:
+> Poder dividir todos los archivos de nuestro CSS en ciertas partes para que no se combinen entre si y el orden es en tipo piramide invertida así que va en descenente en el siguiente orden:
 > * Ajustes
 > * Herramienas
 > * Generico
 > * Elementos
-> *objetos
-> * 
+> * objetos
+> * Componentes
+> * Utilidades
 
 5. ** Atomic Design** (Diseño atómico)
 > Lo separó en Átomos, Moléculas, Organismos... etc...
