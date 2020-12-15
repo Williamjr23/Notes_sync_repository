@@ -10,18 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "0d9da4a8251a34ce",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
             "mode": "preview"
           }
         }
@@ -51,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FFFFFF",
+                "query": ".body",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,12 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 709,
-    "collapsed": true
+    "width": 335
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +87,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
     "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
     "HTML_&_CSS/Untitled.md",
@@ -106,7 +96,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_010 (Valores relativos y absolutos).md"
   ]
 }
