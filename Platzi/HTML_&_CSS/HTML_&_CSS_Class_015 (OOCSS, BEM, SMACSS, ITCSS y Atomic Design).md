@@ -86,4 +86,4 @@ Ejemplo:
 > Y se acomodan con forme magnitud, especificidad y claridad
 
 5. ** Atomic Design** (Diseño atómico)
-> Lo separó en Átomos, Moléculas, Organismos, para hacer templates y en
+> Lo separó en Átomos, Moléculas, Organismos, para hacer templates y páginas.
