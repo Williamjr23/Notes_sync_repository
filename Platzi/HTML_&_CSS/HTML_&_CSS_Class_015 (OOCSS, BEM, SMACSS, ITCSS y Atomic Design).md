@@ -83,7 +83,7 @@ Ejemplo:
 > * Componentes
 > * Utilidades
 
-> Y contiene: Claridad, Especificidad y magnitud
+> Y se acomodan con forme magnitud, especificidad y claridad
 
 5. ** Atomic Design** (Diseño atómico)
-> Lo separó en Átomos, Moléculas, Organismos... etc...
+> Lo separó en Átomos, Moléculas, Organismos, para hacer templates y en
