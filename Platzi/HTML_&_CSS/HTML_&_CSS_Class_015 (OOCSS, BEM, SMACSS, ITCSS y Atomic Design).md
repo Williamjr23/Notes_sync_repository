@@ -52,10 +52,9 @@ Ejemplos
 ```menu item``` ```list item``` ```checkbox caption``` ```header title```
 
 * Modificador
-Una bandera en un bloque o elemento. Úselos para cambiar la apariencia o el comportamiento.
-
+> Una bandera en un bloque o elemento. Úselos para cambiar la apariencia o el comportamiento.
 Ejemplos
-disabled, highlighted, checked, fixed, size big,color yellow
+```disabled```  ```highlighted``` ```checked``` ```fixed``` ```size big``` ```color yellow```
 
 ```html
 <!DOCTYPE html>
