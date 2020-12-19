@@ -39,6 +39,23 @@ Ejemplo:
 
 2. **BEM** (Block Element Modifier)
 > separa los bloques, los elementos y modificadores (su nombre es una abrebiatura de sus compuestos; Bloque, Elemento, Modificador)
+
+* Bloque
+Entidad independiente que es significativa por sí misma.
+>
+Ejemplos
+header, container, menu, checkbox,input
+Elemento
+Parte de un bloque que no tiene un significado independiente y está semánticamente ligada a su bloque.
+
+Ejemplos
+menu item, list item, checkbox caption,header title
+Modificador
+Una bandera en un bloque o elemento. Úselos para cambiar la apariencia o el comportamiento.
+
+Ejemplos
+disabled, highlighted, checked, fixed, size big,color yellow
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
