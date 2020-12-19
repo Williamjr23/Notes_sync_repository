@@ -77,7 +77,7 @@ Ejemplos
 
 >En este caso: "header es el bloque, button es el elemento y red" es el modficador.
 
-3. ** SMACSS** (Arquitectura de CSS escalabl y modular) 
+3. ** SMACSS** (Arquitectura de CSS escalable y modular) 
 > Se divide en 5 Pasos:
 	>1. Base
 	>>Componentes base, elementos a utilizar en toda la app, como los botones
