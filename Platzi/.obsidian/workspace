@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
+            "file": "HTML_&_CSS/Untitled.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
+                "file": "HTML_&_CSS/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
-    "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/Untitled.md",
+    "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md"
   ]
 }
