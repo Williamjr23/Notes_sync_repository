@@ -18,3 +18,6 @@ Dejo aquí las siguientes páginas para leer a cerca de estas tecnoloías respec
 * [SMACSS](http://smacss.com)
 * [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 * [atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
+
+(Clase 16)
+* > [STORYBOOK]( https://www.youtube.com/watch?v=lA-4Hz9N7qA)(Herramienta opensource que sirve para crear componentes visuales de forma aislada de forma muy sencilla y sirve para muchas librerías, componentes visuales resistentes y reutilizables.
