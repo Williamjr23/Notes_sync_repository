@@ -38,7 +38,7 @@ Ejemplo:
 > Aquí podemos ver como separamos el width que e el mismo para el ```footer``` que para el ```header```  en una clase por separado para poderlo utilizar como clase secundaria en ambas etiquetas y así optimizar el codigo y no replicarlo, aquí se puede ver un ejemplo de como esta clase es reutilizable.
 
 2. **BEM** (Block Element Modifier)
-> separa los bloques, los elementos y modificadores (su nombre es una abrebiatura de sus compuestos)
+> separa los bloques, los elementos y modificadores (su nombre es una abrebiatura de sus compuestos; Bloque, Elemento, Modificador)
 ```html
 <!DOCTYPE html>
 <html lang="en">
