@@ -11,7 +11,4 @@
 
 > Es importante usar componentes y organizarlos por que nos ayudan a trabajar de una manera más fluida y nos ayudan a optimizar nuestro codigo y nuestro orden.
 
-> STORYBOOK (Herramienta opensource que sirve para crear componentes visuales de forma aislada de forma muy sencilla y sirve para muchas librerías, componentes visuales resistentes y reutilizables.
-
-> 
-> https://www.youtube.com/watch?v=lA-4Hz9N7qA
+> [STORYBOOK]( https://www.youtube.com/watch?v=lA-4Hz9N7qA)(Herramienta opensource que sirve para crear componentes visuales de forma aislada de forma muy sencilla y sirve para muchas librerías, componentes visuales resistentes y reutilizables.
