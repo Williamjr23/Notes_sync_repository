@@ -41,10 +41,10 @@ Ejemplo:
 > separa los bloques, los elementos y modificadores (su nombre es una abrebiatura de sus compuestos; Bloque, Elemento, Modificador)
 
 * Bloque
-Entidad independiente que es significativa por sí misma.
+>Entidad independiente que es significativa por sí misma.
 >
-Ejemplos
-header, container, menu, checkbox,input
+Ejemplos:
+```header``` ``` container ```  ```menu```  ``` checkbox```  ```input```
 Elemento
 Parte de un bloque que no tiene un significado independiente y está semánticamente ligada a su bloque.
 
