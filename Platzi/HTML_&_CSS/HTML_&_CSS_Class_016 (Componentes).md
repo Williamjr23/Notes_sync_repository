@@ -5,4 +5,6 @@
 
 > La idea basica de los componentes es que se pueda identificar facilmente para posteriormente poderse reutilizar en otra parte del codigo.
 
-> Una vez identificados los componentes, se puede crear una carpeta llamada components y dentro de ella tener separad
+> Una vez identificados los componentes, se puede crear una carpeta llamada components y dentro de ella tener por separado otras carpetas cada uno de los componentes que identificamos
+
+> otra opción es usar storybook 
