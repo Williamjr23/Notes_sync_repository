@@ -10,3 +10,5 @@
 > Otra opción es usar storybook que es como un gestor de libreria para nuestros propios componentes, y se puede interactuar con los componentes desde ahí y es muy agradable de utilizar.
 
 > Es importante usar componentes y organizarlos por que nos ayudan a trabajar de una manera más fluida y nos ayudan a optimizar nuestro codigo y nuestro orden.
+
+> STORYBOOK (Herramienta opensourcehttps://www.youtube.com/watch?v=lA-4Hz9N7qA
