@@ -7,4 +7,5 @@
 
 > Una vez identificados los componentes, se puede crear una carpeta llamada components y dentro de ella tener por separado otras carpetas cada uno de los componentes que identificamos
 
-> otra opción es usar storybook 
+> otra opción es usar storybook que es como un gestor de libreria para nuestros propios componentes, y se puede interactuar con los componentes desde ahí y es muy agradable de utilizar.
+
