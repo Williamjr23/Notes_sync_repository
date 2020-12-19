@@ -49,8 +49,9 @@ Ejemplos:
 * Elemento
 > Parte de un bloque que no tiene un significado independiente y está semánticamente ligada a su bloque.
 Ejemplos
-```menu``` ```item``` ```list``` ```item``` checkbox caption,header title
-Modificador
+```menu item``` ```list item``` ```checkbox caption``` ```header title```
+
+* Modificador
 Una bandera en un bloque o elemento. Úselos para cambiar la apariencia o el comportamiento.
 
 Ejemplos
