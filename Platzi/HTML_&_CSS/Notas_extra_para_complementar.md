@@ -23,3 +23,5 @@ Dejo aquí las siguientes páginas para leer a cerca de estas tecnoloías respec
 * > [STORYBOOK]( https://www.youtube.com/watch?v=lA-4Hz9N7qA)(Herramienta opensource que sirve para crear componentes visuales de forma aislada de forma muy sencilla y sirve para muchas librerías, componentes visuales resistentes y reutilizables.
 
 * Estructurar el início de tu código siempre antes de comenzar, aparte de saber que estructura vas a utilizar, esto puede ayudar un poco: https://code.tutsplus.com/es/tutorials/5-ways-to-instantly-write-better-css--net-3003
+
+* Se le puede dar formato a nuestro codigo con extenciones, click derecho y dar formato
