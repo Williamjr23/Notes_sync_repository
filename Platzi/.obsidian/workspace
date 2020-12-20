@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
-            "mode": "source"
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "colores",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 427,
-    "collapsed": true
+    "width": 427
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md",
+    "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
     "HTML_&_CSS/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md"
   ]
 }
