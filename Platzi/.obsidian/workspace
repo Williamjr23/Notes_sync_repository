@@ -14,17 +14,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "6378676e4896fd90",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427
+    "width": 427,
+    "collapsed": true
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -97,6 +87,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
     "HTML_&_CSS/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
     "Untitled 1.md",
@@ -105,7 +96,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md"
   ]
 }
