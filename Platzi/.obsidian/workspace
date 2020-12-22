@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/001_Introduccion_a_javascript.md",
+            "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/001_Introduccion_a_javascript.md",
+                "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Untitled.md",
     "Javascript/001_Introduccion_a_javascript.md",
     "Javascript/Libros de javascript.md",
-    "Javascript/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
     "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
