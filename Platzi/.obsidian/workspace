@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
-                "mode": "preview"
+                "file": "Javascript/Alcance que tienen las funciones clase 3.md",
+                "mode": "source"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
+                "file": "Javascript/Alcance que tienen las funciones clase 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Untitled.md",
     "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
     "Javascript/Libros de javascript.md",
     "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
@@ -112,7 +113,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
     "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_010 (Valores relativos y absolutos).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_010 (Valores relativos y absolutos).md"
   ]
 }
