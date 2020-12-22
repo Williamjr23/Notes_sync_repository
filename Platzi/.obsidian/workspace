@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Alcance que tienen las funciones clase 4.md",
+                "file": "preview.md",
                 "mode": "source"
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Alcance que tienen las funciones clase 4.md",
+                "file": "preview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Javascript/Alcance que tienen las funciones clase 4.md",
     "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
     "Javascript/Untitled.md",
@@ -114,7 +115,6 @@
     "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
     "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md"
   ]
 }
