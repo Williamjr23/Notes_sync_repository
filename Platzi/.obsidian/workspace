@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c50e2541ae9ad23e",
-        "type": "split",
-        "children": [
-          {
-            "id": "3b792af66d305419",
-            "type": "leaf",
-            "dimension": 51.204819277108435,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Alcance que tienen las funciones clase 4.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "822dc8033b397a4d",
-            "type": "leaf",
-            "dimension": 48.795180722891565,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/HTML_&_CSS/Untitled.md",
-                "mode": "source"
-              }
-            }
+        "id": "3b792af66d305419",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/Alcance que tienen las funciones clase 4.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -89,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/HTML_&_CSS/Untitled.md",
+                "file": "Javascript/Alcance que tienen las funciones clase 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/HTML_&_CSS/Untitled.md",
     "Javascript/Alcance que tienen las funciones clase 4.md",
+    "Javascript/HTML_&_CSS/Untitled.md",
     "Javascript/Libros de javascript.md",
     "Untitled.md",
     "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
