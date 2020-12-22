@@ -41,5 +41,13 @@ nombre = nombre.toUpperCase()
 console.log(nombre); 
 } 
 /*
-Esta funcion va a tener el efecto colateral de modificar la variable nombre tanto dentro como fuera de la funcion Esto es algo que queremos evitar en nuestro codigo \*/ imprimirNombreEnMayusculas(nombre); //De esta manera evito el efecto colateral y tengo un alcance local
+Esta funcion va a tener el efecto colateral de modificar 
+la variable nombre
+tanto dentro como fuera de la funcion
+
+Esto es algo que queremos evitar en
+nuestro codigo \*
+
+imprimirNombreEnMayusculas(nombre);
+//De esta manera evito el efecto colateral y tengo un alcance local
 ```
