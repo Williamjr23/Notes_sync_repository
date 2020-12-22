@@ -9,8 +9,7 @@ console.log('Hola mundo!')
 > Forma de interactuar con el usuario y darle información de los datos de nuestro programa
 Para declarar una variable solo se escribe:
 ```javascript 
-var nombre 
+var nombre + 'sachita'
 ```
 >Variable sin valor asignado
 
-En una linea se define la variabe
