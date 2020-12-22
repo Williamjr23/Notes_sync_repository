@@ -6,12 +6,23 @@
       {
         "id": "178c29acc4db4ea2",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6caec83614016270",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Libros de javascript.md",
-            "mode": "preview"
+            "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Libros de javascript.md",
+                "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
     "Javascript/Libros de javascript.md",
     "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
     "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
@@ -94,7 +106,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
     "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_010 (Valores relativos y absolutos).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md"
   ]
 }
