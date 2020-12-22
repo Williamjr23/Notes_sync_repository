@@ -15,4 +15,10 @@ Funciones que trabajen con decimales, a manera de almacenar decimales no es tan 
 
 Para arreglar ese problema se puede hacer 
 
-para solo un decimal mu
+para solo un decimal mutiplicar antes * 100, luego hacer la operacion y volver a dividir entre 100
+
+si es una operación mas precisa, utilizar 
+
+```
+var total = Math.round(precioDeVino * 100 * 3)
+```
