@@ -25,4 +25,8 @@ var total = Math.round(precioDeVino * 100 * 3) / 100
 
 Y de esta manera se hace mas preciso el calculo con decimales, sin importar la cantidad de decimales en la cifra original
 
-y para hacer que salga el cero despues de el decimal se 
+y para hacer que salga el cero despues de el decimal se declara que se tengan en cuenta el numero de decimales que se quieren mostrar despues del punto, en este caso son 2 Ejemplo:
+
+```
+var totalStr = total.toFixed(3)
+```
