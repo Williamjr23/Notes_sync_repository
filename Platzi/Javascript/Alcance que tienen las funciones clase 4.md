@@ -11,3 +11,5 @@ esto no siempre es una buena practica, ya que tiene un sideeffect que modifica l
 las variables dentro de las funciones pueden tener un alcance local, eso significa que la variable solo está definida dentro de la funcion
 
 y así solo se modifica la variable local, pero no la variable global
+
+la misma variable puede existir con el mismo nombre pero con diferentes valores dependiendo el alcance, en este caso existiría una en 
