@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "preview.md",
+                "file": "Javascript/Alcance que tienen las funciones clase 4.md",
                 "mode": "source"
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "preview.md",
+                "file": "Javascript/Alcance que tienen las funciones clase 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
     "Javascript/Alcance que tienen las funciones clase 4.md",
+    "Untitled.md",
     "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
     "Javascript/Untitled.md",
     "Javascript/Libros de javascript.md",
