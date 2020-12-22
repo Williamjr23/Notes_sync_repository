@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Alcance que tienen las funciones clase 4.md",
+            "file": "Javascript/001_Introduccion_a_javascript.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Alcance que tienen las funciones clase 4.md",
+                "file": "Javascript/001_Introduccion_a_javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/001_Introduccion_a_javascript.md",
     "Javascript/Alcance que tienen las funciones clase 4.md",
     "Javascript/HTML_&_CSS/Untitled.md",
     "Javascript/Libros de javascript.md",
@@ -94,7 +95,6 @@
     "Javascript/Untitled.md",
     "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
     "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md"
   ]
 }
