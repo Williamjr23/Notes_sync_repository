@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/001_Introduccion_a_javascript.md",
-            "mode": "preview"
+            "file": "Javascript/004 Objetos.md",
+            "mode": "source"
           }
         }
       }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 528,
+    "collapsed": true
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/001_Introduccion_a_javascript.md",
+                "file": "Javascript/004 Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,13 +87,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/001_Introduccion_a_javascript.md",
+    "Javascript/Untitled.md",
     "Javascript/Alcance que tienen las funciones clase 4.md",
-    "Javascript/HTML_&_CSS/Untitled.md",
     "Javascript/Libros de javascript.md",
+    "Javascript/001_Introduccion_a_javascript.md",
+    "Javascript/HTML_&_CSS/Untitled.md",
     "Untitled.md",
     "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
-    "Javascript/Untitled.md",
     "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
     "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
     "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md"
