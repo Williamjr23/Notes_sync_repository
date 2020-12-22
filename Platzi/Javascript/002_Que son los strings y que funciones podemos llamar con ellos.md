@@ -19,6 +19,10 @@ para solo un decimal mutiplicar antes * 100, luego hacer la operacion y volver a
 
 si es una operación mas precisa, utilizar 
 
+```javascript 
+var total = Math.round(precioDeVino * 100 * 3) / 100
 ```
-var total = Math.round(precioDeVino * 100 * 3)
-```
+
+Y de esta manera se hace mas preciso el calculo con decimales, sin importar la cantidad de decimales en la cifra original
+
+y para hacer que salga el cero despues de el decimal se 
