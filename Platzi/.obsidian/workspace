@@ -14,6 +14,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "86c3345973a6b34b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/001_Introduccion_a_javascript.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
