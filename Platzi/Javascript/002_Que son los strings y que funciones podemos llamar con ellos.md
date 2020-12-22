@@ -9,4 +9,4 @@ nos permite interpolar variables
 aprendimos a usar las funciones mas utilizadas de los strings,
 vimos como pasar un string a min a mayus, como saber cuantas letras tiene un string, como acceder a una letra en particular, y como acceder a un substring dentro de un string
 
-Arch
+Archivos utilizados en: Clase2.js
