@@ -53,3 +53,20 @@ imprimirNombreEnMayusculas(nombre);
 ```
 
 nota: en js en general queremos una variable local que no contamine todo el codigo 
+
+Repaso  
+¿Que aprendi?  
+toda variable que no esta definida en una funcion esta  
+definida en el objeto global que en este caso  
+en el navegador es window
+
+Aprendi que para crear una variable local asi tenga el mismo nombre que una global tengo que escribir su nombre como parametro en una funcion
+
+Que en javascript en general queremos que una variable local no contamine todo el codigo  
+¿Que logre?  
+Logre crear una funcion usando tanto variables globales como variables locales
+
+¿Que podre lograr?  
+Podre crear un codigo sostenible en el tiempo
+
+Un programador evita efectos colaterales en su codigo
