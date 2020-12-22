@@ -10,18 +10,18 @@
           {
             "id": "178c29acc4db4ea2",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           },
           {
             "id": "3b792af66d305419",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Alcance que tienen las funciones clase 4.md",
+                "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Untitled.md",
     "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
+    "Javascript/Untitled.md",
     "Javascript/Libros de javascript.md",
     "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
     "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
