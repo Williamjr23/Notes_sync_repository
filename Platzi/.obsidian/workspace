@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Libros de javascript.md",
+            "file": "Javascript/001_Introduccion_a_javascript.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Libros de javascript.md",
+                "file": "Javascript/001_Introduccion_a_javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/001_Introduccion_a_javascript.md",
     "Javascript/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
     "HTML_&_CSS/Notas_extra_para_complementar.md",
@@ -94,7 +95,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md",
     "HTML_&_CSS/HTML_&_CSS_Class_007 (conceptos iniciales de css).md",
     "HTML_&_CSS/HTML_&_CSS_Class_008 (Tipos de selectores, pseudo-clases y pseudo-elementos).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md",
-    "HTML_&_CSS/Untitled.md"
+    "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md"
   ]
 }
