@@ -4,3 +4,12 @@ Añadir variables a cada rato no es la mejor opción, por eso vamos a empezar a 
 var nombre = 'william'
 var apellido = 'Castillo'
 ```
+
+se podría delimitar el objeto de la siguiente manera:
+
+```js
+var sacha = {
+	nombre: 'William'
+	apellido: 'Cas'
+}
+```
