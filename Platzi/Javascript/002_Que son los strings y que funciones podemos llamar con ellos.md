@@ -13,4 +13,6 @@ Archivos utilizados en: Clase2.js
 
 Funciones que trabajen con decimales, a manera de almacenar decimales no es tan precisa
 
-Para arreglar ese prob
+Para arreglar ese problema se puede hacer 
+
+para solo un decimal mu
