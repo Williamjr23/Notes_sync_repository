@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "178c29acc4db4ea2",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
-            "mode": "source"
+        "id": "ecf89b1d9c23b17b",
+        "type": "split",
+        "children": [
+          {
+            "id": "178c29acc4db4ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3b792af66d305419",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
