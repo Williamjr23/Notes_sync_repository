@@ -12,4 +12,4 @@ las variables dentro de las funciones pueden tener un alcance local, eso signifi
 
 y así solo se modifica la variable local, pero no la variable global
 
-la misma variable puede existir con el mismo nombre pero con diferentes valores dependiendo el alcance, en este caso existiría una en 
+la misma variable puede existir con el mismo nombre pero con diferentes valores dependiendo el alcance, en este caso existiría una en global como: 'nombre' y otra en local como: 'nombre' tambien 
