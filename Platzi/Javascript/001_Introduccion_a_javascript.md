@@ -4,5 +4,7 @@ Guardar tu codigo "Script" por separado en un archivo terminado en ".js" y refer
 ```
 
 ```javascript
-console.log()
+console.log('Hola mundo!')
 ```
+> Forma de interactuar con el usuario y darle información de los datos de nuestro programa
+Para declarar una variable solo se 
