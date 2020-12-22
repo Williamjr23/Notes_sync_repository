@@ -27,7 +27,12 @@ Y de esta manera se hace mas preciso el calculo con decimales, sin importar la c
 
 y para hacer que salga el cero despues de el decimal se declara que se tengan en cuenta el numero de decimales que se quieren mostrar despues del punto, en este caso son 2 Ejemplo:
 
-```
+```js
 var totalStr = total.toFixed(2)
 ```
->nota: Al hacer lo anterior, el resultado de este queda como un string, 
+>nota: Al hacer lo anterior, el resultado de este queda como un string, y para volverlo a pasar a numero hacemos lo siguiente:
+
+```js
+var total12 = parseFloat()
+```
+> Significa transformar o leer de un string a un decimal
