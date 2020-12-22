@@ -30,4 +30,4 @@ y para hacer que salga el cero despues de el decimal se declara que se tengan en
 ```
 var totalStr = total.toFixed(2)
 ```
-
+>nota: Al hacer lo anterior, el resultado de este queda como un string, 
