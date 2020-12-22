@@ -28,5 +28,6 @@ Y de esta manera se hace mas preciso el calculo con decimales, sin importar la c
 y para hacer que salga el cero despues de el decimal se declara que se tengan en cuenta el numero de decimales que se quieren mostrar despues del punto, en este caso son 2 Ejemplo:
 
 ```
-var totalStr = total.toFixed(3)
+var totalStr = total.toFixed(2)
 ```
+
