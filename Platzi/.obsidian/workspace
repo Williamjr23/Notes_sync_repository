@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "ecf89b1d9c23b17b",
+        "id": "c50e2541ae9ad23e",
         "type": "split",
         "children": [
           {
-            "id": "178c29acc4db4ea2",
+            "id": "3b792af66d305419",
             "type": "leaf",
-            "active": true,
+            "dimension": 51.204819277108435,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
+                "file": "Javascript/Alcance que tienen las funciones clase 4.md",
                 "mode": "preview"
               }
             }
           },
           {
-            "id": "3b792af66d305419",
+            "id": "822dc8033b397a4d",
             "type": "leaf",
+            "dimension": 48.795180722891565,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
+                "file": "Javascript/Alcance que tienen las funciones clase 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +106,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Alcance que tienen las funciones clase 4.md",
     "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
     "Javascript/Untitled.md",
     "Javascript/Libros de javascript.md",
@@ -112,7 +115,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_010 (Valores relativos y absolutos).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md"
   ]
 }
