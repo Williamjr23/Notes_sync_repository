@@ -12,3 +12,5 @@ Para declarar una variable solo se escribe:
 var nombre 
 ```
 >Variable sin valor asignado
+
+En una linea se define la variabe
