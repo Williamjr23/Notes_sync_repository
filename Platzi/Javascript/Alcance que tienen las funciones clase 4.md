@@ -20,4 +20,6 @@ para referirnos a la variable de alcance global deberíamos especificar dentro d
 window.nombre 
 ```
 
-pero si no es el caso, l
+pero si no es el caso, la funcion siempre tomará la variable local especificada dentro de la misma 
+
+toda variable no definida
