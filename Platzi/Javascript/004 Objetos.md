@@ -1,0 +1,1 @@
+Añadir variables a cada rato no es la mejor opción, por eso vamos a empezar a trabajar con objetos, y este reune ciertas características en común, como si fuerán características
