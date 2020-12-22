@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
-            "mode": "source"
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
+            "mode": "preview"
           }
         }
       },
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_004 (La importancia del código semántico).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_007 (conceptos iniciales de css).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
     "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
     "Javascript/Untitled.md",
     "Javascript/001_Introduccion_a_javascript.md",
     "Javascript/Libros de javascript.md",
     "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
-    "HTML_&_CSS/Notas_extra_para_complementar.md",
-    "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_004 (La importancia del código semántico).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_007 (conceptos iniciales de css).md"
+    "HTML_&_CSS/Notas_extra_para_complementar.md"
   ]
 }
