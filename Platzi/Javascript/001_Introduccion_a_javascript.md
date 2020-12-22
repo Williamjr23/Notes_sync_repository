@@ -7,4 +7,8 @@ Guardar tu codigo "Script" por separado en un archivo terminado en ".js" y refer
 console.log('Hola mundo!')
 ```
 > Forma de interactuar con el usuario y darle información de los datos de nuestro programa
-Para declarar una variable solo se 
+Para declarar una variable solo se escribe:
+```javascript 
+var nombre 
+```
+>Variable sin valor asignado
