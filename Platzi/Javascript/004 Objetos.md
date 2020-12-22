@@ -8,7 +8,7 @@ var apellido = 'Castillo'
 se podría delimitar el objeto de la siguiente manera:
 
 ```js
-var sacha = {
+var william = {
 	nombre: 'William',
 	apellido: 'Castillo',
 	edad: 28
