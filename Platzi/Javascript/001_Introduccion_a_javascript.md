@@ -13,3 +13,4 @@ var nombre + 'sachita'
 ```
 >Variable sin valor asignado
 
+javascript es un lenguaje debilmente tipado
