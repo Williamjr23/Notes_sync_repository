@@ -2,3 +2,7 @@ Guardar tu codigo "Script" por separado en un archivo terminado en ".js" y refer
 ```html
 	<script src="clase1.js"></script>
 ```
+
+```javascript
+console.log()
+```
