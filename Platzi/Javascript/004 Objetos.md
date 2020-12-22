@@ -9,7 +9,10 @@ se podría delimitar el objeto de la siguiente manera:
 
 ```js
 var sacha = {
-	nombre: 'William'
-	apellido: 'Cas'
+	nombre: 'William',
+	apellido: 'Castillo',
+	edad: 28
 }
 ```
+>
+
