@@ -22,4 +22,4 @@ window.nombre
 
 pero si no es el caso, la funcion siempre tomará la variable local especificada dentro de la misma 
 
-toda variable no definida dentro de la funcion, puede estár definida dentro de el alcance global, y vamos a poder definirla dentro de el objeto global
+toda variable no definida dentro de la funcion, va a estár definida dentro de el alcance global, y vamos a poder definirla dentro de el objeto global
