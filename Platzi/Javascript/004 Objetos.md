@@ -14,5 +14,7 @@ var sacha = {
 	edad: 28
 }
 ```
->
-
+>se agregan los atributos dentro de el objeto
+>Así vemos que un objeto no es nada más que clave y valor.
+>Lo de la izquierda es la clave o key, y lo de la derecha es el valor que se le otorga,
+>los valores pueden ser strings, numeros, funcio
