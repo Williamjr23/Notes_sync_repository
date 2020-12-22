@@ -8,4 +8,6 @@ el objeto global en html es la ventana
 
 esto no siempre es una buena practica, ya que tiene un sideeffect que modifica la variable global y normalmente queremos poder seguir accediendo a ella sin que esté modificada, y esto lo hacemos de la siguiente manera
 
-las variables dentro de las funciones pueden
+las variables dentro de las funciones pueden tener un alcance local, eso significa que la variable solo está definida dentro de la funcion
+
+y así solo se modifica la variable local, pero no la variable global
