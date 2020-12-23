@@ -10,19 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Clase_007_Desestructurar objetos.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c389c399eabe3951",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Clase_001_variables.md",
-            "mode": "preview"
           }
         }
       }
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Clase_007_Desestructurar objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
