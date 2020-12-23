@@ -1,12 +1,18 @@
 # Variables: Strings
 
+### Analizando la siguiente linea de código podrémos comprender el 
+
 convertir el nombre en mayusculas:
 
-Se declara una variable con el nombre de la función requerida en este caso sería:
 ```js 
 var nombreEnMayusculas = nombre.toUpperCase()
 ```
 Así que vamos a desglosar la forma en que esto se interpreta y como funciona cada parte de nuestra linea:
+
+Se declara una variable con el nombre de la función requerida en este caso sería:
+```js 
+var nombreEnMayusculas =
+```
 
 y se le asigna el valor de nombre que en este caso hace referencia a otra variable donde se define globalmente el nombre sin ningúna modificación:
 ```js 
