@@ -11,7 +11,10 @@ y se le asigna el valor de nombre que en este caso hace referencia a otra variab
 ```js 
 = nombre.
 ```
-El punto después de definir el valor de nuestra variable se utiliza para invocar una **functi
-
+El punto después de definir el valor de nuestra variable se utiliza para invocar una **function** después de esa variable, que en este caso la función para mayusculas sería:
+```js 
+= nombre.toUpperCase()
+```
+y dentro de el paréntesis de esta **functiu
 
 y lo que haremos es invocar una funcion sobre esta variable y para esto se pone el punto . despues del nombre y se le pone la funcion y se le asigna un parametro, en este caso como no necesitamos ningún parametro se deja en blanco, los parámetros de la función se definen dentro de los parentesis de la misma 
