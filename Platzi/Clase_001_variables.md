@@ -7,6 +7,13 @@ Insertar script dentro de html con:
 
 funciones:
 
-```
-console.log('Hola mundo JS!')
+```js
+console.log('Hola mundo JS!') 
+``` 
+> Mostrar datos imprimirlos en la consola
+
+### Declarando variables
+
+```js 
+var nombre
 ``` 
