@@ -27,4 +27,3 @@ console.log('Hola + ' ' + william')
 ```
 
 
-Debilidad al tipar
