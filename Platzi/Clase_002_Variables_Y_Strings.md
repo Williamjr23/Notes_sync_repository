@@ -25,5 +25,10 @@ Desglosando lo anterior:
 
 Y listo. variable definida, ahora solo faltaría la instrucción para que se muestre en nuestra consola
 
+Lista de funciones utilizadas en esta clase:
+
+| functions | Acción |
+| --------- | ------ |
+|           |        |
 
 Ejemplo de uso en el archivo: **Clase2.js**
