@@ -6,7 +6,7 @@ Se declara una variable con el nombre de la función requerida en este caso ser�
 ```js 
 var nombreEnMayusculas = nombre.toUpperCase()
 ```
-Así que vamos a desglosar la forma en que esto se interpreta y 
+Así que vamos a desglosar la forma en que esto se interpreta y como funciona cada parte de nuestra linea:
 
 y se le asigna el valor de nombre que en este caso hace referencia a otra variable donde se define globalmente el nombre sin ningúna modificación:
 ```js 
