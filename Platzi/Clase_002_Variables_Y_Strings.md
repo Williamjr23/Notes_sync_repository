@@ -1,6 +1,6 @@
 # Variables: Strings
 
-### Analizando la siguiente linea de código podrémos comprender la aplicación y los valores y nombres que se le da a cada parte de esta misma y aplicarla
+### Analizando la siguiente linea de código podrémos comprender la aplicación y los valores y nombres que se le da a cada parte de esta misma y aplicarla junto con otras 
 
 Función: **convertir el nombre en mayusculas**:
 
@@ -23,5 +23,5 @@ Desglosando lo anterior:
 >```
 >y dentro de el paréntesis de esta **functión** se definen los valores de la misma, pero en este caso queremos que se aplique a todo así que no definiremos ningún valor por encima del ya establecido .
 
-> y listo, variable definida ahora solo fa
+Y listo. variable definida, ahora solo faltaría la instrucción para que se muestre en nuestra consola
 
