@@ -27,8 +27,10 @@ Y listo. variable definida, ahora solo faltaría la instrucción para que se mue
 
 Lista de funciones utilizadas en esta clase:
 
-| functions | Acción |
-| --------- | ------ |
-|           |        |
+| función       | Que hace?              |
+| ------------- | ---------------------- |
+| toUpperCase() | Convierte a mayusculas |
+| toLowerCase() | Convierte a minusculas |
+| charAt              |                        |
 
 Ejemplo de uso en el archivo: **Clase2.js**
