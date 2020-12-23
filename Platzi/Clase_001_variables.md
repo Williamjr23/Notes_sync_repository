@@ -20,4 +20,8 @@ var nombre
 nombre = 'william'
 ```  
 
-nota:Se puede utilizar el ";" pero js no nos obliga a escribirlo y solo son casos muy especificos en donde se tendra que usar.
+> nota:Se puede utilizar el ";" pero js no nos obliga a escribirlo y solo son casos muy especificos en donde se tendra que usar.
+
+```
+console.log('Hola + ' ' + william')
+```
