@@ -1,8 +1,8 @@
 # Variables: Strings
 
-### Analizando la siguiente linea de código podrémos comprender el 
+### Analizando la siguiente linea de código podrémos comprender la aplicación y los valores y nombres que se le da a cada parte de esta misma y aplicarla
 
-convertir el nombre en mayusculas:
+Función: **convertir el nombre en mayusculas**
 
 ```js 
 var nombreEnMayusculas = nombre.toUpperCase()
