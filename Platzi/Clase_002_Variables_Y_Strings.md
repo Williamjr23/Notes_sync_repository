@@ -21,5 +21,7 @@ Desglosando lo anterior:
 >```js 
 >= nombre.toUpperCase()
 >```
->y dentro de el paréntesis de esta **functión** se definen los valores de la misma, pero en este caso queremos que se aplique a todo así que no definiremos ningún valor por encima del ya establecido
+>y dentro de el paréntesis de esta **functión** se definen los valores de la misma, pero en este caso queremos que se aplique a todo así que no definiremos ningún valor por encima del ya establecido .
+
+> y listo, variable definida ahora solo fa
 
