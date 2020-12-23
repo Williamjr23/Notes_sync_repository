@@ -1,6 +1,6 @@
 # Variables: Strings
 
-### Analizando la siguiente linea de código podrémos comprender la aplicación y los valores y nombres que se le da a cada parte de esta misma y aplicarla junto con otras 
+### Analizando la siguiente linea de código podrémos comprender la aplicación y los valores y nombres que se le da a cada parte de esta misma y aplicarla junto con otras funciones sin que sea la indicada aquí abajo:
 
 Función: **convertir el nombre en mayusculas**:
 
@@ -25,3 +25,5 @@ Desglosando lo anterior:
 
 Y listo. variable definida, ahora solo faltaría la instrucción para que se muestre en nuestra consola
 
+
+Ejemplo de uso en el archivo: **Clase2.js
