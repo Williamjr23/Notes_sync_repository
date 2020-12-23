@@ -2,14 +2,13 @@
 
 ### Analizando la siguiente linea de código podrémos comprender la aplicación y los valores y nombres que se le da a cada parte de esta misma y aplicarla
 
-Función: **convertir el nombre en mayusculas**
+Función: **convertir el nombre en mayusculas**:
 
 ```js 
 var nombreEnMayusculas = nombre.toUpperCase()
 ```
-Así que vamos a desglosar la forma en que esto se interpreta y como funciona cada parte de nuestra linea:
 
-Se declara una variable con el nombre de la función requerida en este caso sería:
+Se declara una variable y se le asigna un nombre, de preferencia descriptivo en 
 ```js 
 var nombreEnMayusculas =
 ```
