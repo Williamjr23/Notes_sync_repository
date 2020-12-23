@@ -8,7 +8,7 @@ Función: **convertir el nombre en mayusculas**:
 var nombreEnMayusculas = nombre.toUpperCase()
 ```
 
-Se declara una variable y se le asigna un nombre, de preferencia descriptivo en 
+Se declara una variable y se le asigna un nombre, de preferencia descriptivo en formato CamelCase:
 ```js 
 var nombreEnMayusculas =
 ```
