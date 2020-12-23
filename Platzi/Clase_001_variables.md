@@ -16,4 +16,7 @@ console.log('Hola mundo JS!')
 
 ```js 
 var nombre
-``` 
+
+nombre = ' '
+```  
+
