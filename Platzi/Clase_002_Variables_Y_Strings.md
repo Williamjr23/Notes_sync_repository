@@ -50,6 +50,7 @@ Ejemplo:
 >```js 
 >   var nombreCompleto = '${nombre} ${apellido.toUpperCase()}' 
 >```
->nota: también podemos observar que con esta forma de concatenar strings nos permite ingresar codigo js dentro de las llaves se puede escribir codigo ****
+>>nota: también podemos observar que con esta forma de concatenar strings nos permite ingresar codigo js dentro de las llaves se puede escribir codigo **Js** con el cual podemos agregar atributos o funciones etc directamente.
+>
 >En este caso podemos ver que juntamos la variable nombre con la variable apellido de una forma bastante explicativa.
 
