@@ -36,6 +36,6 @@ Lista de funciones utilizadas en esta clase:
 
 | atributo | Que hace? |
 | -------- | --------- |
-| length   | a diferencia de las funciones este es un atributo por que no lo invocamos como          |
+| length   | a diferencia de las funciones los atributos no se invocan solo nos dan información de algo, en este caso el larg          |
 
 Ejemplo de uso en el archivo: **Clase2.js**
