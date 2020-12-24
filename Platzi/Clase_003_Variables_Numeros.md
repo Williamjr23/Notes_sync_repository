@@ -26,7 +26,7 @@ var edad = 18
 var peso = 61
 ```
 
-Nota:
+>Nota: tratar de que se queden las variables de numeros solo en numeros y no agregar kg o años dentro de la variable, en todo caso al invocarlas se puede agregar de diferentes maneras para mantener un codigo limpio y con esto nos referimos a no transformar una variable numerica en 
 
 Ejercicio: clase3.js
 
