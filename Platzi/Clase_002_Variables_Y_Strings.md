@@ -57,3 +57,7 @@ Ejemplo:
 
 >notas extra: Los strings son cadenas de text. Para indicar que estamos usando una cadena de texto debemos de colocar las comillas simples.
 >
+>Para concatenar dos strings se utiliza el símbolo (+)  
+var nombreCompleto = nombre + ’ ’ + apellido
+
+**Desafío:** Encuentra la última letra de tu nombre

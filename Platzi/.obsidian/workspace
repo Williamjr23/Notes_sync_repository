@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Clase_002_Variables_Y_Strings.md",
+            "file": "Clase_003_.md",
             "mode": "source"
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528,
-    "collapsed": true
+    "width": 528
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase_002_Variables_Y_Strings.md",
+                "file": "Clase_003_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,10 +86,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Clase_002_Variables_Y_Strings.md",
     "Clase_001_variables.md",
     "Clase_007_Desestructurar objetos.md",
-    "Untitled.md",
     "preview.md",
     "Javascript/004 Objetos.md",
     "Javascript/Untitled.md",
