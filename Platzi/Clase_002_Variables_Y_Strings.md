@@ -27,10 +27,11 @@ Y listo. variable definida, ahora solo faltaría la instrucción para que se mue
 
 Lista de funciones utilizadas en esta clase:
 
-| función       | Que hace?              |
-| ------------- | ---------------------- |
-| toUpperCase() | Convierte a mayusculas |
-| toLowerCase() | Convierte a minusculas |
-| charAt              |                        |
+| función       | Que hace?                                                                                                                                          |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| toUpperCase() | Convierte a mayusculas                                                                                                                             |
+| toLowerCase() | Convierte a minusculas                                                                                                                             |
+| charAt()      | Significa caracter en la posición y esta función si requiere un parámetro, el primer caractér de la función siempre empieza desde el número cero 0 |
+|               |                                                                                                                                                    |
 
 Ejemplo de uso en el archivo: **Clase2.js**
