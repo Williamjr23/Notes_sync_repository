@@ -32,10 +32,11 @@ Lista de funciones utilizadas en esta clase:
 | toUpperCase() | Convierte a mayusculas                                                                                                                             |
 | toLowerCase() | Convierte a minusculas                                                                                                                             |
 | charAt()      | Significa caracter en la posición y esta función si requiere un parámetro, el primer caractér de la función siempre empieza desde el número cero 0 |
-| length        |                                                                                                                                                    |
 
-| atributo | Que hace? |
-| -------- | --------- |
-| length   | a diferencia de las funciones los atributos no se invocan solo nos dan información de algo, en este caso el larg          |
+
+| atributo | Que hace?                                                                                                                                                                          |     |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| length   | a diferencia de las funciones los atributos no se invocan solo nos dan información de algo, en este caso el largo de nuestra palabra o texto representado en un número como output |     |
+|          |                                                                                                                                                                                    |     |
 
 Ejemplo de uso en el archivo: **Clase2.js**
