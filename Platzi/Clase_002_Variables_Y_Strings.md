@@ -48,7 +48,8 @@ Ejemplo de uso en el archivo: **Clase2.js**
 >Se emplea con comillas invertidas \`${}\` y lo que esto hace es interpolar variables.
 Ejemplo:
 >```js 
->   var nombreCompleto = '${nombre} ${apellido.toUpperCase()}'
+>   var nombreCompleto = '${nombre} ${apellido.toUpperCase()}' 
 >```
+>nota: también podemos observar que con esta forma de concatenar strings nos permite ingresar codigo js dentro de las llaves se puede escribir codigo ****
 >En este caso podemos ver que juntamos la variable nombre con la variable apellido de una forma bastante explicativa.
 
