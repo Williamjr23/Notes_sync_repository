@@ -45,7 +45,7 @@ Ejemplo de uso en el archivo: **Clase2.js**
 ### Concatenar strings:
 * Interpolación de texto:
 
-Se emplea con comillas invertidas `\` y lo que esto hace es
+Se emplea con comillas invertidas \`${}\` y lo que esto hace es interpolar variables:
 >```html
 >   
 >```
