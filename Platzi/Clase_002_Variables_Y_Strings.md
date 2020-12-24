@@ -46,6 +46,8 @@ Ejemplo de uso en el archivo: **Clase2.js**
 * Interpolación de texto:
 
 Se emplea con comillas invertidas \`${}\` y lo que esto hace es interpolar variables:
->```html
->   
+>```js 
+>   var nombreCompleto = '${nombre} ${apellido}'
 >```
+
+En este caso podemos ver que juntamos la variable nombre con la variable apellido de una forma bastante 
