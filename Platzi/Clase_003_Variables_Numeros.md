@@ -15,4 +15,8 @@ edad += 1
 
 Se hace de la misma manera con disminuir (o tambíen conocido como sustracción)
 
+### Variables numéricas:
+> Se tiene que tomar en cuenta que se puede asigan un valor numérico a una variable
+
 Ejercicio: clase3.js
+
