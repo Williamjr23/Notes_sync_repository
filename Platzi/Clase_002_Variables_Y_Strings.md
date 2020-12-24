@@ -25,7 +25,7 @@ Desglosando lo anterior:
 
 Y listo. variable definida, ahora solo faltaría la instrucción para que se muestre en nuestra consola
 
-Lista de funciones utilizadas en esta clase:
+Lista de funciones y atributos utilizados en esta clase:
 >nota: algúnas funciones no necesitan un parámetro para funcionar, los parámetros se definen dentro de los parentesis de la función
 
 | función       | Que hace?                                                                                                                                          |
