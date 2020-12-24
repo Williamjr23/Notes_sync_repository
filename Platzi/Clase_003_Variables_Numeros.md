@@ -14,3 +14,5 @@ edad += 1
 ```
 
 Se hace de la misma manera con disminuir (o tambíen conocido como sustracción)
+
+Ejercicio: clase3.js
