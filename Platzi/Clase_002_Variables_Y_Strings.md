@@ -41,3 +41,5 @@ Lista de funciones y atributos utilizados en esta clase:
 |          |                                                                                                                                                                                    |     |
 
 Ejemplo de uso en el archivo: **Clase2.js**
+
+### Concatenar strings:
