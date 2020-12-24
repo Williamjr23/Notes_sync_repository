@@ -45,9 +45,10 @@ Ejemplo de uso en el archivo: **Clase2.js**
 ### Concatenar strings:
 * Interpolación de texto:
 
-Se emplea con comillas invertidas \`${}\` y lo que esto hace es interpolar variables:
+>Se emplea con comillas invertidas \`${}\` y lo que esto hace es interpolar variables
+Ejemplo:
 >```js 
 >   var nombreCompleto = '${nombre} ${apellido}'
 >```
 
-En este caso podemos ver que juntamos la variable nombre con la variable apellido de una forma bastante 
+>En este caso podemos ver que juntamos la variable nombre con la variable apellido de una forma bastante explicativa
