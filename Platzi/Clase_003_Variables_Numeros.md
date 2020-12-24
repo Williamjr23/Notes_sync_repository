@@ -4,6 +4,11 @@
 para incrementar el valor de una variable hay varias formas:
 
 1. Simple
-```js
-edad = edad + 1
+```js 
+edad = edad + 1 
+```
+
+2. Recortada
+```
+edad +=
 ```
