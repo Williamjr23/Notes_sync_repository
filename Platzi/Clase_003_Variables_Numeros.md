@@ -20,7 +20,13 @@ Se hace de la misma manera con disminuir (o tambíen conocido como sustracción)
 
 Ejemplo:
 
+```js 
+var edad = 18
 
+var peso = 61
+```
+
+Nota:
 
 Ejercicio: clase3.js
 
