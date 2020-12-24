@@ -43,3 +43,9 @@ Lista de funciones y atributos utilizados en esta clase:
 Ejemplo de uso en el archivo: **Clase2.js**
 
 ### Concatenar strings:
+* Interpolación de texto:
+
+Se emplea con comillas invertidas `\` y lo que esto hace es
+>```html
+>   
+>```
