@@ -54,3 +54,5 @@ Ejemplo:
 >
 >En este caso podemos ver que juntamos la variable nombre con la variable apellido de una forma bastante explicativa.
 
+Acceder a un sub string dentro de un string con la función str:
+
