@@ -64,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528
+    "width": 528,
+    "collapsed": true
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -98,8 +99,8 @@
   },
   "lastOpenFiles": [
     "Clase_002_Variables_Y_Strings.md",
-    "Clase_007_Desestructurar objetos.md",
     "Clase_001_variables.md",
+    "Clase_007_Desestructurar objetos.md",
     "Untitled.md",
     "preview.md",
     "Javascript/004 Objetos.md",
