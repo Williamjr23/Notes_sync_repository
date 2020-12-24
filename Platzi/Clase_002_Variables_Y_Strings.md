@@ -33,7 +33,7 @@ Lista de funciones y atributos utilizados en esta clase:
 | toUpperCase() | Convierte a mayusculas                                                                                                                             |
 | toLowerCase() | Convierte a minusculas                                                                                                                             |
 | charAt()      | Significa caracter en la posición y esta función si requiere un parámetro, el primer caractér de la función siempre empieza desde el número cero 0 |
-| substr()        |                                                                                                                                                    |
+| substr()      | Acceder a un sub string dentro de un string sus parámetros son el numero de letras simbolos numeros etc a tomar en cuenta dentro de nuestro string | 
 
 
 | atributo | Que hace?                                                                                                                                                                          |     |
