@@ -18,5 +18,9 @@ Se hace de la misma manera con disminuir (o tambíen conocido como sustracción)
 ### Variables numéricas:
 > Se tiene que tomar en cuenta que se puede asigan un valor numérico a una variable con un nombre en texto así como lo hemos hecho con los strings, pero así mismo como hemos mencionado a cerca de JS como un lenguaje debilmente tipado, tenemos que tener algo de cuidado con que estas variables si van a ser numeros no se conviertan en strings
 
+Ejemplo:
+
+
+
 Ejercicio: clase3.js
 
