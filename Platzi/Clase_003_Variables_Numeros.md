@@ -9,6 +9,8 @@ edad = edad + 1
 ```
 
 2. Recortada
+```js 
+edad += 1 
 ```
-edad +=
-```
+
+Se hace de la misma manera con disminuir (o tambíen conocido como sustracción)
