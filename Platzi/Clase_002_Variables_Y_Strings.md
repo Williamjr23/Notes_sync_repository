@@ -33,6 +33,7 @@ Lista de funciones y atributos utilizados en esta clase:
 | toUpperCase() | Convierte a mayusculas                                                                                                                             |
 | toLowerCase() | Convierte a minusculas                                                                                                                             |
 | charAt()      | Significa caracter en la posición y esta función si requiere un parámetro, el primer caractér de la función siempre empieza desde el número cero 0 |
+| substr()        |                                                                                                                                                    |
 
 
 | atributo | Que hace?                                                                                                                                                                          |     |
@@ -56,3 +57,4 @@ Ejemplo:
 
 Acceder a un sub string dentro de un string con la función str:
 
+var str = nombre.substr(1)
