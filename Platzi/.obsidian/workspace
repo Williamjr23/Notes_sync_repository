@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Clase_002_Variables_Y_Strings.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -64,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528,
-    "collapsed": true
+    "width": 528
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -99,14 +98,14 @@
   },
   "lastOpenFiles": [
     "Clase_002_Variables_Y_Strings.md",
-    "Untitled.md",
+    "Clase_007_Desestructurar objetos.md",
     "Clase_001_variables.md",
+    "Untitled.md",
     "preview.md",
     "Javascript/004 Objetos.md",
     "Javascript/Untitled.md",
     "Javascript/Alcance que tienen las funciones clase 4.md",
     "Javascript/Libros de javascript.md",
-    "Javascript/001_Introduccion_a_javascript.md",
-    "Javascript/HTML_&_CSS/Untitled.md"
+    "Javascript/001_Introduccion_a_javascript.md"
   ]
 }
