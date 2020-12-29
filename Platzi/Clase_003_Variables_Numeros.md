@@ -53,7 +53,12 @@ var totalStr = total.toFixed(2)
 ```
  y lo anterior es un string, para volver a decimal se utiliza:
  ```js 
- var total2 = parseFloat(2) 
+ var total2 = parseFloat(totalStr) 
  ```
+> nota: esto convierte de string a decimal
+
+### Divición:
+
+
 Ejercicio: clase3.js
 
