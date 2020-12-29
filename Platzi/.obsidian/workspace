@@ -6,10 +6,11 @@
       {
         "id": "2079a2e56de67c3d",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminal_classes/Clase_004_Funciones.md",
+            "file": "Javascript/Clase_004_Funciones.md",
             "mode": "source"
           }
         }
@@ -17,11 +18,10 @@
       {
         "id": "b8d0716c9efd13a1",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/001_Introduccion_a_javascript.md",
+            "file": "Javascript/Clase_004_Funciones.md",
             "mode": "source"
           }
         }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "colores",
+                "query": "clase 004 ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,8 +60,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/001_Introduccion_a_javascript.md",
+                "file": "Javascript/Clase_004_Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,13 +97,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Terminal_classes/Clase_004_Funciones.md",
     "Javascript/001_Introduccion_a_javascript.md",
     "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
     "Javascript/004 Objetos.md",
     "Javascript/Libros de javascript.md",
     "Javascript/Alcance que tienen las funciones clase 4.md",
     "Clase_003_Variables_Numeros.md",
-    "Terminal_classes/Clase_004_Funciones.md",
     "Terminal_classes/Untitled.md",
     "Clase_002_Variables_Y_Strings.md",
     "Clase_001_variables.md"
