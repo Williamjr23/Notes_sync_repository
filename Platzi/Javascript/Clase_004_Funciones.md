@@ -4,3 +4,4 @@
 
 Para definir una función, se va a utilizar la palabra: ```function```la cual está reservada unicamente para esto y no puedes tener variables llamadas con este nombre.
 
+Se pone function y luego el nombre de la funcion, luego los parentesis y adentro de se definiran los parametros, y para delimitar el cuerpo de la funci
