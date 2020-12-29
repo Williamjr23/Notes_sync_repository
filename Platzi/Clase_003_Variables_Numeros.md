@@ -47,6 +47,10 @@ Ejemplo:
 var total = Math.round(precioDeVino *100 *3) / 100
 ```
 
-Para que el output de tu decimal sea exactamente de el largo que tu quieres 
+Para que el output de tu decimal sea exactamente de el largo que tu quieres sería especificandoselo como de la siguiente manera:
+```js
+var totalStr = total.toFixed(2)
+```
+
 Ejercicio: clase3.js
 
