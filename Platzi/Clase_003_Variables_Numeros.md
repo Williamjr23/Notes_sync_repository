@@ -33,6 +33,7 @@ var peso = 61
 ### Decimales
 Explicación
 > La forma de trabajar con decimales en JS no es tán precisa de acuerdo a que se estima una cantidad limitada de bytes y para poder hacerlo mas preciso se podría multiplicar x 100 para pasar a un entero y luego dividirlo entre 100 nuevamente después de realizar nuestra operación, pero eso solo funcioina si tienes un decimal.
+
 Ejemplo:
 ```js
 var total = precioDeVino *100 *3 / 100
@@ -45,7 +46,6 @@ Ejemplo:
 ```js
 var total = Math.round(precioDeVino *100 *3) / 100
 ```
-
 
 
 Ejercicio: clase3.js
