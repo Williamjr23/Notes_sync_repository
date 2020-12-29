@@ -64,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528,
-    "collapsed": true
+    "width": 528
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -99,8 +98,8 @@
   },
   "lastOpenFiles": [
     "Clase_003_Variables_Numeros.md",
-    "Clase_002_Variables_Y_Strings.md",
     "Clase_007_Desestructurar objetos.md",
+    "Clase_002_Variables_Y_Strings.md",
     "Clase_001_variables.md",
     "Untitled.md",
     "preview.md",
