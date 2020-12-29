@@ -33,5 +33,7 @@ var peso = 61
 
 deicimaleis ein js nio eis tian pirieicisa
 
+decmales no es tan precsa precisa precisa no es tan precisa interesadi
+
 Ejercicio: clase3.js
 
