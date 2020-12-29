@@ -39,7 +39,7 @@ Ejemplo:
 var total = precioDeVino *100 *3 / 100
 ```
 
-Formá sencilla de hacerlo
+Formá sencilla de hacerlo:
 >   Así que lo mejor será acceder al **modulo global** ```math``` dentro de js y seguido de la instrucción: ```.round``` lo que le indíca que se redondea la cantidad final.
  
 Ejemplo:
@@ -47,6 +47,6 @@ Ejemplo:
 var total = Math.round(precioDeVino *100 *3) / 100
 ```
 
-
+Para que el output de tu decimal sea exactamente de el largo que tu quieres 
 Ejercicio: clase3.js
 
