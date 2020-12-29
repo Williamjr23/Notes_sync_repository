@@ -6,7 +6,6 @@
       {
         "id": "2079a2e56de67c3d",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,13 +15,14 @@
         }
       },
       {
-        "id": "48cb4bb3bc6ca9aa",
+        "id": "b8d0716c9efd13a1",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Clase_003_Variables_Numeros.md",
-            "mode": "preview"
+            "file": "Javascript/001_Introduccion_a_javascript.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -80,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Clase_004_Funciones.md",
+                "file": "Javascript/001_Introduccion_a_javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Terminal_classes/Untitled.md",
-    "Clase_003_Variables_Numeros.md",
-    "Clase_002_Variables_Y_Strings.md",
-    "Clase_001_variables.md",
-    "Clase_007_Desestructurar objetos.md",
-    "Untitled.md",
-    "preview.md",
+    "Javascript/001_Introduccion_a_javascript.md",
+    "Javascript/002_Que son los strings y que funciones podemos llamar con ellos.md",
     "Javascript/004 Objetos.md",
-    "Javascript/Untitled.md",
-    "Javascript/Alcance que tienen las funciones clase 4.md"
+    "Javascript/Libros de javascript.md",
+    "Javascript/Alcance que tienen las funciones clase 4.md",
+    "Clase_003_Variables_Numeros.md",
+    "Terminal_classes/Clase_004_Funciones.md",
+    "Terminal_classes/Untitled.md",
+    "Clase_002_Variables_Y_Strings.md",
+    "Clase_001_variables.md"
   ]
 }
