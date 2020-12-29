@@ -31,7 +31,7 @@ var peso = 61
 >  var 
 >```
 ### Decimales
-> La forma de trabajar con decimales en JS no es tán precisa 
+> La forma de trabajar con decimales en JS no es tán precisa de acuerdo a que se estima una cantidad limitada de bytes y para poder hacerlo mas preciso se podría multiplicar x 100 para pasar a un entero y luego dividirlo entre 100 nuevamente después de realizar nuestra operación, pero eso solo funcioina si tiienei un decima
 
 Ejercicio: clase3.js
 
