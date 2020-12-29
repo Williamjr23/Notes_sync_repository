@@ -31,5 +31,7 @@ var peso = 61
 >  var 
 >```
 
+deicimaleis ein js nio eis tian pirieicisa
+
 Ejercicio: clase3.js
 
