@@ -51,6 +51,9 @@ Para que el output de tu decimal sea exactamente de el largo que tu quieres ser√
 ```js
 var totalStr = total.toFixed(2)
 ```
-
+ y lo anterior es un string, para volver a decimal se utiliza:
+ ```js 
+ var total2 = parseFloat(2) 
+ ```
 Ejercicio: clase3.js
 
