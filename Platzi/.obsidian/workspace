@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Clase_001_variables.md",
+            "file": "Clase_002_Variables_Y_Strings.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase_001_variables.md",
+                "file": "Clase_002_Variables_Y_Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Clase_002_Variables_Y_Strings.md",
     "Clase_001_variables.md",
     "Clase_003_Variables_Numeros.md",
     "Clase_007_Desestructurar objetos.md",
-    "Clase_002_Variables_Y_Strings.md",
     "Untitled.md",
     "preview.md",
     "Javascript/004 Objetos.md",
