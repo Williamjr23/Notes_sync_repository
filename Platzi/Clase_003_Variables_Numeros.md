@@ -58,7 +58,10 @@ var totalStr = total.toFixed(2)
 > nota: esto convierte de string a decimal
 
 ### Divición:
-
-
+```js
+var pizza = 8
+var persona = 2
+var cantidadDePorcionesPorPersona = pizza / persona
+```
 Ejercicio: clase3.js
 
