@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Clase_003_Variables_Numeros.md",
+            "file": "Terminal_classes/Clase_004_Funciones.md",
             "mode": "source"
           }
         }
@@ -64,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528,
-    "collapsed": true
+    "width": 528
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase_003_Variables_Numeros.md",
+                "file": "Terminal_classes/Clase_004_Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Terminal_classes/Untitled.md",
     "Clase_003_Variables_Numeros.md",
     "Clase_002_Variables_Y_Strings.md",
     "Clase_001_variables.md",
@@ -106,7 +106,6 @@
     "preview.md",
     "Javascript/004 Objetos.md",
     "Javascript/Untitled.md",
-    "Javascript/Alcance que tienen las funciones clase 4.md",
-    "Javascript/Libros de javascript.md"
+    "Javascript/Alcance que tienen las funciones clase 4.md"
   ]
 }
