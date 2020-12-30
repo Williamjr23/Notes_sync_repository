@@ -29,4 +29,9 @@ var dario = {
 >los valores pueden ser strings, numeros, funciones, booleanas... entre otras.
 
 ### Acceder a las variables dentro de el objeto
-Simplemente digamos que quieres utilizar la función de: `` 
+Simplemente digamos que quieres utilizar la función de: ``` imprimirNombreEnMayusculas(nombre)```, la cual es:
+
+```
+function imprimrNombreEnMayusculas(nombre) { 
+	}
+```
