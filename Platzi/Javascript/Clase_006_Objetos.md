@@ -102,6 +102,9 @@ let objeto2 = {
 }
 ```
 
+-   imprimirNombreMayusculas( {nombre} )  
+    La función anterior espera recibir un objeto y preguntara por un atributo llamado nombre
+	
 Detalles de la clase:
 
 * Declarar objetos
