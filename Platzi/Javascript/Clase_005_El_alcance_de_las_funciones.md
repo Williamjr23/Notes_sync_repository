@@ -35,9 +35,6 @@ function imprimirNombreEnMayusculas(n) {
 ```
 >nota: Aquí podemos ver que la variable n no está definida, solo está definida dentro de la función ``` imprimirNombreEnMayusculas``` 
 
-/ terminar apunte //
-
-
 ### Variables locales
 >Las variables dentro de las funciones pueden tener un alcance local, eso significa que la variable solo está definida dentro de la funcion
 
