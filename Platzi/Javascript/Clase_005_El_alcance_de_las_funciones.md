@@ -34,13 +34,11 @@ Esto no siempre es una buena practica (El hacer muchas variables globales), ya q
 
 > La misma variable puede existir con el mismo nombre pero con diferentes valores dependiendo el alcance, en este caso existiría una en global como: 'nombre' y otra en local como: 'nombre' tambien 
 
-para referirnos a la variable de alcance global deberíamos especificar dentro de nuestra función:
-
-```js 
-window.nombre 
-```
-
-pero si no es el caso, la funcion siempre tomará la variable local especificada dentro de la misma 
+>para referirnos a la variable de alcance global deberíamos especificar dentro de nuestra función:
+>```js 
+>window.nombre  
+>```
+>Pero si no es el caso, la funcion siempre tomará la variable local especificada dentro de la misma 
 
 toda variable no definida dentro de la funcion, va a estár definida dentro de el alcance global, y vamos a poder definirla dentro de el objeto global
 
