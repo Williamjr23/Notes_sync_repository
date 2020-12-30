@@ -6,23 +6,23 @@
       {
         "id": "b0dc88e2b89a915f",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_006_Objetos.md",
+            "file": "Javascript/Clase_007_Desestructurar objetos.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "f629d3edaac1669a",
+        "id": "a9e6c168f3882837",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_006_Objetos.md",
-            "mode": "preview"
+            "file": "Javascript/Clase_007_Desestructurar objetos.md",
+            "mode": "source"
           }
         }
       }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_006_Objetos.md",
+                "file": "Javascript/Clase_007_Desestructurar objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_007_Desestructurar objetos.md",
+    "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_004_Objetos.md",
     "Javascript/Clase_005_El_alcance_de_las_funciones.md",
     "Javascript/004 Objetos.md",
