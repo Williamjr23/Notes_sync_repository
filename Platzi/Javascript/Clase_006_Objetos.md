@@ -77,6 +77,9 @@ imprimirNombreEnMayusculas(william)
 imprimirNombreEnMayusculas(dario) 
 ```
 
+-   ```imprimirNombreMayusculas( {nombre} )  ```
+    La función anterior espera recibir un objeto y preguntara por un atributo llamado nombre
+	
 Definir un objeto dentro de llamar a una función, se define el objeto dentro de la llamada de la función:
 ```js 
 imprimirNombreEnMayusculas({ nombre: 'Pepito' }) 
@@ -102,9 +105,7 @@ let objeto2 = {
 }
 ```
 
--   imprimirNombreMayusculas( {nombre} )  
-    La función anterior espera recibir un objeto y preguntara por un atributo llamado nombre
-	
+
 Detalles de la clase:
 
 * Declarar objetos
