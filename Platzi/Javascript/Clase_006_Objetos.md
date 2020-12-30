@@ -37,4 +37,4 @@ function imprimrNombreEnMayusculas(nombre) {
 		console.log(nombre)
 }
 ```
-La cual indica que se va a imprimir en la consola el ```nombre``` especficado en la variable local de la función, 
+La cual indica que se va a imprimir en la consola el ```nombre``` especficado en la variable local de la función, toma en cuenta que nombre dentro de esta, se refere al nombre dentro de la varable especifcada, con la tarea de imprimr el output con mayusculas
