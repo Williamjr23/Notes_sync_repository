@@ -31,10 +31,15 @@ var dario = {
 ### Acceder a las variables dentro de el objeto
 Simplemente digamos que quieres utilizar la función de: ``` imprimirNombreEnMayusculas(nombre)```, la cual es:
 
-```
+```js
 function imprimrNombreEnMayusculas(nombre) { 
 	nombre = nombre.toUpperCase()
 		console.log(nombre)
 }
 ```
-La cual indica que se va a imprimir en la consola el ```nombre``` especficado en la variable local de la función, toma en cuenta que nombre dentro de esta, se refere al nombre dentro de la varable especifcada, con la tarea de imprimr el output con mayusculas
+La cual indica que se va a imprimir en la consola el ```nombre``` especficado en la variable local de la función, toma en cuenta que nombre dentro de esta, se refere al nombre dentro de la varable especifcada, con la tarea de imprimr el output con mayusculas y esto se accede:
+
+```js
+imprimirNombreEnMayusculas(william.nombre)
+imprimirNombreEnMayusculas(dario.nombre)
+```
