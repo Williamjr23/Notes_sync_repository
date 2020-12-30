@@ -74,3 +74,10 @@ Definir un objeto dentro de llamar a una función, se define el objeto dentro de
 ```js 
 imprimirNombreEnMayusculas({ nombre: 'Pepito' }) 
 ```
+
+Al igual que si quisieramos definir:
+
+```js
+imprimirNombreEnMayusculas({ apellido: 'Gomez' }) 
+```
+no funcionaría, ya que no tenemos el 
