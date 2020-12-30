@@ -24,10 +24,11 @@ var nombre = 'william', edad = 28
 
 
 function imprimirEdad(n, e) {
-	console.log('${nombre} tiene ${edad} años')
+	console.log('${n} tiene ${e} años')
 }
 
 imprimirEdad(nombre, edad)
+imprimirEdad('Vicky')
 ```
 
-Así sei ip
+Así se puede reutilizar el codigo para mas nombres y mas edades
