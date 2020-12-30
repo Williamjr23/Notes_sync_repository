@@ -80,4 +80,4 @@ Al igual que si quisieramos definir:
 ```js
 imprimirNombreEnMayusculas({ apellido: 'Gomez' }) 
 ```
-no funcionaría, ya que no tenemos el 
+no funcionaría, ya que no tenemos dentro de los parámetros, definido que utilize la variable apellido, así que aunque le demos que apellido es igual a 'Gomez' 
