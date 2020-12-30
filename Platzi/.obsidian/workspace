@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_006_Objetos.md",
+            "file": "Javascript/Clase_007_Desestructurar objetos.md",
             "mode": "source"
           }
         }
@@ -64,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528,
-    "collapsed": true
+    "width": 528
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_006_Objetos.md",
+                "file": "Javascript/Clase_007_Desestructurar objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,11 +97,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_007_Desestructurar objetos.md",
     "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_004_Objetos.md",
     "Javascript/Clase_005_El_alcance_de_las_funciones.md",
     "Javascript/004 Objetos.md",
-    "Javascript/Clase_007_Desestructurar objetos.md",
     "Javascript/Libros de javascript.md",
     "Javascript/Clase_001_variables.md",
     "Javascript/Alcance que tienen las funciones clase 4.md",
