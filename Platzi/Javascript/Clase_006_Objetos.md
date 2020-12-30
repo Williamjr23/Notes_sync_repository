@@ -33,5 +33,8 @@ Simplemente digamos que quieres utilizar la función de: ``` imprimirNombreEnMay
 
 ```
 function imprimrNombreEnMayusculas(nombre) { 
-	}
+	nombre = nombre.toUpperCase()
+		console.log(nombre)
+}
 ```
+La cual indica que se va a imprimir en la consola el ```nombre``` especficado en la variable local de la función, 
