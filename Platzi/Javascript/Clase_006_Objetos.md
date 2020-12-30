@@ -1,4 +1,5 @@
 # Objetos
+> nota: Los objetos se definen delimitados mediante llaves {} y sus atributos van dentro de estas
 
 Añadir variables a cada rato no es la mejor opción, por eso vamos a empezar a trabajar con objetos, y este reune ciertas características en común, como si fuerán características como en lugar de:
 
