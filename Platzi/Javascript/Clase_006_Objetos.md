@@ -71,6 +71,6 @@ imprimirNombreEnMayusculas(dario)
 ```
 
 Definir un objeto dentro de llamar a una función, se define el objeto dentro de la llamada de la función:
-```
-imprimirNombreEnMayusculas({ nombre: 'Pep'})
+```js 
+imprimirNombreEnMayusculas({ nombre: 'Pepito' }) 
 ```
