@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_006_Objetos.md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
             "mode": "source"
           }
         }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clase 004 ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -80,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_006_Objetos.md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
     "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_007_Desestructurar objetos.md",
     "Javascript/Clase_004_Objetos.md",
@@ -104,8 +107,6 @@
     "Javascript/004 Objetos.md",
     "Javascript/Libros de javascript.md",
     "Javascript/Clase_001_variables.md",
-    "Javascript/Alcance que tienen las funciones clase 4.md",
-    "Javascript/Clase_004_Funciones.md",
-    "Javascript/Untitled.md"
+    "Javascript/Alcance que tienen las funciones clase 4.md"
   ]
 }
