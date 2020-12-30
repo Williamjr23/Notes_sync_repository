@@ -45,3 +45,5 @@ imprimirNombreEnMayusculas(dario.nombre)
 ```
 
 En el cual indícas, que se use la función anteriormente especificada para imprimir el nombre en mayusculas, en otro caso podría ser cualquer función, y especifcamos en los parametros de nuestra función, que dentro de el objeto ```william```se busque la variable ```nombre``` y el output se pase a mayusculas todo, así mismo dentro de el mismo objeto (willam) podríamos acceder a otras variables como apelldo, o edad.
+
+Otra forma de escrbir es
