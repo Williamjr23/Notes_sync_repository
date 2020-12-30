@@ -84,3 +84,7 @@ no funcionaría, ya que no tenemos dentro de los parámetros, definido que utili
 
 Detalles de la clase:
 
+* Declarar objetos
+* Definir atributos de los objetos
+* Asignar valores a cada uno de ellos
+* Pasar objetos como parametros hacia las funciones
