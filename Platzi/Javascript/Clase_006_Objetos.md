@@ -48,6 +48,11 @@ En el cual indícas, que se use la función anteriormente especificada para impr
 
 Otra forma de escrbir esto mismo podría ser:
 ```
+function imprimrNombreEnMayusculas(persona) {
+	console.log(persona.nombre.toUpperCasse())
+}
 
+imprimirNombreEnMayusculas(william)
+imprimirNombreEnMayusculas(dario) 
 ```
 > Toma en cuenta que la forma de escribir este codigo, a pesar de que el output sea el mismo, va a depender de nuestras necesidades, o de que tan general, especfico o si queremos re utilzar alguna parte de nuestro codigo.
