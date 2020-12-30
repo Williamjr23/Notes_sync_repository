@@ -1,6 +1,8 @@
 # Objetos
 > nota: Los objetos se definen delimitados mediante llaves {} y sus atributos van dentro de estas
 
+ > Un atributo se compone de una clave (key) y un valor (value), que se separan entre sí por dos puntos “”:"". Los valores pueden ser de tipo string, número, booleano, etc. Cada atributo está separado del siguiente por una coma. Un objeto puede tener todos los atributos que sean necesarios.
+
 Añadir variables a cada rato no es la mejor opción, por eso vamos a empezar a trabajar con objetos, y este reune ciertas características en común, como si fuerán características como en lugar de:
 
 ```js
