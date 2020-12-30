@@ -16,3 +16,13 @@ function imprimirEdad() {
 imprimirEdad()
 ```
 
+### Parametros
+Se le indíca a la funcion que variables va a recibir, por ejemplo:
+
+```js
+function imprimirEdad() {
+	console.log('${nombre} tiene ${edad} años')
+}
+
+imprimirEdad()
+```
