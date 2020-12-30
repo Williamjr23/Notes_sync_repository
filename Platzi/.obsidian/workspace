@@ -14,17 +14,6 @@
             "mode": "preview"
           }
         }
-      },
-      {
-        "id": "1ad0e50cc305a1cc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528
+    "width": 528,
+    "collapsed": true
   },
   "right": {
     "id": "993c4efd9f0db2b6",
