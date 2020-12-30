@@ -28,7 +28,9 @@ function imprimirEdad(n, e) {
 }
 
 imprimirEdad(nombre, edad)
-imprimirEdad('Vicky')
+imprimirEdad('Nachito', 25)
+imprimirEdad('william', 18)
+
 ```
 
 Así se puede reutilizar el codigo para mas nombres y mas edades
