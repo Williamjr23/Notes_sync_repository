@@ -20,9 +20,12 @@ imprimirEdad()
 Se le indíca a la funcion que variables va a recibir, por ejemplo:
 
 ```js
-function imprimirEdad() {
+var nombre = 'william', edad = 28
+
+
+function imprimirEdad(nombre, edad) {
 	console.log('${nombre} tiene ${edad} años')
 }
 
-imprimirEdad()
+imprimirEdad(nombre, edad)
 ```
