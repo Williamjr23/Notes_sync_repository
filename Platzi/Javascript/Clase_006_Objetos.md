@@ -16,7 +16,11 @@ var william = {
 	edad: 28
 }
 
-var dari
+var dario = { 
+	nombre: 'Dario'
+	apellido: 'Susnisky'
+	edad: 27
+}
 ```
 >se agregan los atributos dentro de el objeto y se separan por comas "```,```"
 >Así vemos que un objeto no es nada más que clave y valor.
