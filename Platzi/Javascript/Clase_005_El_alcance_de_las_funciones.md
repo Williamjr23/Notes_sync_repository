@@ -40,7 +40,7 @@ Esto no siempre es una buena practica (El hacer muchas variables globales), ya q
 >```
 >Pero si no es el caso, la funcion siempre tomará la variable local especificada dentro de la misma 
 
-toda variable no definida dentro de la funcion, va a estár definida dentro de el alcance global, y vamos a poder definirla dentro de el objeto global
+**Toda variable no definida dentro de la funcion, va a estár definida dentro de el alcance global, y vamos a poder definirla dentro de el objeto global**
 
 ```js 
 console.log("inicializando archivo");
