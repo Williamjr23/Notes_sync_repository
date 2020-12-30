@@ -70,7 +70,7 @@ imprimirNombreEnMayusculas(nombre);
 //De esta manera evito el efecto colateral y tengo un alcance local
 ```
 
-nota: en js en general queremos una variable local que no contamine todo el codigo 
+>nota: en js en general queremos una variable local que no contamine todo el codigo 
 
 Repaso  
 ¿Que aprendi?  
