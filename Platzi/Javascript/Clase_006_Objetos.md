@@ -57,4 +57,4 @@ imprimirNombreEnMayusculas(dario)
 ```
 > Toma en cuenta que la forma de escribir este codigo, a pesar de que el output sea el mismo, va a depender de nuestras necesidades, o de que tan general, especfico o si queremos re utilzar alguna parte de nuestro codigo.
 
-Y una de las formas en teoría mas descriptivas a simple vista al estár trabajando con el codigo podría ser una como la siguiente, en esta, como lo que nos interesa es su nombre, lo que podemos hacer, es desglosar el objeto en los parametros y funciona en lugar de escribir dentro de el parentesis de la funcion que son los parametros de la mism
+Y una de las formas en teoría mas descriptivas a simple vista al estár trabajando con el codigo podría ser una como la siguiente, en esta, como lo que nos interesa es su nombre, lo que podemos hacer, es desglosar el objeto en los parametros y funciona en lugar de escribir dentro de el parentesis de la funcion que son los parametros de la misma pondríamos llaves: ```{}```
