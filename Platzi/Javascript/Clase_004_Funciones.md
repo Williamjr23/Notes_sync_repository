@@ -23,9 +23,11 @@ Se le indíca a la funcion que variables va a recibir, por ejemplo:
 var nombre = 'william', edad = 28
 
 
-function imprimirEdad(nombre, edad) {
+function imprimirEdad(n, e) {
 	console.log('${nombre} tiene ${edad} años')
 }
 
 imprimirEdad(nombre, edad)
 ```
+
+Así sei ip
