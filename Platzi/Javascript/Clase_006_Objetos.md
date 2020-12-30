@@ -88,3 +88,4 @@ Detalles de la clase:
 * Definir atributos de los objetos
 * Asignar valores a cada uno de ellos
 * Pasar objetos como parametros hacia las funciones
+* Acceder a los atributos dentro de las funciones
