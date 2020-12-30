@@ -19,9 +19,10 @@ A que variables pueden acceder y que valores van a tener esas variables
 
 > nota: El objeto global en html es la ventana 
 
-Esto no siempre es una buena practica, ya que tiene un sideeffect que modifica la variable global y normalmente queremos poder seguir accediendo a ella sin que esté modificada, y esto lo hacemos de la siguiente manera
+Esto no siempre es una buena practica (El hacer muchas variables globales), ya que tiene un sideeffect que modifica la variable global y normalmente queremos poder seguir accediendo a ella sin que esté modificada, y esto lo hacemos de la siguiente manera:
 
-las variables dentro de las funciones pueden tener un alcance local, eso significa que la variable solo está definida dentro de la funcion
+**
+Las variables dentro de las funciones pueden tener un alcance local, eso significa que la variable solo está definida dentro de la funcion
 
 y así solo se modifica la variable local, pero no la variable global
 
