@@ -10,6 +10,8 @@ Ejemplo:
 
 ```js
 function imprimirEdad() {
-	console.log()
+	console.log('${nombre} tiene ${edad} años')
 }
+
+imprimirEdad()
 ```
