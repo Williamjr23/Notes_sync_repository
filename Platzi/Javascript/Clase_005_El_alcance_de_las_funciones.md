@@ -23,7 +23,7 @@ Cuando tenemos una variable global?
 
 Esto no siempre es una buena practica (El hacer muchas variables globales), ya que tiene un sideeffect que modifica la variable global y normalmente queremos poder seguir accediendo a ella sin que esté modificada, y esto lo hacemos de la siguiente manera:
 
-
+se le agrega un parametro a la función, en este caso es ```(n)``` 
 / terminar apunte //
 
 
