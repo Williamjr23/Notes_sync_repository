@@ -30,6 +30,7 @@ var nombre = 'william'
 
 function imprimirNombreEnMayusculas(n) {
 	n = n.toUpperCase()
+	console.log(n)
 }
 ```
 >nota: Aquí podemos ver que la variable n no está definida, solo está definida dentro de la función ``` imprimirNombreEnMayusculas``` 
