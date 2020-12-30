@@ -6,6 +6,7 @@
       {
         "id": "b0dc88e2b89a915f",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,12 +18,11 @@
       {
         "id": "a9e6c168f3882837",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Javascript/Clase_007_Desestructurar objetos.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
