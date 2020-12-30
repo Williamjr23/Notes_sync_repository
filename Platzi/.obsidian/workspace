@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
-            "mode": "source"
+            "file": "Javascript/Clase_006_Objetos.md",
+            "mode": "preview"
           }
         }
       },
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
+                "file": "Javascript/Clase_006_Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_006_Objetos.md",
+    "Javascript/Clase_007_Desestructurar objetos.md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "Javascript/Untitled.md",
-    "Javascript/Clase_007_Desestructurar objetos.md",
-    "Javascript/Clase_006_Objetos.md",
     "Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_007 (conceptos iniciales de css).md",
     "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
