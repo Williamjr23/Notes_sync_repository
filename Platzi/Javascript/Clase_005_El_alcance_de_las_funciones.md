@@ -9,4 +9,5 @@ function imprimirNombreEnMayusculas({nombre}) {
 
 }
 ```
-> como podrás ver en la función 
+> como podrás ver en la función anterior, expresamente lo que hace es imprimir el string de un nombre para que su output sea el nombre en mayusculas.
+
