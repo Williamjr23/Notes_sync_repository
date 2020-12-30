@@ -62,6 +62,10 @@ Y una de las formas en teoría mas descriptivas a simple vista al estár trabaja
 Ejemplo:
 
 ```js
-function
+function imprimrNombreEnMayusculas({nombre}) {
+	console.log(nombre.toUpperCasse())
+}
 
+imprimirNombreEnMayusculas(william)
+imprimirNombreEnMayusculas(dario) 
 ```
