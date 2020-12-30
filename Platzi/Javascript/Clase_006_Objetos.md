@@ -89,6 +89,19 @@ imprimirNombreEnMayusculas({ apellido: 'Gomez' })
 ```
 no funcionaría, ya que no tenemos dentro de los parámetros, definido que utilize la variable apellido, así que aunque le demos que apellido es igual a 'Gomez' no va a funcionar ya que dentro de nuestra función, no hay nada establecido a hacer con el apellido.
 
+Los objectos pueden recibir como valor en sus propiedades, cadenas de texto (string), valores numericos (int) y booleanos. Tambien puedes realizar operaciones dentro de los valores. Ejemplo:
+
+```js 
+let objeto2 = {
+	'string' : 'Hola soy una cadena de texto',
+	'int': 123,
+	'boolTrue': true,
+	'boolFalse': false,
+	'sumar': 5+5,
+	'minuscula': 'TEXTO'.toLowerCase() 
+}
+```
+
 Detalles de la clase:
 
 * Declarar objetos
