@@ -32,6 +32,8 @@ function imprimirNombreEnMayusculas(n) {
 	n = n.toUpperCase()
 }
 ```
+>nota: Aquí podemos ver que la variable n no está definida, solo está definida dentro de la función ``` imprimirNombreEnMayusculas``` 
+
 / terminar apunte //
 
 
