@@ -13,9 +13,9 @@ function imprimirNombreEnMayusculas({nombre}) {
 
 A que variables pueden acceder y que valores van a tener esas variables
 
-cuando tenemos una variable global?
-
 ### Variables globales
+
+Cuando tenemos una variable global?
 
 > Si una variable no está definida dentro de una funcion, se dice que es de alcance global y eso significa que se puede acceder desde cualquier function
 
@@ -28,11 +28,11 @@ Esto no siempre es una buena practica (El hacer muchas variables globales), ya q
 
 
 ### Variables locales
-Las variables dentro de las funciones pueden tener un alcance local, eso significa que la variable solo está definida dentro de la funcion
+>Las variables dentro de las funciones pueden tener un alcance local, eso significa que la variable solo está definida dentro de la funcion
 
-y así solo se modifica la variable local, pero no la variable global
+>Y así solo se modifica la variable local, pero no la variable global
 
-la misma variable puede existir con el mismo nombre pero con diferentes valores dependiendo el alcance, en este caso existiría una en global como: 'nombre' y otra en local como: 'nombre' tambien 
+> La misma variable puede existir con el mismo nombre pero con diferentes valores dependiendo el alcance, en este caso existiría una en global como: 'nombre' y otra en local como: 'nombre' tambien 
 
 para referirnos a la variable de alcance global deberíamos especificar dentro de nuestra función:
 
