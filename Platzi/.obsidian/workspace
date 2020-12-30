@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_006_Objetos.md",
+            "file": "Javascript/Clase_004_Funciones.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_006_Objetos.md",
+                "file": "Javascript/Clase_004_Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_004_Funciones.md",
+    "Javascript/Clase_005_El_alcance_de_las_funciones.md",
     "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_007_Desestructurar objetos.md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
@@ -104,8 +106,6 @@
     "Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_007 (conceptos iniciales de css).md",
     "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
-    "Javascript/Clase_004_Objetos.md"
+    "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md"
   ]
 }
