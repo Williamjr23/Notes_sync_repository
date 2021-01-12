@@ -6,6 +6,7 @@
       {
         "id": "dfb61546eac41f9e",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,12 +18,11 @@
       {
         "id": "659437495732c9a7",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Javascript/Clase_016_estructuras repetitivas(do while).md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -64,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626
+    "width": 626,
+    "collapsed": true
   },
   "right": {
     "id": "993c4efd9f0db2b6",
