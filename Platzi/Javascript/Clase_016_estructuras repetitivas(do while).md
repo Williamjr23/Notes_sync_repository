@@ -6,8 +6,8 @@ vamos a poner el:
 
 ```js
 do { 
-
-} while ()
+	contador++
+} while (!llueve())
 ```
 
 El while es donde vamos a poner la condicón y se especifcan sus parametros dentro de los parentesis, si esta condición se cumple el codígo se vuelve a ejecutar. 
