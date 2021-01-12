@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
-            "mode": "preview"
+            "file": "Clase_00.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
+                "file": "Clase_00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "Javascript/Libros de javascript.md",
     "Untitled.md",
@@ -94,7 +95,6 @@
     "Javascript/Clase_002_Variables_Y_Strings.md",
     "Javascript/Clase_001_variables.md",
     "Javascript/Clase_003_Variables_Numeros.md",
-    "Javascript/Clase_006_Objetos.md",
-    "Javascript/Clase_007_Desestructurar objetos.md"
+    "Javascript/Clase_006_Objetos.md"
   ]
 }
