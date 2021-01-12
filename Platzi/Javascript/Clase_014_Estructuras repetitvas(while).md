@@ -1,0 +1,1 @@
+Se diferencia de el while por que 
