@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_002_Variables_Y_Strings.md",
+            "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
             "mode": "preview"
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427,
-    "collapsed": true
+    "width": 427
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_002_Variables_Y_Strings.md",
+                "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Clase_002_Variables_Y_Strings.md",
-    "Javascript/Clase_003_Variables_Numeros.md",
-    "Javascript/Clase_004_Funciones.md",
+    "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "Javascript/Clase_005_El_alcance_de_las_funciones.md",
+    "Javascript/Clase_004_Funciones.md",
+    "Javascript/Clase_002_Variables_Y_Strings.md",
+    "Javascript/Clase_001_variables.md",
+    "Javascript/Clase_003_Variables_Numeros.md",
     "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_007_Desestructurar objetos.md",
-    "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "Javascript/Untitled.md",
-    "Untitled.md",
-    "HTML_&_CSS/HTML_&_CSS_Class_007 (conceptos iniciales de css).md"
+    "Untitled.md"
   ]
 }
