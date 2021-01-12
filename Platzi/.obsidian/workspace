@@ -10,18 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Untitled.md",
+            "file": "Javascript/Clase_17_Estructura_de_control(switch).md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "659437495732c9a7",
+        "id": "878fb0355e23e966",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_016_estructuras repetitivas(do while).md",
+            "file": "Javascript/Clase_17_Estructura_de_control(switch).md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626
+    "width": 626,
+    "collapsed": true
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -80,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Untitled.md",
+                "file": "Javascript/Clase_17_Estructura_de_control(switch).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Untitled.md",
+    "Javascript/Clase_17_Estructura_de_control(switch).md",
     "Javascript/Clase_016_estructuras repetitivas(do while).md",
+    "Javascript/Untitled.md",
     "Javascript/Clase_016_estructuras repetitivas(while).md",
     "Javascript/Clase_015_Estructuras repetitvas(while).md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "Untitled 1.md",
     "Javascript/Libros de javascript.md",
     "Untitled.md",
-    "Javascript/Clase_005_El_alcance_de_las_funciones.md",
-    "Javascript/Clase_004_Funciones.md"
+    "Javascript/Clase_005_El_alcance_de_las_funciones.md"
   ]
 }
