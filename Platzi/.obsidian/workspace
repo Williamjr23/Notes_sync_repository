@@ -6,23 +6,23 @@
       {
         "id": "dfb61546eac41f9e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_015_Estructuras repetitvas(while).md",
+            "file": "Javascript/Clase_016_estructuras repetitivas(do while).md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "166545162fab39f6",
+        "id": "659437495732c9a7",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_015_Estructuras repetitvas(while).md",
-            "mode": "preview"
+            "file": "Javascript/Clase_016_estructuras repetitivas(do while).md",
+            "mode": "source"
           }
         }
       }
@@ -64,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626,
-    "collapsed": true
+    "width": 626
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_015_Estructuras repetitvas(while).md",
+                "file": "Javascript/Clase_016_estructuras repetitivas(do while).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Clase_015_Estructuras repetitvas(while).md",
+    "Javascript/Clase_016_estructuras repetitivas(do while).md",
     "Javascript/Clase_016_estructuras repetitivas(while).md",
+    "Javascript/Clase_015_Estructuras repetitvas(while).md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "Javascript/Untitled.md",
     "Untitled 1.md",
     "Javascript/Libros de javascript.md",
     "Untitled.md",
     "Javascript/Clase_005_El_alcance_de_las_funciones.md",
-    "Javascript/Clase_004_Funciones.md",
-    "Javascript/Clase_002_Variables_Y_Strings.md"
+    "Javascript/Clase_004_Funciones.md"
   ]
 }
