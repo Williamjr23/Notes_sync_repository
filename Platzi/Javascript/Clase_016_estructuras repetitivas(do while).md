@@ -14,6 +14,8 @@ El while es donde vamos a poner la condicón y se especifcan sus parametros dent
 
 
 
+
+
 VOY A HACER UNA FUNCTIÓN QUE RETORNE "VEZ" 
 
 
