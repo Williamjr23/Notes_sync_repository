@@ -17,4 +17,4 @@ El while es donde vamos a poner la condicón y se especifcan sus parametros dent
 VOY A HACER UNA FUNCTIÓN QUE RETORNE "VEZ" 
 
 
-voy a hacer una function que retorne "vez" s el numero es asd
+voy a hacer una function que retorne "veces" s el numero es igual o mayor que 2 y que de lo contrario 
