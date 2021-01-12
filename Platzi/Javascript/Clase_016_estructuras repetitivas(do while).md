@@ -18,3 +18,5 @@ VOY A HACER UNA FUNCTIÓN QUE RETORNE "VEZ"
 
 
 voy a hacer una function que retorne "veces" si (if) el numero es igual o mayor que 2 entonces (veces) y que de lo contrario (else) si el numero es menor o igual a 1  entonces retornar el string: "vez"
+
+
