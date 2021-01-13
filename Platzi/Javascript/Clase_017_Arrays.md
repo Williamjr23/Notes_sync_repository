@@ -15,3 +15,5 @@ var personas = []
 > * Funciones
 > 
 >O podemos incluso hasta mezclar cosas dentro de el mismo array 
+
+Si se quiere acceder al primero de los elementos recordar que se tiene que empeza
