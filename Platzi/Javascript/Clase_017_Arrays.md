@@ -13,4 +13,5 @@ var personas = []
 > * Texto
 > * Objetos
 > * Funciones
-> O p
+> 
+>O podemos incluso hasta mezclar cosas dentro el el mismo array 
