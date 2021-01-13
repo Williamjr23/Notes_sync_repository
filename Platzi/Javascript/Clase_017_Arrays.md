@@ -3,4 +3,3 @@
 
 >iterar: realizar [cierta acción] varias veces
 
-Crear una coleccion 
