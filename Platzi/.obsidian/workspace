@@ -6,7 +6,6 @@
       {
         "id": "124b252c1b07d29e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +17,12 @@
       {
         "id": "d4d88f058fca6379",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Javascript/Clase_017_Arrays.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
