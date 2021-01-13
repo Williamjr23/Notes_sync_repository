@@ -3,4 +3,9 @@
 
 >iterar: realizar [cierta acción] varias veces
 
-Supongamos que queremos agrupar dentro de una colección a varios objetos que son personas con varos atributos internos cada uno y lo guardaríamos de la s
+Supongamos que queremos agrupar dentro de una colección a varios objetos que son personas con varos atributos internos cada uno y lo guardaríamos de la siguiente forma:
+
+```js
+var personas = []
+```
+> Para identificar que es un Array se utilzan los corchetes ```[]``` y dentro de estos vamos a ir poniendo cada una de las varia
