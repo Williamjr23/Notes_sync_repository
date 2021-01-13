@@ -3,3 +3,4 @@
 
 >iterar: realizar [cierta acción] varias veces
 
+Supongamos que queremos agrupar dentro de una colección a varios objetos que son personas con varos atributos internos cada uno y lo guardaríamos de la s
