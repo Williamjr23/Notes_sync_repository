@@ -10,6 +10,7 @@ Forma de utlizarse:
 ```js 
 switch (signo) {
 	case 'aries':
+	case 'Aries':
 	console.log('Prepárese, ya que sus conocimientos se convertirán en la base para la realización de esos nuevos proyectos. Procure pensar bien antes de realizar algún movimiento.')
 	break
 }
