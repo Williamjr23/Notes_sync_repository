@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_009_Comparaciones_en_JS.md",
+            "file": "HTML_&_CSS/Javascript/Clase_010_Condicionales.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_009_Comparaciones_en_JS.md",
+                "file": "HTML_&_CSS/Javascript/Clase_010_Condicionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,14 +87,14 @@
   },
   "lastOpenFiles": [
     "Javascript/Untitled.md",
+    "Untitled.md",
     "Untitled 1.md",
+    "Untitled 2.md",
+    "Javascript/Clase_015_Estructuras repetitvas(while).md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "Javascript/Clase_17_Estructura_de_control(switch).md",
     "Javascript/Clase_016_estructuras repetitivas(do while).md",
     "Javascript/Clase_016_estructuras repetitivas(while).md",
-    "Javascript/Clase_015_Estructuras repetitvas(while).md",
-    "Javascript/Libros de javascript.md",
-    "Untitled.md",
-    "Javascript/Clase_005_El_alcance_de_las_funciones.md"
+    "Javascript/Libros de javascript.md"
   ]
 }
