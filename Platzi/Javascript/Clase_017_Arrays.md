@@ -6,7 +6,7 @@
 Supongamos que queremos agrupar dentro de una colección a varios objetos que son personas con varos atributos internos cada uno y lo guardaríamos de la siguiente forma:
 
 ```js
-var personas = []
+var personas = [william, Diana, Parsole, Erick, Elsebasduarte]
 ```
 > Para identificar que es un Array se utilzan los corchetes ```[]``` y dentro de estos vamos a ir poniendo cada una de las variables que queremos que contenga nuestro array y se puede componer nuestro array de:
 > * Numeros
@@ -16,4 +16,7 @@ var personas = []
 > 
 >O podemos incluso hasta mezclar cosas dentro de el mismo array 
 
-Si se quiere acceder al primero de los elementos recordar que se tiene que empeza
+Si se quiere acceder al primero de los elementos recordar que se tiene que empezar desde 0 el primer objeto es el objeto numero 0 en este caso sería 
+```js 
+personas[0] 
+```
