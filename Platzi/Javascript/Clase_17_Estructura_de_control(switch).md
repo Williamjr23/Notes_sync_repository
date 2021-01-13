@@ -20,4 +20,8 @@ switch (signo) {
 
 >Por ultmo hay que saber que el codigo segun sea el caso se va a ejecutar hasta que encuentre un ```break```
 
-otro caso especial del switch es el ```default:``` que significa que si ninguna de las condiciones se cumple entonces se reproduce lo que se tenga preestablecido en default como
+otro caso especial del switch es el ```default:``` que significa que si ninguna de las condiciones se cumple entonces se reproduce lo que se tenga preestablecido en default como:
+```js
+default:
+	console.log('No es un signo zodiacal valido')
+```
