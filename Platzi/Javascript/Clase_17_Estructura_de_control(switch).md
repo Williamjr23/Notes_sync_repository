@@ -8,6 +8,9 @@ Cuando tenes muchos ```if``` que hacen referencia a la misma entrada se puede ut
 Forma de utlizarse:
 
 ```
-switch (signo)
+switch (signo) {
+	case
+}
 ```
 > se declara ```swtch ()``` y entre los paréntesis vamos a poner la varable que queremos utilizar
+> La parte ```case```
