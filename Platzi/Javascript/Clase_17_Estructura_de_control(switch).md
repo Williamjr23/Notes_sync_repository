@@ -9,8 +9,8 @@ Forma de utlizarse:
 
 ```
 switch (signo) {
-	case
+	case 'acuaro'
 }
 ```
 > se declara ```swtch ()``` y entre los paréntesis vamos a poner la varable que queremos utilizar
-> La parte ```case```
+> La parte ```case``` signifca "caso" y hace referencia a que dependiendo que casos tengamos se hará tal cosa 
