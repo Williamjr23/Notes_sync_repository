@@ -11,7 +11,6 @@ Forma de utlizarse:
 switch (signo) {
 	case 'aries':
 	console.log('Prepárese, ya que sus conocimientos se convertirán en la base para la realización de esos nuevos proyectos. Procure pensar bien antes de realizar algún movimiento.')
-
 	break
 }
 ```
