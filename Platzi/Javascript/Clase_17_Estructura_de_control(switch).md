@@ -7,10 +7,11 @@ Cuando tenes muchos ```if``` que hacen referencia a la misma entrada se puede ut
 
 Forma de utlizarse:
 
-```
+```js 
 switch (signo) {
-	case 'acuaro'
-	
+	case 'aries':
+	console.log('Prepárese, ya que sus conocimientos se convertirán en la base para la realización de esos nuevos proyectos. Procure pensar bien antes de realizar algún movimiento.')
+
 	break
 }
 ```
