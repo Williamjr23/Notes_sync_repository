@@ -20,3 +20,8 @@ Si se quiere acceder al primero de los elementos recordar que se tiene que empez
 ```js 
 personas[0] 
 ```
+
+si quisieramos acceder a la altura se podría poner:
+```js
+personas[0].altura
+```
