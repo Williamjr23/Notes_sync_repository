@@ -19,3 +19,5 @@ switch (signo) {
 > La parte ```case``` signifca "caso" y hace referencia a que dependiendo que casos tengamos se hará tal cosa 
 
 >Por ultmo hay que saber que el codigo segun sea el caso se va a ejecutar hasta que encuentre un ```break```
+
+otro caso especial del switch
