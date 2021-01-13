@@ -25,3 +25,9 @@ otro caso especial del switch es el ```default:``` que significa que si ninguna 
 default:
 	console.log('No es un signo zodiacal valido')
 ```
+
+Una ultima estructura de control se llama switch. Switch se utiliza para realizar diferentes acciones basadas en múltiples condiciones.
+
+Prompt, muestra un cuadro de mensaje que le pide al usuario que ingrese algúna información.
+
+Break, sirve para que el browser se salte un bucle.
