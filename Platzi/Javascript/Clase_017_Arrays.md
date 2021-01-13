@@ -8,4 +8,9 @@ Supongamos que queremos agrupar dentro de una colección a varios objetos que so
 ```js
 var personas = []
 ```
-> Para identificar que es un Array se utilzan los corchetes ```[]``` y dentro de estos vamos a ir poniendo cada una de las varia
+> Para identificar que es un Array se utilzan los corchetes ```[]``` y dentro de estos vamos a ir poniendo cada una de las variables que queremos que contenga nuestro array y se puede componer nuestro array de:
+> * Numeros
+> * Texto
+> * Objetos
+> * Funciones
+> O p
