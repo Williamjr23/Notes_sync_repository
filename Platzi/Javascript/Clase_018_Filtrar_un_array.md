@@ -34,4 +34,4 @@ console.log(personasAltas)
 
 >prolijo: Que se lleva a cabo con detenimiento en los más pequeños detalles
 
-> La forma de abajo es otra manera de hacerlo (se define una ```function``` anonima y luego con las llaves ```{}``` se hace el codigo ah)que también se puede encontrar, pero parece que es un poco más prolijo 
+> La forma de abajo es otra manera de hacerlo (se define una ```function``` anonima y luego con las llaves ```{}``` se hace el codigo ahí mismo y funciona de la misma manera) también se puede encontrar, pero parece que es un poco más prolijo tener la condición por separado en
