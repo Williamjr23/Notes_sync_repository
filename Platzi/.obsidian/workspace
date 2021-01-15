@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+            "file": "Javascript/Clase_018_Filtrar_un_array.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Javascript/Clase_018_Filtrar_un_array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
+    "Javascript/Clase_018_Filtrar_un_array.md",
+    "Javascript/Libros de javascript.md",
     "Javascript/Clase_017_Arrays.md",
-    "Javascript/Clase_012_Arrow_functions.md",
-    "Javascript/Clase_014_Estructuras repetitvas(while).md",
-    "Javascript/Clase_011_Funciones_que_retornan_valores.md",
-    "Javascript/Untitled.md",
-    "Javascript/Clase_013_Estructuras_repetitivas_for.md",
-    "Javascript/Clase_015_estructuras repetitivas(do while).md",
     "Javascript/Clase_16_Estructura_de_control(switch).md",
-    "Javascript/Clase_016_Arrays.md"
+    "Javascript/Clase_010_Condicionales.md",
+    "Javascript/Clase_013_Estructuras_repetitivas_for.md",
+    "Javascript/Untitled.md",
+    "Untitled.md",
+    "Javascript/Clase_012_Arrow_functions.md",
+    "Javascript/Clase_014_Estructuras repetitvas(while).md"
   ]
 }
