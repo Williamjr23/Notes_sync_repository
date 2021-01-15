@@ -7,3 +7,4 @@
 >> Y esta condición va a ser una ```function```
 
 ### ```filter()```
+> La función ```filter()``` lleva como parámetro en los parentesuna condicion 
