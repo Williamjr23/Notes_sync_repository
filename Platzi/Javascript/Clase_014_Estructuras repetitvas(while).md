@@ -13,7 +13,9 @@ while () {
 
 Ejemplo:
 ```js
-while (willam.peso > META) {
+const META = willam.peso + 3
 
+while (willam.peso > META) {
+	if
 }
 ```
