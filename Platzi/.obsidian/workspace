@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_014_Estructuras repetitvas(while).md",
+            "file": "Javascript/Notas extra del curso.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_014_Estructuras repetitvas(while).md",
+                "file": "Javascript/Notas extra del curso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Untitled.md",
     "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
     "Javascript/Clase_015_estructuras repetitivas(do while).md",
@@ -105,7 +106,6 @@
     "Javascript/Clase_016_Arrays.md",
     "Javascript/Clase_015_Estructuras repetitvas(while).md",
     "Javascript/Clase_17_Estructura_de_control(switch).md",
-    "Javascript/Clase_016_estructuras repetitivas(do while).md",
-    "Javascript/Untitled.md"
+    "Javascript/Clase_016_estructuras repetitivas(do while).md"
   ]
 }
