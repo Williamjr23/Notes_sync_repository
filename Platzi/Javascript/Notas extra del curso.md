@@ -1,1 +1,1 @@
-B
+* Buscar como utilizar todas las funcones de chrome developer y las herramientas de desarrollador 
