@@ -6,22 +6,22 @@
       {
         "id": "124b252c1b07d29e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_017_Arrays.md",
+            "file": "Javascript/Clase_16_Estructura_de_control(switch).md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "d4d88f058fca6379",
+        "id": "a19cf008382942ae",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_017_Arrays.md",
+            "file": "Javascript/Clase_16_Estructura_de_control(switch).md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_017_Arrays.md",
+                "file": "Javascript/Clase_16_Estructura_de_control(switch).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Clase_017_Arrays.md",
     "Javascript/Clase_16_Estructura_de_control(switch).md",
+    "Javascript/Clase_017_Arrays.md",
     "Javascript/Clase_015_estructuras repetitivas(do while).md",
     "Javascript/Clase_016_Arrays.md",
     "Javascript/Clase_014_Estructuras repetitvas(while).md",
