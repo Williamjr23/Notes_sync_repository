@@ -15,7 +15,14 @@ Ejemplo:
 ```js
 const META = willam.peso + 3
 
+const comeMucho = () => M
+
 while (willam.peso > META) {
-	if
+	if () {
+	
+	}
+	if () {
+	
+	}
 }
 ```
