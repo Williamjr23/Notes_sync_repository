@@ -2,6 +2,10 @@
 
 > Nos va a permitr repetr un codgo hasta que se cumpla una condición 
 
+>nota: 
+>**Ciclo FOR** Lo utilizamos cuando conocemos el número de repeticiones.  
+**Ciclo While** Lo utilizamos cuando desconocemos el numero de repeticiones.
+
 Estructura:
 ```js
 while () {
