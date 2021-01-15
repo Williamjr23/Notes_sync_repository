@@ -10,5 +10,7 @@
 > La función ```filter()``` lleva como parámetro en los parentesís una condicion por ejemplo aquí la condicón sería si la persona es alta o no así que se pondría así:
 
 ```js
-
+var personasAltas = personas.filter(esAlta)
 ```
+
+Y esta condiición ```(esAlta)``
