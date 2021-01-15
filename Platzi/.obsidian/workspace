@@ -6,7 +6,6 @@
       {
         "id": "a19cf008382942ae",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,12 +15,13 @@
         }
       },
       {
-        "id": "946d3b5d4d8b95f1",
+        "id": "0165c3531961e3de",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_014_Estructuras repetitvas(while).md",
+            "file": "Javascript/Clase_012_Arrow_functions.md",
             "mode": "preview"
           }
         }
@@ -98,9 +98,9 @@
   },
   "lastOpenFiles": [
     "Javascript/Clase_012_Arrow_functions.md",
+    "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_011_Funciones_que_retornan_valores.md",
     "Javascript/Untitled.md",
-    "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
     "Javascript/Clase_015_estructuras repetitivas(do while).md",
     "Javascript/Clase_16_Estructura_de_control(switch).md",
