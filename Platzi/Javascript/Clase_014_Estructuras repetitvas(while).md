@@ -35,4 +35,6 @@ while (willam.peso > META) {
 	}
 	dias += 1
 }
+
+console.log(`Pasaron ${dias} días hasta que ${william.nombre} adelgazó 3kg`)
 ```
