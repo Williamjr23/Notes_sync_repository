@@ -13,6 +13,9 @@ while () {
 
 Ejemplo:
 ```js
+var william = {
+
+}
 
 const INCREMENTO_PESO = 0.3
 const DIAS_DEL_ANO - 365
@@ -24,7 +27,7 @@ const realizaDeporte = () => Math.random < 0.4
 
 var dias = 0
 
-const META = willam.peso + 3
+const META = willam.peso - 3
 
 while (willam.peso > META) {
 	if (comeMUcho()) {
