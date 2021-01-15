@@ -17,7 +17,7 @@ Y esta condiición ```(esAlta)``` tiene que ser definda como una ```function``` 
 
 ### Otra forma de escribirlo
 ```js
-const esAlta = persona => persona.altura > 1.8
+const esAlta = ({altura}) => altura > 1.8
 
 var personas = [william, Diana, Parsole, Erick, Elsebasduarte]
 var personasAltas = personas.filter(esAlta)
@@ -35,3 +35,6 @@ console.log(personasAltas)
 >prolijo: Que se lleva a cabo con detenimiento en los más pequeños detalles
 
 > La forma de abajo es otra manera de hacerlo (se define una ```function``` anonima y luego con las llaves ```{}``` se hace el codigo ahí mismo y funciona de la misma manera) también se puede encontrar, pero parece que es un poco más prolijo tener la condición por separado en lugar de usar una ```function``` anonima 
+
+Tarea:
+>Escrbir el filtrado de personas bajas
