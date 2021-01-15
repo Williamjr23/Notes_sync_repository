@@ -22,6 +22,8 @@ const adelgazar = persona => persona.peso -= INCREMENTO_PESO
 const comeMucho = () => Math.random < 0.3
 const realizaDeporte = () => Math.random < 0.4
 
+var dias = 0
+
 const META = willam.peso + 3
 
 while (willam.peso > META) {
@@ -31,5 +33,6 @@ while (willam.peso > META) {
 	if (realizaDeporte()) {
 		adelgazar(william)
 	}
+	dias += 1
 }
 ```
