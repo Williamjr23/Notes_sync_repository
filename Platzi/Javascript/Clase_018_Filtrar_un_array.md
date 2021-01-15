@@ -32,4 +32,6 @@ var personasAltas = personas.filter(esAlta)
 console.log(personasAltas)
 ```
 
-> La fo
+>
+
+> La forma de abajo es otra manera de hacerlo que también se puede encontrar, pero parece que es un poco más prolijo 
