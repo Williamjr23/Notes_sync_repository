@@ -40,5 +40,10 @@ console.log(personasAltas)
 
 >Recuerda que si no hay elementos que pasen la prueba, filter devuelve un array vacío.
 
+>Nota.- De usar una coma sin indicar el valor a tomar al siguiente dato, entonces puede ocurrir algún tipo de error dependiendo el navegador que estés usando, así que deberíamos evitarlo.  El siguiente es un ejemplo de lo que NO debes hacer:
+>   ```javascript
+>   var valores = [1,2,3];
+>  ```
+
 Tarea:
 >Escrbir el filtrado de personas bajas
