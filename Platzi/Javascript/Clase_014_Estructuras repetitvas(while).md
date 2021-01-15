@@ -25,11 +25,11 @@ const realizaDeporte = () => Math.random < 0.4
 const META = willam.peso + 3
 
 while (willam.peso > META) {
-	if () {
-	
+	if (comeMUcho()) {
+		aumentarDePeso(william)
 	}
-	if () {
-	
+	if (realizaDeporte()) {
+		adelgazar(william)
 	}
 }
 ```
