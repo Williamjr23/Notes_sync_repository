@@ -17,7 +17,7 @@ const META = willam.peso + 3
 
 
 const aumentarDePeso = persona => persona.peso += INCREMENTO_PESO
-
+const adelgazar = persona => persona.peso -= INCREMENTO_PESO
 const comeMucho = () => Math.random < 0.3
 const realizaDeporte = () => Math.random < 0.4
 
