@@ -15,4 +15,21 @@ var personasAltas = personas.filter(esAlta)
 
 Y esta condiición ```(esAlta)``` tiene que ser definda como una ```function``` (tiene que ser una ```function```)
 
-### Otra for
+### Otra forma de escribirlo
+```js
+const esAlta = persona => persona.altura > 1.8
+
+var personas = [william, Diana, Parsole, Erick, Elsebasduarte]
+var personasAltas = personas.filter(esAlta)
+
+  
+///var personasAltas = personas.filter(function (persona) {
+///    return persona.altura > 1.8
+///})
+
+  
+
+console.log(personasAltas)
+```
+
+> La fo
