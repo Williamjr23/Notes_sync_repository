@@ -1,3 +1,3 @@
-Estructura "While"
+# Estructura "While"
 
-nos permite repetr un codgo hasta que se cumple una function
+> Nos va a permitr repetr un codgo hasta que se cumple una function
