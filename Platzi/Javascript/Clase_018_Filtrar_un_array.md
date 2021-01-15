@@ -5,3 +5,5 @@
 > * Un array
 > * Una condicón 
 >> Y esta condición va a ser una ```function```
+
+### ```filter()```
