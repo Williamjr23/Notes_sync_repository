@@ -32,6 +32,6 @@ var personasAltas = personas.filter(esAlta)
 console.log(personasAltas)
 ```
 
->
+>prolijo: Que se lleva a cabo con detenimiento en los más pequeños detalles
 
 > La forma de abajo es otra manera de hacerlo que también se puede encontrar, pero parece que es un poco más prolijo 
