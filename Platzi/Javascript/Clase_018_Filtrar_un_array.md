@@ -38,5 +38,7 @@ console.log(personasAltas)
 
 >El método filter ( ) crea una nueva matriz con todos los elementos que pasan la prueba implementada por la función proporcionada.
 
+>Recuerda que si no hay elementos que pasen la prueba, filter devuelve un array vacío.
+
 Tarea:
 >Escrbir el filtrado de personas bajas
