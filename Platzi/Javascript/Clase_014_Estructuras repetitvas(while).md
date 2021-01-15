@@ -13,6 +13,12 @@ while () {
 
 Ejemplo:
 ```js
+var willam = {
+ nombre: 'Willam',
+ apelldo: 'Castillo',
+ edad: 18
+}
+
 var william = {
 
 }
