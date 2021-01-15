@@ -10,3 +10,10 @@ while () {
 
 ### Como funciona?
 > El codigo que esté entre las llaves ```{}``` se va a repetir siempre que la condición especificada dentro de los parentesís ```()```se cumpla
+
+Ejemplo:
+```js
+while (willam.peso > META) {
+
+}
+```
