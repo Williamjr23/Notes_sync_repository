@@ -15,7 +15,8 @@ Ejemplo:
 ```js
 const META = willam.peso + 3
 
-const comeMucho = () => M
+const comeMucho = () => Math.random < 0.3
+const realizaDeporte = () 
 
 while (willam.peso > META) {
 	if () {
