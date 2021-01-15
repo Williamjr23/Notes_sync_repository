@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_011_Funciones_que_retornan_valores.md",
+            "file": "Javascript/Clase_012_Arrow_functions.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_011_Funciones_que_retornan_valores.md",
+                "file": "Javascript/Clase_012_Arrow_functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Clase_011_Funciones_que_retornan_valores.md",
     "Javascript/Clase_012_Arrow_functions.md",
+    "Javascript/Clase_011_Funciones_que_retornan_valores.md",
     "Javascript/Untitled.md",
     "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
