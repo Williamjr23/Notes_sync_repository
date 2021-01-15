@@ -36,5 +36,7 @@ console.log(personasAltas)
 
 > La forma de abajo es otra manera de hacerlo (se define una ```function``` anonima y luego con las llaves ```{}``` se hace el codigo ahí mismo y funciona de la misma manera) también se puede encontrar, pero parece que es un poco más prolijo tener la condición por separado en lugar de usar una ```function``` anonima 
 
+>El método filter ( ) crea una nueva matriz con todos los elementos que pasan la prueba implementada por la función proporcionada.
+
 Tarea:
 >Escrbir el filtrado de personas bajas
