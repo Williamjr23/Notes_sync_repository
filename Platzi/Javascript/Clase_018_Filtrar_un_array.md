@@ -13,4 +13,4 @@
 var personasAltas = personas.filter(esAlta)
 ```
 
-Y esta condiición ```(esAlta)``` tiene que ser definda como una ```funcion``` (tiene que ser una ```function```)
+Y esta condiición ```(esAlta)``` tiene que ser definda como una ```function``` (tiene que ser una ```function```)
