@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a19cf008382942ae",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Javascript/Clase_012_Arrow_functions.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "0165c3531961e3de",
         "type": "leaf",
         "active": true,
