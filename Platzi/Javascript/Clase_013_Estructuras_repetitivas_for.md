@@ -1,5 +1,7 @@
 # Estructuras repetitivas for
 
+>Nos va a permitir repetir un codigo cierta cantidar preestablecida de veces 
+
 > Nos va a permitir realizar una tarea de forma repetitiva, y es otra estructura de control
 
 Para esto vamos a utilizar el ```for```seguido de parentesis ```()``` y luego de llaves ```{}```  de la siguiente manera:
