@@ -7,4 +7,8 @@
 >> Y esta condición va a ser una ```function```
 
 ### ```filter()```
-> La función ```filter()``` lleva como parámetro en los parentesuna condicion 
+> La función ```filter()``` lleva como parámetro en los parentesís una condicion por ejemplo aquí la condicón sería si la persona es alta o no así que se pondría así:
+
+```js
+
+```
