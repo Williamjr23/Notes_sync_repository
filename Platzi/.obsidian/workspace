@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_019_.md",
+            "file": "Javascript/Clase_019_Transformar_un_Array.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3ca1bca9fa238696",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/Clase_019_Transformar_un_Array.md",
             "mode": "source"
           }
         }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_019_.md",
+                "file": "Javascript/Clase_019_Transformar_un_Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_019_Transformar_un_Array.md",
     "Untitled.md",
     "Javascript/Clase_018_Filtrar_un_array.md",
     "Javascript/Libros de javascript.md",
@@ -94,7 +106,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
     "Javascript/Clase_007_Desestructurar objetos.md",
     "Javascript/Untitled.md",
-    "Javascript/Clase_015_estructuras repetitivas(do while).md",
-    "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md"
+    "Javascript/Clase_015_estructuras repetitivas(do while).md"
   ]
 }
