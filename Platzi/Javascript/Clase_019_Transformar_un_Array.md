@@ -17,3 +17,4 @@ const pasarAlturaACms = persona => {
 }
 ```
 
+>Aquí podemos ver como tenemos que "duplicar" el array al retornarlo con: "```...persona```"" 
