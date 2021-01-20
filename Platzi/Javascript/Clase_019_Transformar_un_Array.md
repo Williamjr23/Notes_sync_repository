@@ -23,4 +23,4 @@ const pasarAlturaACms = persona => {
 var personasCms = personas.map(pasarAlturaACms)
 ```
 
->Por ultimo solamente se define una varable en este caso ```personasCms
+>Por ultimo solamente se define una varable en este caso ```personasCms``` donde nuestro arreglo de ```personas``` utilce la función ```map()``` para 
