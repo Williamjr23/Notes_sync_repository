@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8efd2ea83c5c0221",
+        "id": "2137178c91f08b9b",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_013_Estructuras_repetitivas_for.md",
-            "mode": "source"
+            "file": "Javascript/Clase_019_Transformar_un_Array.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "2137178c91f08b9b",
+        "id": "7a27116b78911cf9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
