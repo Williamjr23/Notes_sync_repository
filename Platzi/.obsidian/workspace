@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
+            "file": "Javascript/Clase_005_El_alcance_de_las_funciones.md",
             "mode": "preview"
           }
         }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "...",
+                "query": "({",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
+                "file": "Javascript/Clase_005_El_alcance_de_las_funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_005_El_alcance_de_las_funciones.md",
+    "Javascript/Clase_004_Funciones.md",
+    "Javascript/Clase_002_Variables_Y_Strings.md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "Javascript/Clase_019_Transformar_un_Array.md",
     "Javascript/Clase_006_Objetos.md",
     "Javascript/Notas extra del curso.md",
     "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
-    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
-    "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
-    "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
-    "Javascript/Clase_016_Estructura_de_control(switch).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md"
   ]
 }
