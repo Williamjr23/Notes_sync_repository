@@ -6,7 +6,6 @@
       {
         "id": "8efd2ea83c5c0221",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +17,12 @@
       {
         "id": "3ca1bca9fa238696",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Javascript/Clase_019_Transformar_un_Array.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
