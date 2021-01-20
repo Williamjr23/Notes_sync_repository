@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_005_El_alcance_de_las_funciones.md",
+            "file": "Javascript/Clase_006_Objetos.md",
             "mode": "preview"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_005_El_alcance_de_las_funciones.md",
+                "file": "Javascript/Clase_006_Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +98,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_005_El_alcance_de_las_funciones.md",
     "Javascript/Clase_004_Funciones.md",
     "Javascript/Clase_002_Variables_Y_Strings.md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "Javascript/Clase_019_Transformar_un_Array.md",
-    "Javascript/Clase_006_Objetos.md",
     "Javascript/Notas extra del curso.md",
     "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
