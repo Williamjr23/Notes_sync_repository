@@ -17,4 +17,4 @@ const pasarAlturaACms = persona => {
 }
 ```
 
->Aquí podemos ver como tenemos que "duplicar" el array al retornarlo con: "```...persona```"" 
+>Aquí podemos ver como tenemos que "duplicar" el array al retornarlo con: "```...persona,```" y posteriormente definir la ```altura:``` de ese nuevo arreglo clon  
