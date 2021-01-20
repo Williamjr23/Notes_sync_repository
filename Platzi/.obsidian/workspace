@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_019_Transformar_un_Array.md",
+            "file": "Javascript/Clase_017_Arrays.md",
             "mode": "source"
           }
         }
@@ -64,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319,
-    "collapsed": true
+    "width": 319
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_019_Transformar_un_Array.md",
+                "file": "Javascript/Clase_017_Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_017_Arrays.md",
     "Javascript/Clase_019_Transformar_un_Array.md",
     "Untitled.md",
     "Javascript/Clase_018_Filtrar_un_array.md",
@@ -106,7 +106,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
     "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
     "Javascript/Clase_007_Desestructurar objetos.md",
-    "Javascript/Untitled.md",
-    "Javascript/Clase_015_estructuras repetitivas(do while).md"
+    "Javascript/Untitled.md"
   ]
 }
