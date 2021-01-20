@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_017_Arrays.md",
+            "file": "Javascript/Clase_016_Estructura_de_control(switch).md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_017_Arrays.md",
+                "file": "Javascript/Clase_016_Estructura_de_control(switch).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Clase_017_Arrays.md",
-    "Javascript/Clase_019_Transformar_un_Array.md",
-    "Untitled.md",
+    "Javascript/Clase_016_Estructura_de_control(switch).md",
     "Javascript/Clase_018_Filtrar_un_array.md",
-    "Javascript/Libros de javascript.md",
-    "Javascript/Notas extra del curso.md",
-    "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
-    "Javascript/Clase_007_Desestructurar objetos.md",
-    "Javascript/Untitled.md"
+    "Javascript/Clase_019_Transformar_un_Array.md",
+    "Javascript/Clase_015_estructuras repetitivas(do while).md",
+    "Javascript/Clase_014_Estructuras repetitvas(while).md",
+    "Javascript/Clase_013_Estructuras_repetitivas_for.md",
+    "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md"
   ]
 }
