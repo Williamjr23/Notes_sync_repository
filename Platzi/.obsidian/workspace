@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_018_Filtrar_un_array.md",
-            "mode": "preview"
+            "file": "Javascript/Clase_019_.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_018_Filtrar_un_array.md",
+                "file": "Javascript/Clase_019_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Javascript/Clase_018_Filtrar_un_array.md",
     "Javascript/Libros de javascript.md",
     "Javascript/Notas extra del curso.md",
@@ -94,7 +95,6 @@
     "Javascript/Clase_007_Desestructurar objetos.md",
     "Javascript/Untitled.md",
     "Javascript/Clase_015_estructuras repetitivas(do while).md",
-    "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
-    "Javascript/Clase_017_Arrays.md"
+    "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md"
   ]
 }
