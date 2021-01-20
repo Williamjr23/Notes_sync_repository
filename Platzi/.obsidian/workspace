@@ -25,6 +25,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "432f2c3680534752",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/Clase_019_Transformar_un_Array.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -64,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611
+    "width": 611,
+    "collapsed": true
   },
   "right": {
     "id": "993c4efd9f0db2b6",

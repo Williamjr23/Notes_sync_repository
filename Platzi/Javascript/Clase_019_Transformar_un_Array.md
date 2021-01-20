@@ -6,5 +6,14 @@
 
 >importante: ```map()``` nos devuelve un nuevo array, pero nos modifica la información y para corregirlo se tiene que retornar un nuevo objeto con la modificación deseada
 
+Ejemplo:
 
+```js
+const pasarAlturaACms = persona => {
+ return {
+ ...persona,
+ altura: persona.altura * 100
+ }
+}
+```
 
