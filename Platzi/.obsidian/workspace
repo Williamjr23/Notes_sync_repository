@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_019_Transformar_un_Array.md",
-            "mode": "source"
+            "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
+            "mode": "preview"
           }
         }
       },
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "...",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -80,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_019_Transformar_un_Array.md",
+                "file": "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
+    "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_019_Transformar_un_Array.md",
     "Javascript/Notas extra del curso.md",
     "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
-    "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
     "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
     "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
-    "Javascript/Clase_016_Estructura_de_control(switch).md",
-    "Javascript/Clase_018_Filtrar_un_array.md"
+    "Javascript/Clase_016_Estructura_de_control(switch).md"
   ]
 }
