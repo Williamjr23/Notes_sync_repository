@@ -6,7 +6,6 @@
       {
         "id": "2137178c91f08b9b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +17,7 @@
       {
         "id": "7a27116b78911cf9",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_018_Filtrar_un_array.md",
+                "file": "Javascript/Clase_019_Transformar_un_Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +97,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_019_Transformar_un_Array.md",
     "Javascript/Clase_018_Filtrar_un_array.md",
     "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_005_El_alcance_de_las_funciones.md",
     "Javascript/Clase_004_Funciones.md",
     "Javascript/Clase_002_Variables_Y_Strings.md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
-    "Javascript/Clase_019_Transformar_un_Array.md",
     "Javascript/Notas extra del curso.md",
     "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md"
