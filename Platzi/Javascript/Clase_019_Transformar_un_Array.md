@@ -17,4 +17,4 @@ const pasarAlturaACms = persona => {
 }
 ```
 
->Aquí podemos ver como tenemos que "duplicar" el array al retornarlo con: "```...persona,```" y posteriormente definir la ```altura:``` de ese nuevo arreglo clon  
+>Aquí podemos ver como tenemos que "duplicar" el array al retornarlo con: "```...persona,```" y posteriormente definir la ```altura:``` de ese nuevo arreglo clonado de el original y aquí si podríamos modificar entonces los datos sin que se vea afectado nuestro objeto global y por ende nuestro arreglo y ahora sí se define ``` altura: persona.altura  
