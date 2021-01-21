@@ -6,23 +6,23 @@
       {
         "id": "432f2c3680534752",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_020_.md",
+            "file": "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "e8d9c070ab0113a3",
+        "id": "76b7154a931015d4",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_019_Transformar_un_Array.md",
-            "mode": "preview"
+            "file": "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611
+    "width": 611,
+    "collapsed": true
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -80,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_020_.md",
+                "file": "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
     "Javascript/Untitled.md",
     "Javascript/Clase_019_Transformar_un_Array.md",
     "Javascript/Clase_018_Filtrar_un_array.md",
@@ -105,7 +107,6 @@
     "Javascript/Clase_004_Funciones.md",
     "Javascript/Clase_002_Variables_Y_Strings.md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
-    "Javascript/Notas extra del curso.md",
-    "Javascript/Clase_014_Estructuras repetitvas(while).md"
+    "Javascript/Notas extra del curso.md"
   ]
 }
