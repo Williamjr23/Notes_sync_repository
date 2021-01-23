@@ -37,7 +37,7 @@ for (var i = 0; i < personas.length; i++) {}
 console.log(`En total todos tienen ${totalDeLibros}`)
 ``` 
 
-> En este caso tenemos la forma de usar y definir los par
+> En este caso tenemos la forma de usar y definir los parametros de 
 
 > Lo que vamos a hacer aquí es reducir el array de personas a un total con la function ```.reduce(reducer, 0)```
 > Y para reducirlo como parametros dentro de los parentesís necesitamos 2 cosas:
