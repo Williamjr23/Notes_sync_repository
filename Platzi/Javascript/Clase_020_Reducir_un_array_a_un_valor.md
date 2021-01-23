@@ -28,3 +28,6 @@ for (var i = 0; i < personas.length; i++) {}
 > Otra forma de hacer lo anterior
  ### Como funciona?
 > Lo que vamos a hacer aquí es reducir el array de personas a un total con la function ```.reduce()```
+> Y para reducirlo como parametros dentro de los parentesís necesitamos 2 cosas:
+> 1. 
+> 2. 
