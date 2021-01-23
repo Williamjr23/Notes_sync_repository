@@ -37,13 +37,15 @@ for (var i = 0; i < personas.length; i++) {}
 console.log(`En total todos tienen ${totalDeLibros}`)
 ``` 
 
-> En este caso tenemos la forma de usar y definir los parametros de 
+> En este caso tenemos la forma de usar y definir los parametros de ```reduce```
 
 > Lo que vamos a hacer aquí es reducir el array de personas a un total con la function ```.reduce(reducer, 0)```
 > Y para reducirlo como parametros dentro de los parentesís necesitamos 2 cosas:
 > 1. Una ```function // que en este caso es reducer```
 > 2. El valor original o inicial de el acumulador ```0 ```
 
+### Definiendo la funcion reducer 
+> Esta function le va a dar instrucciones 
 ```js
 
 const reducer = (acum, persona) => {
