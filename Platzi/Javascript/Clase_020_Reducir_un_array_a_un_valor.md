@@ -19,4 +19,4 @@ console.log(`En total todos tienen ${acum} libros`)
 ```js 
 for (var i = 0; i < personas.length; i++) {}
 ```
->Luego se escribe un ciclo ``` for ``` comenzando en 0 y se le da el parámetro de que mientras que i sea menor a personas. length se va a ir repitiendo el ciclo
+>Luego se escribe un ciclo ``` for() ``` comenzando nuestro contador en 0 ``` var i = 0;``` y se le da el parámetro de que mientras que i sea menor a personas. length se va a ir repitiendo el ciclo
