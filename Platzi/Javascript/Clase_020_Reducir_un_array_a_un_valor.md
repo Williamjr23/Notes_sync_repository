@@ -25,6 +25,10 @@ for (var i = 0; i < personas.length; i++) {}
 >Aquí estamos diciendo que a nuestro acumulador se le van a sumar "Personas sub indice i y la cantidad de libros"
 
 # ```reduce```
+
+```js
+
+``` 
 > Otra forma de hacer lo anterior
  ### Como funciona?
 > Lo que vamos a hacer aquí es reducir el array de personas a un total con la function ```.reduce(reducer, 0)```
@@ -37,3 +41,4 @@ for (var i = 0; i < personas.length; i++) {}
 const reducer = (acum, persona) => {
 return acum + persona.cantidadDeLibros}
 ```
+
