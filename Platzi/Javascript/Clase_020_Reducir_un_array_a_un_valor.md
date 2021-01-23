@@ -14,4 +14,6 @@ console.log(`En total todos tienen ${acum} libros`)
 
 ```
 
-> Se crea un acumulador "```var acum = 0``` que empieza en 0 
+> Se crea un acumulador "```var acum = 0```" que empieza en 0 
+
+>Luego se escrive un ciclo for comenzando en 0 y se le da el parámetro de que mientras que i sea menor a perso
