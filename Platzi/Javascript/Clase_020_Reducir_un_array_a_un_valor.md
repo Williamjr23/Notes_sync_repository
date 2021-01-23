@@ -26,3 +26,5 @@ for (var i = 0; i < personas.length; i++) {}
 
 # ```reduce```
 > Otra forma de hacer lo anterior
+ ### Como funciona?
+> Lo que vamos a hacer aquí es reducir 
