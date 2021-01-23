@@ -14,3 +14,4 @@ console.log(`En total todos tienen ${acum} libros`)
 
 ```
 
+> Se crea un acumulador "```var acum = 0``` que empieza en 0 
