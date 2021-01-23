@@ -1,4 +1,4 @@
-# Reducir un valor a u
+# Reducir un valor a un array
 > Reducir un array a un valor unico
 
 > Se puede hacer de la siguiente manera como y lo vimos anteriorment con los ciclos ```for```, pero esta no es la mejor manera de hacerlo, igual esta forma de hacerse debajo de el codigo :
@@ -24,3 +24,4 @@ for (var i = 0; i < personas.length; i++) {}
 >```acum = acum + personas[i].cantidadDeLibros```
 >Aquí estamos diciendo que a nuestro acumulador se le van a sumar "Personas sub indice i y la cantidad de libros"
 
+# ```reduce```
