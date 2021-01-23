@@ -22,4 +22,4 @@ for (var i = 0; i < personas.length; i++) {}
 >Luego se escribe un ciclo ``` for() ``` comenzando nuestro contador en 0 ``` var i = 0;``` y se le da el parámetro de que mientras que i sea menor a personas. length se va a ir repitiendo el ciclo ```i < personas.length; i++```
 
 >```acum = acum + personas[i].cantidadDeLibros```
->
+>Aquí estamos diciendo que a nuestro acumulador se le van a sumar
