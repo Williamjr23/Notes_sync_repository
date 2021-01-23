@@ -26,11 +26,19 @@ for (var i = 0; i < personas.length; i++) {}
 
 # ```reduce```
 
-```js
 
-``` 
 > Otra forma de hacer lo anterior
  ### Como funciona?
+ 
+ 
+```js
+ var totalDeLibros = personas.reduce(reducer, 0 )
+
+console.log(`En total todos tienen ${totalDeLibros}`)
+``` 
+
+> En este caso tenemos la forma de usar y definir los par
+
 > Lo que vamos a hacer aquí es reducir el array de personas a un total con la function ```.reduce(reducer, 0)```
 > Y para reducirlo como parametros dentro de los parentesís necesitamos 2 cosas:
 > 1. Una ```function // que en este caso es reducer```
