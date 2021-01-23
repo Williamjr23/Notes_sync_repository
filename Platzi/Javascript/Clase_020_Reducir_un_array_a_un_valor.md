@@ -25,3 +25,4 @@ for (var i = 0; i < personas.length; i++) {}
 >Aquí estamos diciendo que a nuestro acumulador se le van a sumar "Personas sub indice i y la cantidad de libros"
 
 # ```reduce```
+> Otra forma de hacer lo anterior
