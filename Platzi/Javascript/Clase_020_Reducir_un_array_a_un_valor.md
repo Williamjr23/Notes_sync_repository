@@ -45,10 +45,10 @@ console.log(`En total todos tienen ${totalDeLibros}`)
 > 2. El valor original o inicial de el acumulador ```0 ```
 
 ### Definiendo la funcion reducer 
-> Esta function le va a dar instrucciones 
+> Esta function le va a dar instrucciones para que reduce sepa que retornar a la hora de que se cumpla la condición establecida en esta misma functión:
 ```js
-
 const reducer = (acum, persona) => {
 return acum + persona.cantidadDeLibros}
 ```
 
+> Como vemos es una arrow functiona a la que le decimos qué 
