@@ -32,4 +32,8 @@ for (var i = 0; i < personas.length; i++) {}
 > 1. Una ```function // que en este caso es reducer```
 > 2. El valor original o inicial de el acumulador ```0 ```
 
+```js
+
+const reducer = (acum, persona) => {
+return acum + persona.cantidadDeLibros}
 ```
