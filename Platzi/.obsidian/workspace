@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "432f2c3680534752",
+        "id": "e8fc4bd934fe6d2e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_013_Estructuras_repetitivas_for.md",
-            "mode": "preview"
+            "file": "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
+            "mode": "source"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_013_Estructuras_repetitivas_for.md",
+                "file": "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Clase_013_Estructuras_repetitivas_for.md",
     "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
+    "Javascript/Clase_013_Estructuras_repetitivas_for.md",
     "Javascript/Untitled.md",
     "Javascript/Clase_019_Transformar_un_Array.md",
     "Javascript/Clase_018_Filtrar_un_array.md",
