@@ -5,4 +5,9 @@
 >Las clases en JS terminan siendo de cierta manera lo que llamamos prototipos
 
 
-Definir un prototipo
+### Definir un prototipo
+
+> Lo unico que necesitamos hacer es definir una ```function``` por ejemplo en:
+
+```function Persona)
+```
