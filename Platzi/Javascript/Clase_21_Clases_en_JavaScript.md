@@ -52,4 +52,4 @@ function Persona(nombre, apellido) {
 
 
 > Nota: Esto es algo que no se tiene que hacer pero se va a explicar para tomarse en cuenta:
-> 
+> > En caso de no usar la palabra ```new``` se va a construir un objeto y se va a asignar al objeto los atributos  pero es una mala practica 
