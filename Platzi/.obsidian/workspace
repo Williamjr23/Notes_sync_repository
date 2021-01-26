@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_017_Arrays.md",
+            "file": "Javascript/Clase_004_Funciones.md",
             "mode": "preview"
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436
+    "width": 436,
+    "collapsed": true
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_017_Arrays.md",
+                "file": "Javascript/Clase_004_Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +87,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_004_Funciones.md",
     "Javascript/Clase_017_Arrays.md",
     "Javascript/Clase_018_Filtrar_un_array.md",
     "Javascript/Clase_21_Clases_en_JavaScript.md",
@@ -94,7 +96,6 @@
     "Javascript/Clase_011_Funciones_que_retornan_valores.md",
     "Javascript/Clase_012_Arrow_functions.md",
     "Javascript/Untitled.md",
-    "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
-    "Javascript/Clase_013_Estructuras_repetitivas_for.md"
+    "Javascript/Clase_020_Reducir_un_array_a_un_valor.md"
   ]
 }
