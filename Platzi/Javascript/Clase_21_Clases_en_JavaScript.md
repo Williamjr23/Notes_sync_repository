@@ -49,3 +49,7 @@ function Persona(nombre, apellido) {
 > Y también en el caso de el código anterior ```this.nombre``` está diciendo que la variable nombre dentro de el objeto se le va a asignar el = ```nombre``` que estámos recibiendo de nuestro ```new```
 
 > También es importante ver que implicitamente cuando invocamos la functión que define los parámetros de nuestro prototipo con la etiqueta ```new``` como ya lo vimos en la parte de arriba, esta implicitamente te retorna el ```this```
+
+
+> Nota: Esto es algo que no se tiene que hacer pero se va a explicar para tomarse en cuenta:
+> 
