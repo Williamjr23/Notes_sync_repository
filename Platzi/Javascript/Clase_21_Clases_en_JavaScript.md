@@ -17,5 +17,9 @@ function Persona(){
 
 La ```function``` que está definida ahí es la que se va a ejecutar cuando se crea una persona
 
-Por ejemplo sí: ```
-```	
+Por ejemplo sí: 
+```js
+var william = new Persona()
+```
+
+Entonces la función de arriba se va a ejecutar, notemos como tenemos un nuevo argumento aquí que es: ```new```
