@@ -9,5 +9,9 @@
 
 > Lo unico que necesitamos hacer es definir una ```function``` por ejemplo en:
 
-```function Persona)
+```function Persona(){
+	/// function a ejecutar
+}
 ```
+
+La ```function``` que está definida ahí es la que se va a ejecutar cuando se crea una persona
