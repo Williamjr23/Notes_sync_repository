@@ -22,4 +22,4 @@ Por ejemplo sí:
 var william = new Persona()
 ```
 
-Entonces la función de arriba se va a ejecutar, notemos como tenemos un nuevo argumento aquí que es: ```new``` que es una palabra reservada para el lenguaje, está diseñada y reservada nada más para crear nuevos objetos dado un prototipo, para tenerlo más claro en el código de arriba lo que se hace es crear un nuevo objeto llamado william pero se le asigna el prototipo que se le indique después que en este caso es ```Persona()```
+Entonces la función de arriba se va a ejecutar, notemos como tenemos un nuevo argumento aquí que es: ```new``` que es una palabra reservada para el lenguaje, está diseñada y reservada nada más para crear nuevos objetos dado un prototipo, para tenerlo más claro en el código de arriba lo que se hace es crear un nuevo objeto llamado william pero se le asigna el prototipo que se le indique después que en este caso es ```Persona()``` y también implicitamente se va a retornar el nuevo objeto creado sin necesidad de tener un return, como ya se le asigno el prototipo ```Persona()``` entonces ya no tiene que ser retornado explicitamente para
