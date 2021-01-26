@@ -9,7 +9,8 @@
 
 > Lo unico que necesitamos hacer es definir una ```function``` por ejemplo en:
 
-```function Persona(){
+```js
+function Persona(){
 	/// function a ejecutar
 }
 ```
