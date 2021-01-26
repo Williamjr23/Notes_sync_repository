@@ -43,4 +43,5 @@ function Persona(nombre, apellido) {
 	this.nombre = nombre
 }
 ```
-> ```this```, esta etiqueta va a hacer referencia a el objeto que se acaba de construir, mismo objeto del cual estamos reci
+> ```this```, esta etiqueta va a hacer referencia a el objeto que se acaba de construir, mismo objeto del cual estamos definiendo los parámetros que vamos a recibir entre los paréntesis ```()``` de la ```function``` de aquí arriba
+
