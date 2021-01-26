@@ -51,4 +51,6 @@ const reducer = (acum, persona) => {
 return acum + persona.cantidadDeLibros}
 ```
 
-> Como vemos es una arrow function que nos recive 2 parámetros y en primer lugar recive el acumulador ```acum``` y en segundo lugar va a ir recibiendo cada uno de los elementos y en este caso cada una de las personas
+> Como vemos es una arrow function que nos recive 2 parámetros y en primer lugar recive el acumulador ```acum``` y en segundo lugar va a ir recibiendo cada uno de los elementos y en este caso cada una de las personas ```persona```
+
+> Posteriormente se modifica el valor que quieres que tenga el nuevo acumulador ```return acum + persona.cantidadDELibros```
