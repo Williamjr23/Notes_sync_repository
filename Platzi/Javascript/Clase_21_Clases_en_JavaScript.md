@@ -37,4 +37,9 @@ function Persona(nombre, apellido) {
 	
 }
 ```
-Y para guardarlo dentro de este objeto que se está construyendo en la memoria, podemos hacer referencia a este objeto 
+Y para guardarlo dentro de este objeto que se está construyendo en la memoria, podemos hacer referencia a este objeto dentro de esta ```function``` como:
+```js
+function Persona(nombre, apellido) {
+	this.nombre = nombre
+}
+```
