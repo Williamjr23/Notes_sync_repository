@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_010_Condicionales.md",
+            "file": "Javascript/Clase_016_Estructura_de_control(switch).md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "filter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 436,
-    "collapsed": true
+    "width": 436
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_010_Condicionales.md",
+                "file": "Javascript/Clase_016_Estructura_de_control(switch).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_016_Estructura_de_control(switch).md",
     "Javascript/Clase_010_Condicionales.md",
     "Javascript/Clase_011_Funciones_que_retornan_valores.md",
     "Javascript/Clase_012_Arrow_functions.md",
@@ -95,7 +96,6 @@
     "Javascript/Untitled.md",
     "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
-    "Javascript/Clase_019_Transformar_un_Array.md",
-    "Javascript/Clase_006_Objetos.md"
+    "Javascript/Clase_019_Transformar_un_Array.md"
   ]
 }
