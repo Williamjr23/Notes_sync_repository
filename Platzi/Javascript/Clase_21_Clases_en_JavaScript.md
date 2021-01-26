@@ -41,7 +41,9 @@ Y para guardarlo dentro de este objeto que se está construyendo en la memoria, 
 ```js
 function Persona(nombre, apellido) {
 	this.nombre = nombre
+	this.apellido = apelldo
 }
 ```
 > ```this```, esta etiqueta va a hacer referencia a el objeto que se acaba de construir, mismo objeto del cual estamos definiendo los parámetros que vamos a recibir entre los paréntesis ```()``` de la ```function``` de aquí arriba
 
+> Y también en el caso de el código anterior 
