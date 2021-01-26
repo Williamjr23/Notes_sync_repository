@@ -55,4 +55,11 @@ function Persona(nombre, apellido) {
 > > En caso de no usar la palabra ```new``` se va a construir un objeto y se va a asignar al objeto los atributos  pero es una mala practica 
 
 ### Prototype
-> Decirle al prototipo que exista una functión 
+> Decirle al prototipo que exista una functión
+
+```js
+Persona.prototype.saludar = function () {
+
+}
+```
+> Y esto lo que va a hacer es decir que dentro de el prototipo de persona va a existir el prototi
