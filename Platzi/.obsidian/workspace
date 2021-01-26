@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
+            "file": "Javascript/Clase_21_Clases_en_JavaScript.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
+                "file": "Javascript/Clase_21_Clases_en_JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Untitled.md",
     "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
-    "Javascript/Untitled.md",
     "Javascript/Clase_019_Transformar_un_Array.md",
     "Javascript/Clase_018_Filtrar_un_array.md",
     "Javascript/Clase_006_Objetos.md",
