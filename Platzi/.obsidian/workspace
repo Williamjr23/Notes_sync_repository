@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "76b7154a931015d4",
+        "id": "d0def04bd75c22fb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
+            "file": "Javascript/Clase_21_Clases_en_JavaScript.md",
             "mode": "preview"
           }
         }
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_21_Clases_en_JavaScript.md",
     "Javascript/Untitled.md",
     "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
@@ -105,7 +106,6 @@
     "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_005_El_alcance_de_las_funciones.md",
     "Javascript/Clase_004_Funciones.md",
-    "Javascript/Clase_002_Variables_Y_Strings.md",
-    "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md"
+    "Javascript/Clase_002_Variables_Y_Strings.md"
   ]
 }
