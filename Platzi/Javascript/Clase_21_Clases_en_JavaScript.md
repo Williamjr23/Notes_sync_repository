@@ -26,7 +26,9 @@ Entonces la función de arriba se va a ejecutar, notemos como tenemos un nuevo a
 
 ### Parámetros de nuestro prototipo:
 Ejemplo: 
-> Se envían los datos de el objeto con los parámetros en los paréntesis```()```
+> Se envían los datos de el objeto con los parámetros en los paréntesis ```()``` 
 ```js
 var sacha = new Persona('Sacha', 'Lifszyc')
 ```
+
+> Y anteriormente se definen los parámetros en la functión para que al enviarlos sepa en que lugar de el objeto cate
