@@ -16,3 +16,6 @@ function Persona(){
 ```
 
 La ```function``` que está definida ahí es la que se va a ejecutar cuando se crea una persona
+
+Por ejemplo sí: ```
+```	
