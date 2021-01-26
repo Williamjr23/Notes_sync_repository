@@ -43,3 +43,4 @@ function Persona(nombre, apellido) {
 	this.nombre = nombre
 }
 ```
+> ```this```, esta etiqueta va a hacer referencia a el objeto que se acaba de construir, mismo objeto del cual estamos reci
