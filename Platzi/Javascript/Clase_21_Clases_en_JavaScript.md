@@ -31,4 +31,7 @@ Ejemplo:
 var sacha = new Persona('Sacha', 'Lifszyc')
 ```
 
-> Y anteriormente se definen los parámetros en la functión para que al enviarlos sepa en que lugar de el objeto cate
+> Y anteriormente se definen los parámetros en la functión para que al enviarlos sepa en que lugar de el objeto categorizarlos, en este caso está diciendo que el primer valor del parámetro recibido se tomará como ```nombre``` y el segundo de este mismo como ```apellido```, pero se podrían tomar muchos otros más:
+```js
+
+```
