@@ -61,3 +61,6 @@ También como ya lo hemos visto anteriormente se puede desestructurar el objeto 
 const reducer = (acum, {cantidadDeLibros}) =>
 acum + persona
 ```
+
+Y esto hace exactamente lo mismo que el ejemplo anterior.
+
