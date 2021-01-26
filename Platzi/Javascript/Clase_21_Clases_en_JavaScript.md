@@ -59,7 +59,7 @@ function Persona(nombre, apellido) {
 
 ```js
 Persona.prototype.saludar = function () {
-
+	console.log(`Hola, me llamo ${this.nombre} ${this.apellido}`)
 }
 ```
 > Y esto lo que va a hacer es decir que dentro de el prototipo de persona va a existir el prototipo saludar que va a ser una ```function``` y ahí se definen los parámetros de esta misma por ejemplo en este caso la ```function``` solo imprime un ```console.log```
