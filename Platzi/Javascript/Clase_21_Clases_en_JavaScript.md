@@ -22,4 +22,4 @@ Por ejemplo sí:
 var william = new Persona()
 ```
 
-Entonces la función de arriba se va a ejecutar, notemos como tenemos un nuevo argumento aquí que es: ```new```
+Entonces la función de arriba se va a ejecutar, notemos como tenemos un nuevo argumento aquí que es: ```new``` que es una palabra reserva
