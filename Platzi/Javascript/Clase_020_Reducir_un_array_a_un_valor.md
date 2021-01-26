@@ -55,4 +55,4 @@ return acum + persona.cantidadDeLibros}
 
 > Posteriormente se modifica el valor que quieres que tenga el nuevo acumulador ```return acum + persona.cantidadDELibros```
 
-También como ya lo hemos visto anteriormente se puede desestructurar el objeto dentro de los paréntesis con llaves y así solo acceder a persona y implicitamente ya sabe que tiene que tomar 
+También como ya lo hemos visto anteriormente se puede desestructurar el objeto dentro de los paréntesis con llaves y así solo acceder a persona y implicitamente ya sabe que tiene que tomar ```cantidadDeLibros``` de el objeto que le digamos a continuación, también como vimos en la clase **arrow functions** ya que solo nos returna un valor se puede obv
