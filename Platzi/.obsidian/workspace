@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nutrición/Lunes_1_Desayuno.md",
-            "mode": "source"
+            "file": "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nutrición/Lunes_1_Desayuno.md",
+                "file": "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Nutrición/Untitled.md",
-    "Javascript/Clase_010_Condicionales.md",
-    "Javascript/Clase_011_Funciones_que_retornan_valores.md",
-    "Javascript/Clase_012_Arrow_functions.md",
-    "Javascript/Clase_013_Estructuras_repetitivas_for.md",
-    "Javascript/Clase_009_Comparaciones_en_JS.md",
-    "Javascript/Clase_018_Filtrar_un_array.md",
-    "Javascript/Clase_019_Transformar_un_Array.md",
-    "Javascript/Clase_020_Reducir_un_array_a_un_valor.md",
-    "Javascript/Clase_21_Clases_en_JavaScript.md"
+    "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
+    "Terminal_classes/Terminal_Class_009  (Permisos sobre archivos sistema octal).md",
+    "Terminal_classes/Terminal_Class_008 (Administración de procesos en background y foreground).md",
+    "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
+    "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
+    "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
+    "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
+    "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+    "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
+    "Nutrición/Untitled.md"
   ]
 }
