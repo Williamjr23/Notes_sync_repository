@@ -7,7 +7,7 @@
 >window es el objeto global dentro de el navegador El **objeto window** representa la ventana que contiene un documento DOM; la propiedad document apunta al DOM document cargado en esa ventana. ... Esto significa que el **objeto window** no se comparte entre diferentes pestañas de la misma ventana del navegador.
 
 #### Por que hay que cuidar en donde y como se utiliza el ```this``` para referenciar, para saber siempre hacia donde apunta la ```function```
->Lo que debemos de entender para saber por que  dentro de los parametros del objeto global "window" no está lo que estamos referenciando dentro de nuestro codigo nos aparecerá normalmente "undifined", y esto es uno de los errores mas comunes en JS tanto en el backend como en el frontend, la función ```this.``` no siempre va a estar referenciando el objeto que esperas que esté referenciando, este es uno de los casos representado al intentar hacer nuestra linea de codigo anterior en una arrow function
+>Lo que debemos de entender para saber por que nos tira ```undefined``` dentro de los parametros del objeto global "window" no está lo que estamos referenciando dentro de nuestro codigo nos aparecerá normalmente "undifined", y esto es uno de los errores mas comunes en JS tanto en el backend como en el frontend, la función ```this.``` no siempre va a estar referenciando el objeto que esperas que esté referenciando, este es uno de los casos representado al intentar hacer nuestra linea de codigo anterior en una arrow function
 
 // codigo 1 y 2
 
