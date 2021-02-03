@@ -10,4 +10,13 @@ Como funciona? en js
 Ejemplo practico:
 
 En este caso teníamos un prototipo que era persona que soporta ciertos parametros como valor dentro de este y que tiene funciones que van a hacer que cada persona salude:
+```js 
+function Persona(nombre, apellido, altura) {
+ this.nombre = nombre
+ this.apellido = apellido
+ this.altura = altura
+}
+
+Persona.prototype.saludar = function () {
+ console.log(`Hola, me llamo ${this.nombre} ${this.apellido}`)
 ```
