@@ -44,3 +44,4 @@ function heredaDe(prototipoHijo, prototipoPadre) {
  prototipoHijo.prototype.constructor = prototipoHijo
 }
 ```
+> Aquí encontramos ```fn``` que es una f
