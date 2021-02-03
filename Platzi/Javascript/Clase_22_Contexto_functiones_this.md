@@ -1,6 +1,7 @@
 # ```function``` ```prototype``` a arrow function
-Quien es tihs?
+### Quien es this?
 
+>
 aqui nos dice que this es window
 
 y window es el objeto global dentro de el navegador 
@@ -11,5 +12,10 @@ y como dentro de los parametros de el objeto global "window" no está lo que est
 
 como podemos ver aquí en las arrow functions this no es lo que esperabamos y lo que pasa aquí es que la arrow function asigna esa function pero cambia el ```this``` dentro de la function, lo que hace es que el this lo va a dejar apuntando a el espacio global, y this en el espacio global es window y lo podemos comprobar en la consola de la siguiente manera:
 
+```js
+this === window
+
+true
+```
 
 >Nota: Esto solo funciona para ```this``` dentro del espacio global ya que ```this``` bien referenciado como lo vimos anteriormente si hace referencia a el objeto que se acaba de construir por ejemplo en el caso de este fragmento de código 
