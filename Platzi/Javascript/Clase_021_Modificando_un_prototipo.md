@@ -12,4 +12,4 @@
 >>nota: Es muy importante donde colocamos las funciones que va a tener el prototipo y siempre colocarlas todas juntas.
 
 # Definiendo prototipos como arrow functions
-> La forma de utilizar ```this.``` dentro de las arrow functons es diferente a como sería normalmente y se hablará de su función y la forma de eje
+> La forma de utilizar ```this.``` dentro de las arrow functons es diferente a como sería normalmente y se hablará de su función y la forma de ejecutarse en la siguiente clase.
