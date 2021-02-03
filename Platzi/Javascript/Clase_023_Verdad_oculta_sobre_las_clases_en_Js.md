@@ -5,4 +5,4 @@ js no soporta la herencia por que no soporta las clases, no hay clases, hay prot
 # Herencia prototipal
 Como funciona? en js
 
-> crear prototipos hijos a base de un prototipo que va a ser un subtipo de el prototipo principal y lo que podemo
+> crear prototipos hijos a base de un prototipo que va a ser un subtipo de el prototipo principal y lo que podemos decir que este subtipo de va a ver si puede responder a el metodo que queremos llamar, pero si no sabe como responder a ese metodo, lo que hace es buscar en el prototipo padre si lo encuentra, si no lo encuentra entonces va a seguir en la cadena
