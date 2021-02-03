@@ -5,4 +5,4 @@ aqui nos dice que this es window
 
 y window es el objeto global dentro de el navegador 
 
-y como dentro de los parametros de el objeto global "window" no está lo que estamos referenciando dentro de nuestro codigo nos aparecerá normalmente ""
+y como dentro de los parametros de el objeto global "window" no está lo que estamos referenciando dentro de nuestro codigo nos aparecerá normalmente "undifined", y esto es un error muy comun tanto en el backend como en el frontend, la función ```this.``` no siempre va a estar referenciando el objeto que esperas que esté referenciando, este es uno de los casos represe
