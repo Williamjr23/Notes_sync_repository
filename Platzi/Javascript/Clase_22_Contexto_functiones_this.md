@@ -21,7 +21,7 @@ Persona.prototype.soyAlto = function () {
 ```js
 Persona.prototype.soyAlto = () => this.altura > 1.8
 ```
->En la ```function``` de aquí al usar una arrow function se está referenciando el ```this``` como un objeto global, y como mencionamos anteriormente ```this``` como objeto global hace referencia a window que es el objeto global de el navegador, por lo tanto nunca nos va a funcionar este codigo en forma de arrow function, ya que la ```function``` global no tiene los parametros defindos que estamos pidiendo, pero tampoco dará error ya que la variable this si está siendo referenciada, solo que apunta hacia otro lado
+>En la ```function``` de aquí al usar una arrow function se está referenciando el ```this``` dentro de el espaco global, y como mencionamos anteriormente ```this``` en el espacio global hace referencia a window que es el objeto global de el navegador, por lo tanto nunca nos va a funcionar este codigo en forma de arrow function, ya que la ```function``` global no tiene los parametros defindos que estamos pidiendo, pero tampoco dará error ya que la variable this si está siendo referenciada, solo que apunta hacia otro lado
 
 
 como podemos ver aquí en las arrow functions this no es lo que esperabamos y lo que pasa aquí es que la arrow function asigna esa function pero cambia el ```this``` dentro de la function, lo que hace es que el this lo va a dejar apuntando a el espacio global, y this en el espacio global es window y lo podemos comprobar en la consola de la siguiente manera:
