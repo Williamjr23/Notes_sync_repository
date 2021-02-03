@@ -35,4 +35,12 @@ primero dejar en claro que un prototipo es la forma de añadir una function a nu
 
 >Esta era hasta hace poco la unica manera en JS que teníamos para heredar características entre componentes u objetos, pero de aquí debemos saber solo las bases, mas adelante aprenderemos una mejor forma de hacer esto
 
->Los prototipos siempre son objetos
+>Los prototipos siempre son objetos 
+```js 
+function heredaDe(prototipoHijo, prototipoPadre) {
+ var fn = function() {}
+ fn.prototype = prototipoPadre.prototype
+ prototipoHijo.prototype = new fn
+ prototipoHijo.prototype.constructor = prototipoHijo
+}
+```
