@@ -9,9 +9,10 @@
 #### Por que hay que cuidar en donde y como se utiliza el ```this``` para referenciar, para saber siempre hacia donde apunta la ```function```
 >Lo que debemos de entender para saber por que nos tira ```undefined``` algunas veces al hacer referencia a un objeto utilizando el ```this``` es por que algunas veces dependiendo de el contexto en que se utilice esta ```function``` va a estar apuntando hacia otro lado.
 
->dentro de los parametros del objeto global "window" no está lo que estamos referenciando dentro de nuestro codigo nos aparecerá normalmente "undifined", y esto es uno de los errores mas comunes en JS tanto en el backend como en el frontend, la función ```this.``` no siempre va a estar referenciando el objeto que esperas que esté referenciando, este es uno de los casos representado al intentar hacer nuestra linea de codigo anterior en una arrow function
+>Y lo anterior es uno de los errores mas comunes en Js tanto en el backend como en frontend, la función ```this.``` no siempre va a estar referenciando el objeto que esperas que esté referenciando, este es uno de los casos representado al intentar hacer nuestra linea de codigo anterior en una arrow function
 
-// codigo 1 y 2
+```
+```
 
 como podemos ver aquí en las arrow functions this no es lo que esperabamos y lo que pasa aquí es que la arrow function asigna esa function pero cambia el ```this``` dentro de la function, lo que hace es que el this lo va a dejar apuntando a el espacio global, y this en el espacio global es window y lo podemos comprobar en la consola de la siguiente manera:
 
