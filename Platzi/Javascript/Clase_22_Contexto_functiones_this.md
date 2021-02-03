@@ -11,8 +11,17 @@
 
 >Y lo anterior es uno de los errores mas comunes en Js tanto en el backend como en frontend, la función ```this.``` no siempre va a estar referenciando el objeto que esperas que esté referenciando, este es uno de los casos representado al intentar hacer nuestra linea de codigo anterior en una arrow function
 
+```js 
+Persona.prototype.soyAlto = function () {
+ return this.altura > 1.80
+}
 ```
+> Esta es nuestra forma común en la que no tenemos problema referenciando nuestro ```this```
+
+```js
+Persona.prototype.soyAlto =
 ```
+
 
 como podemos ver aquí en las arrow functions this no es lo que esperabamos y lo que pasa aquí es que la arrow function asigna esa function pero cambia el ```this``` dentro de la function, lo que hace es que el this lo va a dejar apuntando a el espacio global, y this en el espacio global es window y lo podemos comprobar en la consola de la siguiente manera:
 
