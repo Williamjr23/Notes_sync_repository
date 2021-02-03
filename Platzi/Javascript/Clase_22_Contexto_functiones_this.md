@@ -23,7 +23,7 @@ Persona.prototype.soyAlto = () => this.altura > 1.8
 ```
 >En la ```function``` de aquí al usar una arrow function se está referenciando el ```this``` dentro de el espaco global, y como mencionamos anteriormente ```this``` en el espacio global es window que es el objeto global de el navegador, por lo tanto nunca nos va a funcionar este codigo en forma de arrow function, ya que la ```function``` global no tiene los parametros defindos que estamos pidiendo, pero tampoco dará error ya que la variable this si está siendo referenciada, solo que apunta hacia otro lado
 
-###  en el espacio global
+### ```this``` en el espacio global
 >como podemos ver aquí en las arrow functions this no es lo que esperabamos y lo que pasa aquí es que la arrow function asigna esa function pero cambia el ```this``` dentro de la function, lo que hace es que el this lo va a dejar apuntando a el espacio global, y this en el espacio global es window y lo podemos comprobar en la consola de la siguiente manera:
 
 ```js
@@ -32,4 +32,4 @@ this === window
 true
 ```
 
->Nota: Esto solo funciona para ```this``` dentro del espacio global ya que ```this``` bien referenciado como lo vimos anteriormente si hace referencia a el objeto que se acaba de construir por ejemplo en el caso de este fragmento de código 
+>Nota: Esto solo funciona para ```this``` dentro del espacio global ya que ```this``` bien referenciado como lo vimos anteriormente si hace referencia a el objeto que se acaba de construir.
