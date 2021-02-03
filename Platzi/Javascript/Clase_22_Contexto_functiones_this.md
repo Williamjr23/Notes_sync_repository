@@ -3,8 +3,8 @@
 #### Introducción 
 >De cierta manera aquí podríamos decir que ```this``` como anteriormente lo vimos hace referencia a el objeto que se acaba de construir, pero también dentro de una ```arrow function``` funciona de manera diferente apuntando hacia el objeto global que en este caso sería "```window```"
 
-### Window
->window es el objeto global dentro de el navegador 
+### Que es windo
+>window es el objeto global dentro de el navegador El **objeto window** representa la ventana que contiene un documento DOM; la propiedad document apunta al DOM document cargado en esa ventana. ... Esto significa que el **objeto window** no se comparte entre diferentes pestañas de la misma ventana del navegador.
 
 y window es el objeto global dentro de el navegador 
 
