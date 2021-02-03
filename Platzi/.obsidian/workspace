@@ -6,23 +6,23 @@
       {
         "id": "e8fc4bd934fe6d2e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_021_Modificando_un_prototipo.md",
+            "file": "Javascript/Clase_22_Contexto_functiones_this.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "f8e91d53cb3cb6df",
+        "id": "3a8f3bca159394b5",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_021_Modificando_un_prototipo.md",
-            "mode": "preview"
+            "file": "Javascript/Clase_22_Contexto_functiones_this.md",
+            "mode": "source"
           }
         }
       }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_021_Modificando_un_prototipo.md",
+                "file": "Javascript/Clase_22_Contexto_functiones_this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_22_Contexto_functiones_this.md",
+    "Javascript/Untitled.md",
+    "Untitled.md",
     "Javascript/Clase_021_Modificando_un_prototipo.md",
     "Javascript/Clase_021_Clases_en_JavaScript.md",
     "Javascript/Clase_21_Clases_en_JavaScript.md",
-    "Javascript/Untitled.md",
     "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
     "Terminal_classes/Terminal_Class_009  (Permisos sobre archivos sistema octal).md",
     "Terminal_classes/Terminal_Class_008 (Administración de procesos en background y foreground).md",
-    "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
-    "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
-    "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md"
+    "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md"
   ]
 }
