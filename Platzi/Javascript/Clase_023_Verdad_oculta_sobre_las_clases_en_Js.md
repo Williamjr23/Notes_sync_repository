@@ -14,17 +14,20 @@ En este caso teníamos un prototipo que era persona que soporta ciertos parametr
 function Persona(nombre, apellido,) {
  this.nombre = nombre
  this.apellido = apellido
- this.altura = altura
 }
 
 Persona.prototype.saludar = function () {
  console.log(`Hola, me llamo ${this.nombre} ${this.apellido}`)
  }
 ```
-sin embargo lo que queremos hacer ahora es crear un nuevo prototipo "hijo" que soporte las mismas variables (nombre, apellido, ) pero en lugar de ser personas se van a referenciar como desarrolladores 
+sin embargo lo que queremos hacer ahora es crear un nuevo prototipo "hijo" que soporte las mismas variables (nombre, apellido,) pero en lugar de ser personas se van a referenciar como Desarrollador
 ```js 
 function Desarrollador(nombre, apellido) {
  this.nombre = nombre
  this.apellido = apellido
 } 
+
+Persona.prototype.saludar = function () {
+
+}
 ```
