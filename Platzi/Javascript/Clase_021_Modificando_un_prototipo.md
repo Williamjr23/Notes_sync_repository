@@ -6,3 +6,4 @@
 
 # Prototipo como objeto
 >El prototipo es un objeto más de JS entonces si se modifica a una cierta altura, a partir de ahí se va a quedar modificado
+>> En este caso se refiere a que no se puede definir un prototipo después de invocarlo ya que Js se detiene al tener un error en el codigo y si el prototipo se define después de requerirlo 
