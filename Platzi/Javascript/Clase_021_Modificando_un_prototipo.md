@@ -4,3 +4,5 @@
 >
 >Mas info [Herencia y la cadena de prototipos](https://developer.mozilla.org/es/docs/Web/JavaScript/Herencia_y_la_cadena_de_protipos)
 
+# Prototipo como objeto
+>El prototipo es un objeto más de JS entonces si se modifica a una cierta ltura, a 
