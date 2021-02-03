@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_021_Clases_en_JavaScript.md",
+            "file": "Javascript/Clase_021_Modificando_un_prototipo.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_021_Clases_en_JavaScript.md",
+                "file": "Javascript/Clase_021_Modificando_un_prototipo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Clase_021_Clases_en_JavaScript.md",
     "Javascript/Clase_021_Modificando_un_prototipo.md",
+    "Javascript/Clase_021_Clases_en_JavaScript.md",
     "Javascript/Clase_21_Clases_en_JavaScript.md",
     "Javascript/Untitled.md",
     "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",

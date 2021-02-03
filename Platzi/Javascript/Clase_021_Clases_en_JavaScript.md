@@ -64,4 +64,4 @@ Persona.prototype.saludar = function () {
 ```
 > Y esto lo que va a hacer es decir que dentro de el prototipo de persona va a existir el prototipo saludar que va a ser una ```function``` y ahí se definen los parámetros de esta misma por ejemplo en este caso la ```function``` solo imprime un ```console.log```
 
->**Nota**: Prototype es un constructor de objetos global que está disponible para todos los objetos de JavaScript.
+> **Nota**: Prototype es un constructor de objetos global que está disponible para todos los objetos de JavaScript.
