@@ -15,7 +15,11 @@
 > La forma de utilizar ```this.``` dentro de las arrow functons es diferente a como sería normalmente y se hablará de su función y la forma de ejecutarse en la siguiente clase.
 
 
- | palabra reservada | función /
+ | palabra reservada | función                                                 |
+ | ----------------- | ------------------------------------------------------- |
+ | new               | Se utiliza para crear nuevos objetos dado un prototipo. |
+ | this              | Hace referencia al objeto que se acaba de construir.    |
+ |                   |                                                         |
 
 
 ### Resumen:
