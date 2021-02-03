@@ -6,6 +6,7 @@
       {
         "id": "e8fc4bd934fe6d2e",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,12 +18,11 @@
       {
         "id": "3a8f3bca159394b5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Javascript/Clase_22_Contexto_functiones_this.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
