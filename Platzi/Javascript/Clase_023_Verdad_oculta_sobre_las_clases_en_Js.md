@@ -28,6 +28,7 @@ function Desarrollador(nombre, apellido) {
 } 
 
 Persona.prototype.saludar = function () {
-
+	console.log(`Hola, me llamo ${this.nombre} ${this.apellido} y soy desarrollador`)
 }
 ```
+como podemos ver ambos prototipos responden al mism
