@@ -19,8 +19,9 @@ Persona.prototype.soyAlto = function () {
 > Esta es nuestra forma común en la que no tenemos problema referenciando nuestro ```this```
 
 ```js
-Persona.prototype.soyAlto = () => 
+Persona.prototype.soyAlto = () => this.altura > 1.8
 ```
+>En la ```function``` de aquí al usar una arrow function se está referenciando el ```this``` como un
 
 
 como podemos ver aquí en las arrow functions this no es lo que esperabamos y lo que pasa aquí es que la arrow function asigna esa function pero cambia el ```this``` dentro de la function, lo que hace es que el this lo va a dejar apuntando a el espacio global, y this en el espacio global es window y lo podemos comprobar en la consola de la siguiente manera:
