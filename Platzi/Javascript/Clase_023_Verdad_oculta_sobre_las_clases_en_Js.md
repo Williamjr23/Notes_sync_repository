@@ -31,4 +31,4 @@ Persona.prototype.saludar = function () {
 	console.log(`Hola, me llamo ${this.nombre} ${this.apellido} y soy desarrollador`)
 }
 ```
-como podemos ver ambos prototipos responden al mism
+primero dejar en claro que un prototipo es la forma de añadir una function a nuestro objeto que ya ejerce como una function y como podemos ver ambos prototipos responden al mismo nombre de ```saludar``` 
