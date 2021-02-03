@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
-            "mode": "source"
+            "file": "Javascript/Clase_021_Modificando_un_prototipo.md",
+            "mode": "preview"
           }
         }
       }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
+                "file": "Javascript/Clase_021_Modificando_un_prototipo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_021_Modificando_un_prototipo.md",
+    "Javascript/Clase_022_Contexto_functiones_this.md",
     "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
     "Javascript/Untitled.md",
-    "Javascript/Clase_022_Contexto_functiones_this.md",
-    "Javascript/Clase_021_Modificando_un_prototipo.md",
     "Javascript/Clase_22_Contexto_functiones_this.md",
     "Untitled.md",
     "Javascript/Clase_021_Clases_en_JavaScript.md",
