@@ -13,3 +13,13 @@
 
 # Definiendo prototipos como arrow functions
 > La forma de utilizar ```this.``` dentro de las arrow functons es diferente a como sería normalmente y se hablará de su función y la forma de ejecutarse en la siguiente clase.
+
+
+### Resumen:
+**El prototipo es un objeto más de JS** , a partir de que lo modifiquemos, éste va a quedar modificado.
+
+Es de mucha importancia **donde colocamos las funciones que va a tener el prototipo** . Estos **se deben de colocar juntos**, ya que con ellos se va creando **el prototipo del objeto**, y deseamos que tenga juntas todas sus funciones.
+
+**Por ello definimos los prototipos arriba, y los utilizamos a lo largo del código.**
+
+**NOTA:** Cuando tenemos un error en JS, éste no se sigue ejecutando, se corta ahí la ejecución del código.
