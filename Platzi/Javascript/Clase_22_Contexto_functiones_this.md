@@ -9,4 +9,7 @@ y como dentro de los parametros de el objeto global "window" no está lo que est
 
 // codigo 1 y 2j
 
-como podemos ver aquí en las arrow functions this no es lo que esperabamos y lo que pasa aquí es que la arrow function asigna esa function pero cambia el ```this``` dentro de la function, lo que hace es que el this lo va a dejar apuntando a el espacio global, y this en el espacio global es window
+como podemos ver aquí en las arrow functions this no es lo que esperabamos y lo que pasa aquí es que la arrow function asigna esa function pero cambia el ```this``` dentro de la function, lo que hace es que el this lo va a dejar apuntando a el espacio global, y this en el espacio global es window y lo podemos comprobar en la consola de la siguiente manera:
+
+
+>Nota: Esto solo funciona para ```this``` dentro del espacio global ya que ```this
