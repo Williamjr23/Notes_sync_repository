@@ -6,23 +6,23 @@
       {
         "id": "e8fc4bd934fe6d2e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Untitled.md",
+            "file": "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "3a8f3bca159394b5",
+        "id": "aa2826cc3a8643d9",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_022_Contexto_functiones_this.md",
-            "mode": "preview"
+            "file": "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
+            "mode": "source"
           }
         }
       }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Untitled.md",
+                "file": "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
     "Javascript/Untitled.md",
     "Javascript/Clase_022_Contexto_functiones_this.md",
     "Javascript/Clase_021_Modificando_un_prototipo.md",
@@ -105,7 +106,6 @@
     "Javascript/Clase_021_Clases_en_JavaScript.md",
     "Javascript/Clase_21_Clases_en_JavaScript.md",
     "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
-    "Terminal_classes/Terminal_Class_009  (Permisos sobre archivos sistema octal).md",
-    "Terminal_classes/Terminal_Class_008 (Administración de procesos en background y foreground).md"
+    "Terminal_classes/Terminal_Class_009  (Permisos sobre archivos sistema octal).md"
   ]
 }
