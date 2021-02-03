@@ -1,8 +1,7 @@
 # ```function``` ```prototype``` a arrow function
 ### Quien es this?
 #### Introducción 
->De cierta manera aquí podríamos decir que ```this``` como anteriormente lo vimos hace referencia a el objeto que se acaba de construir, pero también dentro de una 
-aqui nos dice que this es window
+>De cierta manera aquí podríamos decir que ```this``` como anteriormente lo vimos hace referencia a el objeto que se acaba de construir, pero también dentro de una ```arrow function``` funciona de manera diferente apuntando hacia el objeto global que en este caso sería "```window```"
 
 y window es el objeto global dentro de el navegador 
 
