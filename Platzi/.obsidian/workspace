@@ -10,8 +10,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_021_Clases_en_JavaScript.md",
+            "file": "Javascript/Clase_021_Modificando_un_prototipo.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "29635c855e029b2c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/Clase_021_Modificando_un_prototipo.md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436
+    "width": 436,
+    "collapsed": true
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_021_Clases_en_JavaScript.md",
+                "file": "Javascript/Clase_021_Modificando_un_prototipo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +98,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_021_Modificando_un_prototipo.md",
     "Javascript/Clase_21_Clases_en_JavaScript.md",
     "Javascript/Untitled.md",
     "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
@@ -94,7 +107,6 @@
     "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
     "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
     "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
-    "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
-    "Terminal_classes/Terminal_Class_003 (Organización de archivos).md"
+    "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md"
   ]
 }
