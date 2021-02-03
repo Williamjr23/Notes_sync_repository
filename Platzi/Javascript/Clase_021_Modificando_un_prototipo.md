@@ -19,7 +19,7 @@
  | ----------------- | ------------------------------------------------------- |
  | new               | Se utiliza para crear nuevos objetos dado un prototipo. |
  | this              | Hace referencia al objeto que se acaba de construir.    |
- | prototype         | Es una ```function``` que se encarga de crear objetos, de acuerdo a los parámetros que reciba, esta función utiliza th                                                        |
+ | prototype         | Es una ```function``` que se encarga de crear objetos, de acuerdo a los parámetros que reciba, esta función utiliza                                                         |
 
 
 ### Resumen:
