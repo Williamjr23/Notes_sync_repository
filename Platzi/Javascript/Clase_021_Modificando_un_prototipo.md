@@ -11,4 +11,5 @@
 >Por eso es una buena practica intentar que todos nuestros ```prototype``` estén mayormente juntos
 >>nota: Es muy importante donde colocamos las funciones que va a tener el prototipo y siempre colocarlas todas juntas.
 
-### Definiendo protot
+# Definiendo prototipos como arrow functions
+> La forma de utilizar ```this.``` dentro de las arrow functons es diferente a como sería normalmente y se hablará de su función y la forma de eje
