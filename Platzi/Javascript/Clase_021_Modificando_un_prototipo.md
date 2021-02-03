@@ -8,5 +8,7 @@
 >El ```prototype``` es un objeto más de JS entonces si se modifica a una cierta altura, a partir de ahí se va a quedar modificado
 >> En este caso se refiere a que no se puede definir un ```prototype``` después de invocarlo ya que Js detiene el codigo al tener un error y si el prototipo se define después de requerirlo se va a detener el codigo antes de llegar a este mismo
 >
->Por eso es una buena practica intentar que todos nuestros ```prototype``` estén mayormente juntos 
+>Por eso es una buena practica intentar que todos nuestros ```prototype``` estén mayormente juntos
 >>nota: Es muy importante donde colocamos las funciones que va a tener el prototipo y siempre colocarlas todas juntas.
+
+### Definiendo protot
