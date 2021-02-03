@@ -7,4 +7,7 @@ Como funciona? en js
 
 > crear prototipos hijos a base de un prototipo que va a ser un subtipo de el prototipo principal y lo que podemos decir que este subtipo de va a ver si puede responder a el metodo que queremos llamar, pero si no sabe como responder a ese metodo, lo que hace es buscar en el prototipo padre si lo encuentra, si no lo encuentra entonces va a seguir en la cadena de buscar en el prototipo padre hasta llegar a el prototipo base de todos los objetos que es ```object``` y si object no conoce ese mensaje recien ahí se va a lanzar el error de que no se conoce ese metodo 
 
-Ejemplo:
+Ejemplo practico:
+
+En este caso teníamos un prototipo que era persona que soporta ciertos parametros como valor dentro de este y que tiene funciones que van a hacer que cada persona salude:
+```
