@@ -5,7 +5,7 @@
 >Mas info [Herencia y la cadena de prototipos](https://developer.mozilla.org/es/docs/Web/JavaScript/Herencia_y_la_cadena_de_protipos)
 
 # Prototipo como objeto
->El ```ptoyo es un objeto más de JS entonces si se modifica a una cierta altura, a partir de ahí se va a quedar modificado
->> En este caso se refiere a que no se puede definir un prototipo después de invocarlo ya que Js se detiene al tener un error en el codigo y si el prototipo se define después de requerirlo se va a detener el codigo antes de llegar a este mismo
+>El ```prototype``` es un objeto más de JS entonces si se modifica a una cierta altura, a partir de ahí se va a quedar modificado
+>> En este caso se refiere a que no se puede definir un ```prototype``` después de invocarlo ya que Js detiene el codigo al tener un error y si el prototipo se define después de requerirlo se va a detener el codigo antes de llegar a este mismo
 >
 >Por eso es una buena practica intentar que todos nuestros ```prototype``` estén mayormente juntos 
