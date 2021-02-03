@@ -19,7 +19,7 @@ Persona.prototype.soyAlto = function () {
 > Esta es nuestra forma común en la que no tenemos problema referenciando nuestro ```this```
 
 ```js
-Persona.prototype.soyAlto =
+Persona.prototype.soyAlto = () => 
 ```
 
 
