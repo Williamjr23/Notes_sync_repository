@@ -19,4 +19,6 @@ function Persona(nombre, apellido, altura) {
 
 Persona.prototype.saludar = function () {
  console.log(`Hola, me llamo ${this.nombre} ${this.apellido}`)
+ }
 ```
+sin embargo lo que queremos hacer ahora es crear un nuevo prototipo "hijo" que soporte las mismas variables (nombre, apellido, altura) p
