@@ -31,4 +31,4 @@ Desarrollador.prototype.saludar = function () {
 	console.log(`Hola, me llamo ${this.nombre} ${this.apellido} y soy desarrollador`)
 }
 ```
-primero dejar en claro que un prototipo es la forma de añadir una function a nuestro objeto que ya ejerce como una function y por eso es que le conocemos como prototipo. ahoria si como podemos ver ambos prototipos responden al mismo nombre de ```saludar``` la diferencia entonces está en qué valor se va a pisar primero, en este caso 
+primero dejar en claro que un prototipo es la forma de añadir una function a nuestro objeto que ya ejerce como una function y por eso es que le conocemos como prototipo. ahoria si como podemos ver ambos prototipos responden al mismo nombre de ```saludar``` la diferencia entonces está en qué valor se va a pisar primero e indicarle en que parametros de qué objetos tiene que buscar nuestro prototipo, en pocas palabras debemos definir 
