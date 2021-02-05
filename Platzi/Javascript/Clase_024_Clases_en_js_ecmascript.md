@@ -9,6 +9,7 @@ class Persona {
  this.nombre = nombre
  this.apellido = apellido
  this.altura = altura
-
+	}
 }
 ```
+> Aquí declaramos que va a existir la class
