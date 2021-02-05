@@ -6,18 +6,18 @@
       {
         "id": "e8fc4bd934fe6d2e",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
         "id": "e99319a033332745",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
