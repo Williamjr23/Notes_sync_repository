@@ -48,18 +48,9 @@ function heredaDe(prototipoHijo, prototipoPadre) {
  prototipoHijo.prototype.constructor = prototipoHijo
 }
 ```
-> Aquí encontramos ```fn``` que es una f
-
-
-> Se le dice a el prototipo hijo quien va a ser su prototipo padre de la siguiente manera:
-```js
-function heredaDE(prototipoHijo, prototipoPadre) {
-	var fn = function () {}
-}
-```
 > Se le asigna un prototipo a el prototipo/ parametro "prototipo hijo"
 
 > Entonces lo que vamos a hacer es definir una funcion vacía que en este caso es anonima que generalmente se asigna el nombre de ```fn``` y a esta función se le asigna el prototipo de el prototipo padre:
 > ```fn.prototype = prototipoPadre.prototype``` y luego al prototipo hijo se le dice que su prototipo va a ser un nuevo objeto de la function que acabamos de crear arriba ```prototipoHijo.prototype = new fn```
-> Y luego se asigna la function constructora de la claseHija: ```claseHija.prototype.constructor = claseHija``` si no agregamos esta linea entonces se va a estar llamadno a el constructor de el prototipoPadre, y con esto 
+> Y luego se asigna la function constructora de la claseHija: ```protHija.prototype.constructor = claseHija``` si no agregamos esta linea entonces se va a estar llamando a el constructor de el prototipoPadre, y con esto ya hicimos lo que necesitabamos hacer para generar la herencia, pero en la clase siguiente lo vamos a hacer mucho mas sencillo 
 > 
