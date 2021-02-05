@@ -49,3 +49,8 @@ function heredaDe(prototipoHijo, prototipoPadre) {
 }
 ```
 > Aquí encontramos ```fn``` que es una f
+
+
+> Se le dice a el prototipo hijo quien va a ser su prototipo padre de la siguiente manera:
+```
+``
