@@ -24,4 +24,8 @@ class Persona {
 > Además le agregamos el saludar de antes sin necesidad de la palabra function y también el metodo ```soyAlto```
 
 
-Como logramos que una clase herede de otra?
+# Como logramos que una clase herede de otra?
+Ejemplo:
+
+
+> Aquí creamos la ```class``` ```Desarrollador``` y le decimos antes de las llaves la parte de la herencia, y lo que s
