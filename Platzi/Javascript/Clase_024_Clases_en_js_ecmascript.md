@@ -28,15 +28,11 @@ class Persona {
 Ejemplo:
 ```js
 class Desarrollador extends Persona {
-
  constructor(nombre, apellido, altura) {
-
- this.nombre \= nombre
-
- this.apellido \= apellido
-
- this.altura \= altura
-
+ 	super(nombre, apellido, altura)
+ this.nombre = nombre
+ this.apellido = apellido
+ this.altura = altura
  }
 
   
@@ -52,4 +48,4 @@ class Desarrollador extends Persona {
 
 > Aquí creamos la ```class``` ```Desarrollador``` y le decimos antes de las llaves la parte de la herencia, y lo que se llama "herencia" aquí le llamaremos extención ```extends``` así que diremos que esta clase extiende de ```persona```
 
-> No se puede utilizar ```this.``` dentro de el ```extends``` (constructor) hasta que no hallamos llamado a el constructor de la clase padre, y para eso utilizamos la palabra ```super``` y le pasamos los parametros
+> No se puede utilizar ```this.``` dentro de el ```extends``` (constructor) hasta que no hallamos llamado a el constructor de la clase padre, y para eso utilizamos la palabra ```super()``` y le pasamos los parametros
