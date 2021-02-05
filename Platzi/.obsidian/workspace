@@ -6,12 +6,23 @@
       {
         "id": "e8fc4bd934fe6d2e",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e99319a033332745",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "filter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436,
-    "collapsed": true
+    "width": 436
   },
   "right": {
     "id": "993c4efd9f0db2b6",
