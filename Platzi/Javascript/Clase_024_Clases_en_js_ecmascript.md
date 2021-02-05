@@ -28,4 +28,4 @@ class Persona {
 Ejemplo:
 
 
-> Aquí creamos la ```class``` ```Desarrollador``` y le decimos antes de las llaves la parte de la herencia, y lo que s
+> Aquí creamos la ```class``` ```Desarrollador``` y le decimos antes de las llaves la parte de la herencia, y lo que se llama "herencia" aquí le llamaremos extención ```extends``` así que diremos que esta clase extiende de ```persona``
