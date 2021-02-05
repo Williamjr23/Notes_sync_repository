@@ -54,3 +54,7 @@ function heredaDe(prototipoHijo, prototipoPadre) {
 > ```fn.prototype = prototipoPadre.prototype``` y luego al prototipo hijo se le dice que su prototipo va a ser un nuevo objeto de la function que acabamos de crear arriba ```prototipoHijo.prototype = new fn```
 > Y luego se asigna la function constructora a el prototipoHijo: ```prototipoHijo.prototype.constructor = prototipoHijo``` si no agregamos esta linea entonces se va a estar llamando a el constructor del prototipoPadre, y con esto ya hicimos lo que necesitabamos hacer para generar la herencia, pero en la clase siguiente lo vamos a hacer mucho mas sencillo 
 > 
+## Mecanismo de herencia:
+```
+hereda
+```
