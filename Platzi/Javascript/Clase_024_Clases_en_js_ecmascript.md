@@ -16,4 +16,4 @@ class Persona {
 }
 ```
 > Aquí declaramos que va a existir la ```class``` (clase) ```persona``` y que va a tener un metodo llamado ```constructor``` que es el que se va a ejecutar cuando creemos objetos de esta clase 
-> Además le agregamos el saludar de antes sin necesida
+> Además le agregamos el saludar de antes sin necesidad de la palabra function y también el metodo ```soyAlto```
