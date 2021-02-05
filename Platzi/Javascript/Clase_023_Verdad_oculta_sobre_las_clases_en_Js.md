@@ -54,7 +54,9 @@ function heredaDe(prototipoHijo, prototipoPadre) {
 > Se le dice a el prototipo hijo quien va a ser su prototipo padre de la siguiente manera:
 ```js
 function heredaDE(prototipoHijo, prototipoPadre) {
-
+	var fn = function () {}
 }
 ```
 > Se le asigna un prototipo a el prototipo/ parametro "prototipo hijo"
+
+> Entonces lo que vamos a hacer es definir una funcion vacía que en este caso es anonima que generalment
