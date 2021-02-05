@@ -35,14 +35,9 @@ class Desarrollador extends Persona {
  this.altura = altura
  }
 
-  
-
  saludar(){
-
- console.log(\`Hola, me llamo ${this.nombre} ${this.apellido} y soy desarrollador\`)
-
+ console.log(`Hola, me llamo ${this.nombre} ${this.apellido} y soy desarrollador`)
  }
-
 }
 ```
 
