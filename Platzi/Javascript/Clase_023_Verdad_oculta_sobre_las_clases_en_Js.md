@@ -61,5 +61,5 @@ function heredaDE(prototipoHijo, prototipoPadre) {
 
 > Entonces lo que vamos a hacer es definir una funcion vacía que en este caso es anonima que generalmente se asigna el nombre de ```fn``` y a esta función se le asigna el prototipo de el prototipo padre:
 > ```fn.prototype = prototipoPadre.prototype``` y luego al prototipo hijo se le dice que su prototipo va a ser un nuevo objeto de la function que acabamos de crear arriba ```prototipoHijo.prototype = new fn```
-> 
+> Y luego se asigna la function constructora de la claseHija: ```claseHija.prototype.constructor = claseHija``` si no agregamos esta linea entonces se va a estar llamadno a el constructor de el prototipoPadre, y con esto 
 > 
