@@ -59,3 +59,4 @@ function heredaDe(prototipoHijo, prototipoPadre) {
 heredaDe(Desarrollador, Persona)
 ```
 >nota, este se tiene que llamar inmediatamente despues de llamar la function por que si no va a pisar otro prototipo que no le corresponde debido a que JS interpreta el codigo de manera lineal
+
