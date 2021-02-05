@@ -52,5 +52,9 @@ function heredaDe(prototipoHijo, prototipoPadre) {
 
 
 > Se le dice a el prototipo hijo quien va a ser su prototipo padre de la siguiente manera:
+```js
+function heredaDE(prototipoHijo, prototipoPadre) {
+
+}
 ```
-``
+> Se le asigna un prototipo a el prototipo/ parametro "prototipo hijo"
