@@ -13,6 +13,10 @@ class Persona {
 	 saludar() {
  console.log(`Hola, me llamo ${this.nombre} ${this.apellido}`)
  }
+  soyAlto() {
+ return this.altura > 1.8
+
+ }
 }
 ```
 > Aquí declaramos que va a existir la ```class``` (clase) ```persona``` y que va a tener un metodo llamado ```constructor``` que es el que se va a ejecutar cuando creemos objetos de esta clase 
