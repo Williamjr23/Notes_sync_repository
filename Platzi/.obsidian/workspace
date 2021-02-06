@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Javascript/Clase_024_Clases_en_js_ecmascript.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -64,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436,
-    "collapsed": true
+    "width": 436
   },
   "right": {
     "id": "993c4efd9f0db2b6",
