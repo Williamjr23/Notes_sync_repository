@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_024_Clases_en_js_ecmascript.md",
-            "mode": "preview"
+            "file": "Cursos_por_tomar/Untitled.md",
+            "mode": "source"
           }
         }
       },
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_024_Clases_en_js_ecmascript.md",
+                "file": "Cursos_por_tomar/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Cursos_por_tomar/Untitled.md",
     "Javascript/Clase_024_Clases_en_js_ecmascript.md",
     "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
     "Javascript/Untitled.md",
@@ -105,7 +106,6 @@
     "Javascript/Clase_022_Contexto_functiones_this.md",
     "Javascript/Clase_22_Contexto_functiones_this.md",
     "Javascript/Clase_021_Clases_en_JavaScript.md",
-    "Javascript/Clase_21_Clases_en_JavaScript.md",
-    "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md"
+    "Javascript/Clase_21_Clases_en_JavaScript.md"
   ]
 }
