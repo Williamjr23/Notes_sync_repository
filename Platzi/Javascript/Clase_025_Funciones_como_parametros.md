@@ -47,4 +47,5 @@ saludar(fn) {
     }
  }
 ```
-La forma de escribir el ```var {nombre, apellido} = this``` como ya lo vimos anteriormente desestructuramos el objeto para poder utilzarlo constantemente dentro d
+La forma de escribir el ```var {nombre, apellido} = this``` como ya lo vimos anteriormente desestructuramos el objeto para poder utilzarlo constantemente dentro de nuestra funcion repetidas veces sin tener que estar accediendo a ```this.``` cada que lo necesitemos, esto nos ahorra espacio
+
