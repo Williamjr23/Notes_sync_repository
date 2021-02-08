@@ -51,6 +51,7 @@ saludar(fn) {
  }
 ```
 > Aquí podemos ver que tenemos el parametro ```(fn)``` y abajo tenemos asignado un ``` if (fn)``` que lo que va a hacer es tomar valores booleanos para ejecutar lo que esté en la linea de abajo dependiendo si es ```true``` o ```false``` y los valores que soporta son los siguientes:
+> 
 | nombre    | valor |
 | --------- | ----- |
 | false     | false |
@@ -58,4 +59,5 @@ saludar(fn) {
 | null      | false |
 | " "       | false |
 | undefined | false |
-| Nan       | false | 
+| Nan       | false |
+> Todos los demás son valores verdaderos, tanto un string con texto o poner directamente ```true``` que es lo más prolijo de hacer a la hora de estar trabajando con estos valores
