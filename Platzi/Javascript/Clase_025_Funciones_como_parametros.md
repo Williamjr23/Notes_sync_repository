@@ -16,3 +16,4 @@ function responderSaludo(nombre, apellido, esDev) {
 }
 ```
 
+Luego a continuación se le va a pasar la ```function``` ```responderSaludo``` a 
