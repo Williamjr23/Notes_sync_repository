@@ -61,3 +61,4 @@ saludar(fn) {
 | undefined | false |
 | Nan       | false |
 > Todos los demás son valores verdaderos, tanto un string con texto o poner directamente ```true``` que es lo más prolijo de hacer a la hora de estar trabajando con estos valores
+
