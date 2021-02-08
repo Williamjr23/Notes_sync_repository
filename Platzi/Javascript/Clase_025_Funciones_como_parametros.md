@@ -38,6 +38,9 @@ saludar(fn) {
 }
 ```
 > Esta sería el pararmetro que se le da a ```saludar``` que sería ```(fn)``` y con esto ya tenemos la posiblidad de recibir una función dentro de este parametro, en este caso no está definida por eso es ```(fn)``` así que puede recbir cualquer funcion que pongamos como parametro al intentar utilizar la ```funtion``` ```saludar(responderSaludo)``` como por ejemplo ahí que hace que al ejecutarse saludar se ejecute la ```function``` ```(responderSaludo)``` que fue la que se utilizó como parámetro para llamar a esta misma. y de igual manera lo haríamos dentro de la clase Persona 
+
+>nota: La forma de escribir el ```var {nombre, apellido} = this``` como ya lo vimos anteriormente desestructuramos el objeto para poder utilzarlo constantemente dentro de nuestra funcion repetidas veces sin tener que estar accediendo a ```this.``` cada que lo necesitemos, esto nos ahorra espacio
+
 ```js
  saludar(fn) {
      var {nombre, apellido} = this
@@ -47,5 +50,3 @@ saludar(fn) {
     }
  }
 ```
-La forma de escribir el ```var {nombre, apellido} = this``` como ya lo vimos anteriormente desestructuramos el objeto para poder utilzarlo constantemente dentro de nuestra funcion repetidas veces sin tener que estar accediendo a ```this.``` cada que lo necesitemos, esto nos ahorra espacio
-
