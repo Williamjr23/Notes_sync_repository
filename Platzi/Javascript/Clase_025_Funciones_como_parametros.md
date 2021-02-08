@@ -6,7 +6,7 @@ Vamos a hacer que cada que una persona salude la function responda el saludo
 
 
 
->Primero creamos la ```function``` ```responderSaludo``` que toma como parámetros el ```(nombre, ape)
+>Primero creamos la ```function``` ```responderSaludo``` que toma como parámetros el ```(nombre, apellido, esDev)``` y nos retorna un ```console.log()``` y luego decimos que sí es dev ```if(esDev)``` 
 ```js
 function responderSaludo(nombre, apellido, esDev) {
 	console.log(`Buen día ${nombre} ${apellido}`)
