@@ -23,3 +23,5 @@ sacha.saludar(responderSaludo)
 erika.saludar(responderSaludo)
 arturo.saludar(responderSaludo) 
 ```
+
+Y luego en ambas funciones saludar se le va a poner el parametro el nombre que nosotros queramos y lo que hacemos es que la function sea opcional tal vez la mandan o no se pida el parámetro o no tendrá que seguir funcionando correctamente, eme
