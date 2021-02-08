@@ -50,3 +50,4 @@ saludar(fn) {
     }
  }
 ```
+> Aquí podemos ver que tenemos el parametro ```(fn)``` y abajo tenemos asignado un ``` if (fn)``` que lo que va a hacer es tomar valores booleanos para ejecutar lo que esté en la
