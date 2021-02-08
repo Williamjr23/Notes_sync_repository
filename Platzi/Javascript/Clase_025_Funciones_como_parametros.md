@@ -61,4 +61,5 @@ saludar(fn) {
 | undefined | false |
 | Nan       | false |
 > Todos los demás son valores verdaderos, tanto un string con texto o poner directamente ```true``` que es lo más prolijo de hacer a la hora de estar trabajando con estos valores
->> En este caso una ```function``` como valor que existe dentro de un ```if()``` va a ser verdadero y en caso de que no ex
+>> En este caso una ```function``` como valor que existe dentro de un ```if()``` va a ser verdadero y en caso de que no exista va a ser ```undefined``` y como ya mencionamos anteriormente eso se representa como ```false```
+>
