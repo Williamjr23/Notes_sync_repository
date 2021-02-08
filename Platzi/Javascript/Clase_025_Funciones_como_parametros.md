@@ -24,4 +24,17 @@ erika.saludar(responderSaludo)
 arturo.saludar(responderSaludo) 
 ```
 
-Y luego en ambas funciones saludar se le va a poner el parametro el nombre que nosotros queramos y lo que hacemos es que la function sea opcional tal vez la mandan o no se pida el parámetro o no tendrá que seguir funcionando correctamente, eme
+Y luego en ambas funciones saludar se le va a poner el parametro el nombre que nosotros queramos y lo que hacemos es que la function sea opcional tal vez la mandan o no se pida el parámetro o no tendrá que seguir funcionando correctamente, ejemplo:
+```js 
+saludar(fn) {
+       var {nombre, apellido} = this
+      //  var nombre = this.nombre
+      //  var apellido = this.apellido
+        console.log(`Hola, me llamo ${nombre} ${apellido} y soy desarrollador`)
+        if (fn) {
+            fn(nombre, apellido, true)
+        }
+    }
+}
+```
+> Esta sería el pararmetro que se le da a la
