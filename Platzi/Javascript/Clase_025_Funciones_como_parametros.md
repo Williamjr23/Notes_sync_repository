@@ -37,4 +37,4 @@ saludar(fn) {
     }
 }
 ```
-> Esta sería el pararmetro que se le da a ```saludar``` que sería ```(fn)``` y con esto ya tenemos la posiblidad de recibir una función dentro de este parametro, en este caso no est
+> Esta sería el pararmetro que se le da a ```saludar``` que sería ```(fn)``` y con esto ya tenemos la posiblidad de recibir una función dentro de este parametro, en este caso no está definida por eso es ```(fn)``` así que puede recbir cualquer funcion que pongamos como parametro al intentar utilizar la ```funtion```
