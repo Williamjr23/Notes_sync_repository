@@ -4,3 +4,9 @@
 
 Vamos a hacer que cada que una persona salude la function responda el saludo  
 
+```js
+function responderSaludo() {
+	console.log(`Buen día ${nombre} ${apellido}`)
+}
+
+```
