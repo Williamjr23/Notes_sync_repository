@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_024_Clases_en_js_ecmascript.md",
-            "mode": "preview"
+            "file": "Funciones como parámetros.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_024_Clases_en_js_ecmascript.md",
+                "file": "Funciones como parámetros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
     "Javascript/Clase_024_Clases_en_js_ecmascript.md",
     "Cursos_por_tomar/Untitled.md",
     "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
     "Javascript/Untitled.md",
-    "Untitled.md",
     "Javascript/Clase_021_Modificando_un_prototipo.md",
     "Javascript/Clase_022_Contexto_functiones_this.md",
     "Javascript/Clase_22_Contexto_functiones_this.md",
-    "Javascript/Clase_021_Clases_en_JavaScript.md",
-    "Javascript/Clase_21_Clases_en_JavaScript.md"
+    "Javascript/Clase_021_Clases_en_JavaScript.md"
   ]
 }
