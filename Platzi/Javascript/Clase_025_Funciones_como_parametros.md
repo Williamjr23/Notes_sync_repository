@@ -5,8 +5,10 @@
 Vamos a hacer que cada que una persona salude la function responda el saludo  
 
 ```js
-function responderSaludo() {
+function responderSaludo(nombre, apellido, esDev) {
 	console.log(`Buen día ${nombre} ${apellido}`)
+	if(esDev) {
+	console.log(`Ah mirá, no sabía que eras desarrollador`)
+	}
 }
-
 ```
