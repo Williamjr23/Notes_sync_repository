@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_005 (Debugging y servicio de validación de etiquetas).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_004 (La importancia del código semántico).md",
     "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
     "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
     "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Javascript/Clase_26_Como_funciona_el_asincronismo.md",
-    "Javascript/Clase_025_Funciones_como_parametros.md",
-    "Untitled.md",
-    "Javascript/Clase_024_Clases_en_js_ecmascript.md",
-    "Cursos_por_tomar/Untitled.md"
+    "Javascript/Clase_025_Funciones_como_parametros.md"
   ]
 }
