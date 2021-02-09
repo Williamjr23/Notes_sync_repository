@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
     "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
     "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
     "HTML_&_CSS/HTML_&_CSS_Class_010 (Valores relativos y absolutos).md",
     "HTML_&_CSS/HTML_&_CSS_Class_009 (Modelo de caja).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_008 (Tipos de selectores, pseudo-clases y pseudo-elementos).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_007 (conceptos iniciales de css).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_008 (Tipos de selectores, pseudo-clases y pseudo-elementos).md"
   ]
 }
