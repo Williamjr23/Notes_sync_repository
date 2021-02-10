@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
-            "mode": "source"
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
     "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
     "Javascript/Clase_027_Como_funciona_el_tiempo_en_JS.md",
     "Javascript/Clase_26_Como_funciona_el_asincronismo.md",
     "Javascript/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_016 (Componentes).md",
     "HTML_&_CSS/HTML_&_CSS_Class_015 (OOCSS, BEM, SMACSS, ITCSS y Atomic Design).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_012 (Funciones de las propiedades CSS más usadas).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_014 (arquitecturas CSS).md"
   ]
 }
