@@ -13,8 +13,9 @@
  <script>
  	console.log('a')
 	setTimeout(function () {
-		console.log()
+		console.log('b')
 	}, 2000)
+	console.log('c')
  </script>
  ```
- >nota: El tiempo se maneja en 
+ >nota: El tiempo se maneja en milisegundos
