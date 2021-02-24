@@ -7,4 +7,11 @@
 * Pedidos de datos hacia una API
 
 
-### Como hacer que JS tard
+### Como asignarle un tiempo a los outputs en JS
+ 
+ ```js
+ <script>
+ 	console.log('a')
+	seT
+ </script>
+ ```
