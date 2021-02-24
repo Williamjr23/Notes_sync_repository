@@ -22,5 +22,6 @@
 
 También lo podemos escribir como arrow function: 
 
-```
+```js
+	setTimeout(() => console.log('b'), 2000)
 ```
