@@ -12,6 +12,9 @@
  ```js
  <script>
  	console.log('a')
-	seT
+	setTimeout(function () {
+		console.log()
+	}, 2000)
  </script>
  ```
+ >nota: El tiempo se maneja en 
