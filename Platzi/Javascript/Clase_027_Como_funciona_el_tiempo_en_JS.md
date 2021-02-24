@@ -16,6 +16,11 @@
 		console.log('b')
 	}, 2000)
 	console.log('c')
- </script>
+ </script> 
  ```
  >nota: El tiempo se maneja en milisegundos
+
+También lo podemos escribir como arrow function: 
+
+```
+```
