@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_031_Manejo_de_errores_con_callbacks.md",
+            "file": "Javascript/Clase_028_Callbacks.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_031_Manejo_de_errores_con_callbacks.md",
+                "file": "Javascript/Clase_028_Callbacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +97,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_028_Callbacks.md",
     "Javascript/Clase_031_Manejo_de_errores_con_callbacks.md",
     "Javascript/Clase_029_Orden_y_Asincronismo_en_JS.md",
     "Javascript/Clase_032_Manejo_de_errores_con_callbacks.md",
     "Javascript/Clase_028_Orden_y_Asincronismo_en_JS.md",
-    "Javascript/Clase_028_Callbacks.md",
     "Javascript/Clase_028_Multiples_requests.md",
     "Javascript/Clase_028_Callbacks 1 1 1.md",
     "Javascript/Clase_028_Callbacks 1 1.md",
