@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_027_Como_funciona_el_tiempo_en_JS.md",
+            "file": "Javascript/Clase_028_.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_027_Como_funciona_el_tiempo_en_JS.md",
+                "file": "Javascript/Clase_028_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Untitled.md",
     "Javascript/Clase_027_Como_funciona_el_tiempo_en_JS.md",
     "Javascript/Libros de javascript.md",
     "Javascript/Clase_026_Como_funciona_el_asincronismo.md",
@@ -105,7 +106,6 @@
     "Javascript/Clase_024_Clases_en_js_ecmascript.md",
     "Javascript/Clase_023_Verdad_oculta_sobre_las_clases_en_Js.md",
     "Javascript/Clase_025_Funciones_como_parametros.md",
-    "HTML_&_CSS/HTML_&_CSS_Class_008 (Tipos de selectores, pseudo-clases y pseudo-elementos).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_006 (Reto 1 Organiza el siguiente bloque de código de forma semántica).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_008 (Tipos de selectores, pseudo-clases y pseudo-elementos).md"
   ]
 }
