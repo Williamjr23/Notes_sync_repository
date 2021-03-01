@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_028_Callbacks 1 1 1.md",
+            "file": "Javascript/Clase_028_Callbacks.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_028_Callbacks 1 1 1.md",
+                "file": "Javascript/Clase_028_Callbacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Javascript/Clase_028_Callbacks.md",
+    "Javascript/Clase_028_Multiples_requests.md",
     "Javascript/Clase_028_Callbacks 1 1 1.md",
     "Javascript/Clase_028_Callbacks 1 1.md",
     "Javascript/Clase_028_Callbacks 1.md",
@@ -104,8 +106,6 @@
     "Javascript/Clase_027_Como_funciona_el_tiempo_en_JS.md",
     "Javascript/Libros de javascript.md",
     "Javascript/Clase_026_Como_funciona_el_asincronismo.md",
-    "Javascript/Clase_021_Modificando_un_prototipo.md",
-    "Javascript/Clase_022_Contexto_functiones_this.md",
-    "Javascript/Clase_024_Clases_en_js_ecmascript.md"
+    "Javascript/Clase_021_Modificando_un_prototipo.md"
   ]
 }
