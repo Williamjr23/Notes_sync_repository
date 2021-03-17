@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "span",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +87,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
     "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
     "Terminal_classes/Terminal_Class_009  (Permisos sobre archivos sistema octal).md",
     "Terminal_classes/Terminal_Class_008 (Administración de procesos en background y foreground).md",
@@ -94,7 +96,6 @@
     "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
     "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
     "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
-    "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md",
-    "Terminal_classes/Notas_extra (para solucionar problemas en la terminal).md"
+    "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md"
   ]
 }
