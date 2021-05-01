@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
+            "file": "Javascript/Notas extra del curso.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
+                "file": "Javascript/Notas extra del curso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "HTML_&_CSS/HTML_&_CSS_Class_011 (Displays en CSS).md",
-    "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
-    "Terminal_classes/Terminal_Class_009  (Permisos sobre archivos sistema octal).md",
-    "Terminal_classes/Terminal_Class_008 (Administración de procesos en background y foreground).md",
-    "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
-    "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
-    "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
-    "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
-    "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
-    "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md"
+    "Javascript/Notas extra del curso.md",
+    "Javascript/Libros de javascript.md",
+    "Javascript/Clase_029_Multiples_requests.md",
+    "Javascript/Clase_030_Orden_y_Asincronismo_en_JS.md",
+    "Javascript/Clase_028_Callbacks.md",
+    "Javascript/Clase_025_Funciones_como_parametros.md",
+    "Javascript/Clase_021_Clases_en_JavaScript.md",
+    "Javascript/Clase_018_Filtrar_un_array.md",
+    "Javascript/Clase_011_Funciones_que_retornan_valores.md",
+    "Javascript/Clase_004_Funciones.md"
   ]
 }
