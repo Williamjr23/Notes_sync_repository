@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Notas extra del curso.md",
+            "file": "Javascript/Libros de javascript.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Notas extra del curso.md",
+                "file": "Javascript/Libros de javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Javascript/Notas extra del curso.md",
     "Javascript/Libros de javascript.md",
+    "Javascript/Clase_031_Manejo_de_errores_con_callbacks.md",
+    "Javascript/Notas extra del curso.md",
     "Javascript/Clase_029_Multiples_requests.md",
     "Javascript/Clase_030_Orden_y_Asincronismo_en_JS.md",
     "Javascript/Clase_028_Callbacks.md",
     "Javascript/Clase_025_Funciones_como_parametros.md",
     "Javascript/Clase_021_Clases_en_JavaScript.md",
     "Javascript/Clase_018_Filtrar_un_array.md",
-    "Javascript/Clase_011_Funciones_que_retornan_valores.md",
-    "Javascript/Clase_004_Funciones.md"
+    "Javascript/Clase_011_Funciones_que_retornan_valores.md"
   ]
 }
