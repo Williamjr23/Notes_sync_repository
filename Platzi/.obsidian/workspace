@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/Notas_extra_para_complementar.md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476
+    "width": 702
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/Notas_extra_para_complementar.md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "5051779cb82c6a62",
   "lastOpenFiles": [
+    "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
     "Javascript/Libros de javascript.md",
@@ -96,7 +97,6 @@
     "Javascript/Clase_029_Multiples_requests.md",
     "Javascript/Clase_030_Orden_y_Asincronismo_en_JS.md",
     "Javascript/Clase_028_Callbacks.md",
-    "Javascript/Clase_025_Funciones_como_parametros.md",
-    "Javascript/Clase_021_Clases_en_JavaScript.md"
+    "Javascript/Clase_025_Funciones_como_parametros.md"
   ]
 }
