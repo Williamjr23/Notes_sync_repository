@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_022_Contexto_functiones_this.md",
-            "mode": "preview"
+            "file": "HTML_&_CSS_Exp/HTML_&_CSS_Class_001_exp.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_022_Contexto_functiones_this.md",
+                "file": "HTML_&_CSS_Exp/HTML_&_CSS_Class_001_exp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "HTML_&_CSS_Exp/HTML_&_CSS_Class_001_exp.md",
     "Javascript/Clase_022_Contexto_functiones_this.md",
     "Javascript/Clase_027_Como_funciona_el_tiempo_en_JS.md",
     "Javascript/Clase_029_Multiples_requests.md",
@@ -96,7 +97,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
     "HTML_&_CSS_Exp/Untitled.md",
     "Vue.js_3/Vue_3_Class_001.md",
-    "Vue.js_3/Untitled.md",
-    "Untitled.md"
+    "Vue.js_3/Untitled.md"
   ]
 }
