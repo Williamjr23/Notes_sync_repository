@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
-            "mode": "source"
+            "file": "Javascript/Clase_022_Contexto_functiones_this.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.00000190734863
+    "width": 422.50000190734863
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
+                "file": "Javascript/Clase_022_Contexto_functiones_this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Javascript/Clase_022_Contexto_functiones_this.md",
+    "Javascript/Clase_027_Como_funciona_el_tiempo_en_JS.md",
+    "Javascript/Clase_029_Multiples_requests.md",
+    "Javascript/Clase_026_Como_funciona_el_asincronismo.md",
     "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
     "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
     "HTML_&_CSS_Exp/Untitled.md",
     "Vue.js_3/Vue_3_Class_001.md",
     "Vue.js_3/Untitled.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled 3.md",
-    "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md"
+    "Untitled.md"
   ]
 }
