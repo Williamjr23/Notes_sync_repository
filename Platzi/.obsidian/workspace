@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Vue.js_3/clase.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Vue.js_3/clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0038fedf5fc9f057",
   "lastOpenFiles": [
+    "Vue.js_3/Untitled.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
@@ -96,7 +97,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
-    "Javascript/Libros de javascript.md",
-    "Javascript/Clase_031_Manejo_de_errores_con_callbacks.md"
+    "Javascript/Libros de javascript.md"
   ]
 }
