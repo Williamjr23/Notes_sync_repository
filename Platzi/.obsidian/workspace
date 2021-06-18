@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML_&_CSS_Exp/HTML_&_CSS_Class_001_exp.md",
+            "file": "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS_Exp/HTML_&_CSS_Class_001_exp.md",
+                "file": "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
-    "HTML_&_CSS_Exp/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
+    "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
+    "HTML_&_CSS_Exp/Untitled.md",
     "Vue.js_3/Vue_3_Class_001.md",
     "Vue.js_3/Untitled.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled 3.md",
-    "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
-    "HTML_&_CSS/Notas_extra_para_complementar.md"
+    "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md"
   ]
 }
