@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5051779cb82c6a62",
+        "id": "0038fedf5fc9f057",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5051779cb82c6a62",
+  "active": "0038fedf5fc9f057",
   "lastOpenFiles": [
     "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
