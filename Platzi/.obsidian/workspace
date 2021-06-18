@@ -7,8 +7,11 @@
         "id": "0038fedf5fc9f057",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "0038fedf5fc9f057",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
     "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md",
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "HTML_&_CSS/Notas_extra_para_complementar.md",
     "HTML_&_CSS/HTML_&_CSS_Class_017 (Estructura con HTML y BEM de un menú desplegable).md",
     "Javascript/Libros de javascript.md",
-    "Javascript/Clase_031_Manejo_de_errores_con_callbacks.md",
-    "Javascript/Notas extra del curso.md",
-    "Javascript/Clase_029_Multiples_requests.md",
-    "Javascript/Clase_030_Orden_y_Asincronismo_en_JS.md",
-    "Javascript/Clase_028_Callbacks.md"
+    "Javascript/Clase_031_Manejo_de_errores_con_callbacks.md"
   ]
 }
