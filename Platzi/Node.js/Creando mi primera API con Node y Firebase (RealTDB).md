@@ -13,4 +13,6 @@ npm i express  express-handlebars
 
 > express (fremework de Node que nos va a permitir crear el servidor recibir peticiones y  responder archivos)
 
->express-handlebars (es un motor de plantillas )
+>express-handlebars (es un motor de plantillas nos permite extender el html donde no se pueden tener condicionales o bucles, pero con esto ya podremos tenerlo)
+
+>morgan (ver la respu)
