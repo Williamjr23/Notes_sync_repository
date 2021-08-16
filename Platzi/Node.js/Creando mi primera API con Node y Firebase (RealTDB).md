@@ -52,3 +52,5 @@ const morgan = require('morgan');
 
 const exphbs = require('express-handlebars');
 ```
+
+El modulo ```morgan``` se le conoce como middleware
