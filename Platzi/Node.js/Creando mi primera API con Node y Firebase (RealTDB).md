@@ -20,4 +20,11 @@ npm i express  express-handlebars morgan firebase-admin
 >firebase-admin (Driver que nos permite conectarnos a firebase)
 
 ## CARPETAS 
-`###
+### index.js
+> Nos sirve para arrancar el prodecto o iniciar el servidor
+
+>Configurar el servidor o la applicación 
+
+>Nos servirá para escribir nuestros archivos de html
+
+>Routes nos servirá para defin
