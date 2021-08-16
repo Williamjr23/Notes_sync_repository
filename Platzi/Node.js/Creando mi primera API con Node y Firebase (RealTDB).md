@@ -8,7 +8,7 @@ Instalar dependencias que se van a agregar al proyecto
 
 
 ```
-npm i express  express-handlebars morgan
+npm i express  express-handlebars morgan firebase-admin
 ```
 
 > express (fremework de Node que nos va a permitir crear el servidor recibir peticiones y  responder archivos)
