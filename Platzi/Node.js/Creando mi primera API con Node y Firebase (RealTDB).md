@@ -42,3 +42,13 @@ const app = express();
 
 module.exports =app;
 ```
+
+Después de requerir todos los modulos previamente instalados
+
+```js 
+const express = require('express');
+
+const morgan = require('morgan');
+
+const exphbs = require('express-handlebars');
+```
