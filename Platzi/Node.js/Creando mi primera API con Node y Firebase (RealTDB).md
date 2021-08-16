@@ -8,7 +8,9 @@ Instalar dependencias que se van a agregar al proyecto
 
 
 ```
-npm i express 
+npm i express  express-handlebars
 ```
 
-> express (fremework de Node que nos va a permitir crear el servidor )
+> express (fremework de Node que nos va a permitir crear el servidor recibir peticiones y  responder archivos)
+
+>express-handlebars (es un motor de plantillas )
