@@ -64,3 +64,7 @@ app.set('port', process.env.PORT || 3000);
 Con la anterior configuración se definió el puerto ahí dice que si en el sistem 
 existe algún puerto definido para la app lo toma, y en el caso que no exista usa el número 3000
 
+## Modulo path 
+```
+
+```
