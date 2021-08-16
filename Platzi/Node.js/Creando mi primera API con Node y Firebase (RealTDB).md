@@ -27,4 +27,6 @@ npm i express  express-handlebars morgan firebase-admin
 ### Carpeta Views
 >Nos servirá para escribir nuestros archivos de html
 ### Carpeta Routes
->Routes nos servirá para definir las rutas de nuestro 
+>Routes nos servirá para definir las rutas de nuestro servidor
+### Public
+>Archivos publicos a los que el navegador puede acceder 
