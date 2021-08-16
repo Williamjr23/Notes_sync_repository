@@ -54,3 +54,11 @@ const exphbs = require('express-handlebars');
 ```
 
 El modulo ```morgan``` se le conoce como middleware es por que el modulo va a estar siempre en las peticiones que van a entrar al servidor 
+
+```js 
+// settings
+
+app.set('port', process.env.PORT || 3000);
+```
+
+Con la a
