@@ -66,5 +66,8 @@ existe algún puerto definido para la app lo toma, y en el caso que no exista us
 
 ## Modulo path 
 ```
+const path = requiere('path');
+```
+Importando el modulo path nos permite trabajar con los directorios, viene por defecto dentro de node 
 
 ```
