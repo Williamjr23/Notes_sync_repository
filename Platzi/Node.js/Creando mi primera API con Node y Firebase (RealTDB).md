@@ -18,3 +18,6 @@ npm i express  express-handlebars morgan firebase-admin
 >morgan (ver la respuesta de las peticiones al servidor)
 
 >firebase-admin (Driver que nos permite conectarnos a firebase)
+
+## CARPETAS 
+`###
