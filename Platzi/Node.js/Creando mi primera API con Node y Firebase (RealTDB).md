@@ -65,9 +65,13 @@ Con la anterior configuración se definió el puerto ahí dice que si en el sist
 existe algún puerto definido para la app lo toma, y en el caso que no exista usa el número 3000
 
 ## Modulo path 
-```
+```js 
 const path = requiere('path');
 ```
 Importando el modulo path nos permite trabajar con los directorios, viene por defecto dentro de node 
 
+```js 
+app.set('views', path.join(''));
 ```
+
+Nos permite combinar 2 directorios o 2 rutas de carpetas
