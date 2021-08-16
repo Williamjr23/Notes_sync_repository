@@ -22,9 +22,9 @@ npm i express  express-handlebars morgan firebase-admin
 ## CARPETAS 
 ### index.js
 > Nos sirve para arrancar el prodecto o iniciar el servidor
-
+### App.js
 >Configurar el servidor o la applicación 
-
+### Carpeta Views
 >Nos servirá para escribir nuestros archivos de html
-
->Routes nos servirá para defin
+### Carpeta Routes
+>Routes nos servirá para definir las rutas de nuestro 
