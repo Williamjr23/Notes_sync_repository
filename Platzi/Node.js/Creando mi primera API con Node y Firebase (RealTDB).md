@@ -71,7 +71,11 @@ const path = requiere('path');
 Importando el modulo path nos permite trabajar con los directorios, viene por defecto dentro de node 
 
 ```js 
-app.set('views', path.join(''));
+app.set('views', path.join(__dirname, 'views'));
 ```
 
-Nos permite combinar 2 directorios o 2 rutas de carpetas
+Nos permite combinar 2 directorios o 2 rutas de carpetas ```__
+
+```
+
+```
