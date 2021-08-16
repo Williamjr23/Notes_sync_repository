@@ -31,3 +31,14 @@ npm i express  express-handlebars morgan firebase-admin
 ### Public
 >Archivos publicos a los que el navegador puede acceder (imagen, archivos, logotipos etc...)
 
+Luego en app se importa el modulo express y luego se utiliza en la siguiente linea:
+
+```js  
+const express = require('express');
+
+const app = express();
+
+  
+
+module.exports =app;
+```
