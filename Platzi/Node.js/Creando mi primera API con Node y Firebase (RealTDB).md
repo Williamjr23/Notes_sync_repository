@@ -16,3 +16,5 @@ npm i express  express-handlebars morgan
 >express-handlebars (es un motor de plantillas nos permite extender el html donde no se pueden tener condicionales o bucles, pero con esto ya podremos tenerlo)
 
 >morgan (ver la respuesta de las peticiones al servidor)
+
+> (Driver que nos permite conectarnos a firebase)
