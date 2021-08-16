@@ -29,4 +29,4 @@ npm i express  express-handlebars morgan firebase-admin
 ### Carpeta Routes
 >Routes nos servirá para definir las rutas de nuestro servidor
 ### Public
->Archivos publicos a los que el navegador puede acceder 
+>Archivos publicos a los que el navegador puede acceder (imagen, archivos, logotipos etc...)
