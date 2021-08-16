@@ -76,6 +76,14 @@ app.set('views', path.join(__dirname, 'views'));
 
 Nos permite combinar 2 directorios o 2 rutas de carpetas ```__dirname``` nos da la ruta entera de en donde está la carpeta desde el sistema operativo ( en este caso la ruta llega a src) y luego combina con el nombre "views "
 
+```js 
+app.engine('.hbs', exphbs({
+
+ defaultLayout: 'main',
+
+ extname: '.hbs'
+
+}));
 ```
 
-```
+Configuración para definir el motor 
