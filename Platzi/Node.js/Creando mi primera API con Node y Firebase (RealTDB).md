@@ -17,4 +17,4 @@ npm i express  express-handlebars morgan
 
 >morgan (ver la respuesta de las peticiones al servidor)
 
-> (Driver que nos permite conectarnos a firebase)
+>firebase-admin (Driver que nos permite conectarnos a firebase)
