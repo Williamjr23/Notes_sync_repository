@@ -11,4 +11,4 @@ de petición para indicar la acción que se desea realizar para un recurso deter
 | ```CONNECT```  | El método ```Connect``` establece un túnel hacia el servidor identificado por el recurso.                                                                      |
 | ```OPTIONS ``` | El método ```OPTIONS``` es utilizado para describir las opciones de comunicación para el recurso de destino                                                    |
 | ```TRACE```    | El método ```TRACE``` realiza una prueba de bucle de retorno de mensaje a lo largo de la ruta al recurso de destino                                            |
-| ``` ```        | ``` ```                                                                                                                                                        |
+| ```PATCH```    | El método ```PATCH``` es utilizado para aplicar modificaciones parciales a un recurso.                                                                         | 
