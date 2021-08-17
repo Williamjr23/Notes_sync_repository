@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node.js/Metodos HTTP.md",
+            "file": "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Metodos HTTP.md",
+                "file": "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md",
     "Node.js/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
     "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
@@ -97,7 +98,6 @@
     "HTML_&_CSS/HTML_&_CSS_Class_013 (Posicionamiento en CSS).md",
     "Javascript/Clase_022_Contexto_functiones_this.md",
     "Javascript/Clase_027_Como_funciona_el_tiempo_en_JS.md",
-    "Javascript/Clase_029_Multiples_requests.md",
-    "Javascript/Clase_026_Como_funciona_el_asincronismo.md"
+    "Javascript/Clase_029_Multiples_requests.md"
   ]
 }
