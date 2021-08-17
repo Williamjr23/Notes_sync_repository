@@ -86,4 +86,4 @@ app.engine('.hbs', exphbs({
 }));
 ```
 
-Configuración para definir el motor  
+Configuración para definir el motor 
