@@ -74,7 +74,7 @@ Importando el modulo path nos permite trabajar con los directorios, viene por de
 app.set('views', path.join(__dirname, 'views'));
 ```
 
-Nos permite combinar 2 directorios o 2 rutas de carpetas ```__dirname``` nos da la ruta entera de en donde está la carpeta desde el sistema operativo ( en este caso la ruta llega a src) y luego combina con el nombre "views "
+Nos permite combinar 2 directorios o 2 rutas de carpetas ```__dirname``` nos da la ruta entera de en donde está la carpeta desde el sistema operativo ( en este caso la ruta llega a src) y luego combina con el nombre "views " (con esa linea de codigo le decimos a node que la carpeta view está disponible  y donde encontrarla )
 
 ```js 
 app.engine('.hbs', exphbs({
