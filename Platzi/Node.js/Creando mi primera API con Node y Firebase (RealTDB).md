@@ -21,7 +21,7 @@ npm i express  express-handlebars morgan firebase-admin
 
 ## CARPETAS 
 ### index.js
-> Nos sirve para arrancar el prodecto o iniciar el servidor
+> Nos sirve para arrancar el proyecto o iniciar el servidor
 ### App.js
 >Configurar el servidor o la applicación 
 ### Carpeta Views
