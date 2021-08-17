@@ -9,6 +9,6 @@ de petición para indicar la acción que se desea realizar para un recurso deter
 | ```PUT```      | El método ```PUT``` reemplaza todas las representaciones actuales del recurso de destino con la carga útil de la petición.                                     |
 | ```DELETE```   | El método ```DELETE``` borra un recurso en específico.                                                                                                         |
 | ```CONNECT```  | El método ```Connect``` establece un túnel hacia el servidor identificado por el recurso.                                                                      |
-| ```OPTIONS ``` | ``` ```                                                                                                                                                        |
+| ```OPTIONS ``` | El método ```OPTIONS``` es utilizado para describir las opciones de comunicación para el recurso de destino                                                    |
 | ``` ```        | ``` ```                                                                                                                                                        |
 | ``` ```        | ``` ```                                                                                                                                                        |
