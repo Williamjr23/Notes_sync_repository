@@ -133,6 +133,5 @@ const router = Router();
 router.get('/', (req, res) => {
 
 })
- ```
- Luego aquí ya creamos la función router, y la estamos ejecutando, y al ejecutarla nos devuelve un objeto y este es el que vamos a exportar y a
+ ``` 
  Aquí creamos una función que acepta 2 parámetros (request y response)
