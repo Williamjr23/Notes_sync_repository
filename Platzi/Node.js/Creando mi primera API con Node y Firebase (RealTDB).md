@@ -86,5 +86,4 @@ app.engine('.hbs', exphbs({
 }));
 ```
 
-me permite configurar el motor, default layout define codigo en común que se va a poder reutilizar  
-
+me permite configurar el motor, default layout define codigo en común que se va a poder reutilizar  y el extname: '.hbs' define las extensiones que vamos a utilizar como .hbs de lo contrario tendríamos que usar la extención "handlebars", simplemente es para hacerlo más corto y legible 
