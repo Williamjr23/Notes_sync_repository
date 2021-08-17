@@ -86,4 +86,5 @@ app.engine('.hbs', exphbs({
 }));
 ```
 
-Configuración para definir el motor 
+me permite configurar el motor, default layout define codigo en común que se va a poder reutilizar 
+
