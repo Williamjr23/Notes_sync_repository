@@ -123,4 +123,6 @@ module.exports = router;
  
  Y lo que estamos diciendo en las lineas de código sería:
  
- voy a requerir 
+ voy a requerir desde el modulo express un enrutador (un metodo llamado router)
+ y abajo lo ejecutamos y al ejecutarlo nos devuelve un objeto y este objeto es el que vamos a exportar, y este 
+ 
