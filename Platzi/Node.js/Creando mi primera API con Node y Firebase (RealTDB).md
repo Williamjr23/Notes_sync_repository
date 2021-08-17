@@ -94,4 +94,5 @@ con la ulitma linea de aquí que sería:
 app.set('view engine', '.hbs');
 ```
 
-Ya dejamos de utilizar 
+Ya dejamos de definir el motor y con esta linea se empieza a utilizar el motor 
+```
