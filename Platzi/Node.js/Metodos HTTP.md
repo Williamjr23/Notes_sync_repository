@@ -7,4 +7,4 @@ de petición para indicar la acción que se desea realizar para un recurso deter
 | ```HEAD``` | El método ```HEAD``` pide una respuesta idéntica a la de una petición GET, pero sin el cuerpo de la respuesta.                                                 |
 | ```POST``` | El método ```POST``` se utiliza para enviar una entidad a un recurso específico, causando a menudo un cambio en el estado o efectos secundarios en el servidor |
 | ```PUT```  | El método ```PUT``` reemplaza todas las representaciones actuales del recurso de destino con la carga útil de la petición.                                     |
-|            |                                                                                                                                                                |
+| ```DELE```           |                                                                                                                                                                |
