@@ -95,4 +95,11 @@ app.set('view engine', '.hbs');
 ```
 
 Ya dejamos de definir el motor y con esta linea se empieza a utilizar el motor 
+```js 
+//middlewares
+
+app.use(morgan('dev'));
+
+app.use(express.urlencoded({extended: false}));
 ```
+Definimos que queremos que utilice el modelo morgan y el dev es un valor que nos pide, en sete caso es dev por que está en desarrollo 
