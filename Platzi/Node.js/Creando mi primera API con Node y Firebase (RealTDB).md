@@ -106,4 +106,7 @@ Definimos que queremos que utilice el modelo morgan y que lo ejecute, y el dev e
 
 luego ejecutamos express es para que podamos recibir formularios que nos lleguen de peticiones html y en este caso con el false, solo se reciben datos en Json
 
+```js 
+npm i nodemon -D
 ```
+Se instala para que se reinicie el servidor automáticamente cada que guardamos un cambio 
