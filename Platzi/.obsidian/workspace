@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md",
+            "file": "Node.js/Metodos HTTP.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.50000190734863,
-    "collapsed": true
+    "width": 422.50000190734863
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md",
+                "file": "Node.js/Metodos HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
