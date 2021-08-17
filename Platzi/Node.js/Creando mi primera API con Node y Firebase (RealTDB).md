@@ -102,4 +102,6 @@ app.use(morgan('dev'));
 
 app.use(express.urlencoded({extended: false}));
 ```
-Definimos que queremos que utilice el modelo morgan y el dev es un valor que nos pide, en sete caso es dev por que está en desarrollo 
+Definimos que queremos que utilice el modelo morgan y que lo ejecute, y el dev es un valor que nos pide, en sete caso es dev por que está en desarrollo 
+
+luego ejecutamos express es para que podamos recibir formularios que nos lleguen de peticiones html
