@@ -119,4 +119,8 @@ const router = Router();
 module.exports = router;
  ```
  
+ Aquí empezamos a requerir una parte de express que se llama enrutador, y un enrutador lo que nos permite es crear rutas para mi servidor 
  
+ Y lo que estamos diciendo en las lineas de código sería:
+ 
+ voy a requerir 
