@@ -10,5 +10,5 @@ de petición para indicar la acción que se desea realizar para un recurso deter
 | ```DELETE```   | El método ```DELETE``` borra un recurso en específico.                                                                                                         |
 | ```CONNECT```  | El método ```Connect``` establece un túnel hacia el servidor identificado por el recurso.                                                                      |
 | ```OPTIONS ``` | El método ```OPTIONS``` es utilizado para describir las opciones de comunicación para el recurso de destino                                                    |
-| ``` ```        | ``` ```                                                                                                                                                        |
+| ```TRACE```    | El método ```TRACE``` realiza una prueba de bucle de retorno de mensaje a lo largo de la ruta al recurso de destino                                            |
 | ``` ```        | ``` ```                                                                                                                                                        |
