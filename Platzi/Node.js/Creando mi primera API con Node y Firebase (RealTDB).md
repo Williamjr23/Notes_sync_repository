@@ -111,4 +111,12 @@ npm i nodemon -D
 ```
 Se instala para que se reinicie el servidor automáticamente cada que guardamos un cambio 
 
+ ```js
+const { Router } = require('express');
+const router = Router();
+
+
+module.exports = router;
+ ```
+ 
  
