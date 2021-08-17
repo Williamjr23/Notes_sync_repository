@@ -127,11 +127,10 @@ module.exports = router;
  y abajo lo ejecutamos y al ejecutarlo nos devuelve un objeto y este objeto es el que vamos a exportar, y este objeto va a ser el que vamos a llenar de rutas 
  
  ```js 
-const { Router } = require('express');
 const router = Router();
 
 router.get('/', (req, res) => {
 
 })
  ``` 
- Aquí creamos una función que acepta 2 parámetros (request y response)
+ Aquí creamos una función que acepta 2 parámetros (request y response) son 2 objetos que me dan información sobre la petición y la respuesta 
