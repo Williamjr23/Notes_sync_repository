@@ -86,5 +86,5 @@ app.engine('.hbs', exphbs({
 }));
 ```
 
-me permite configurar el motor, default layout define codigo en común que se va a poder reutilizar 
+me permite configurar el motor, default layout define codigo en común que se va a poder reutilizar  
 
