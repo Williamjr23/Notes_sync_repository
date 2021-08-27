@@ -135,6 +135,9 @@ router.get('/', (req, res) => {
  ``` 
  Aquí creamos una función que acepta 2 parámetros (request y response) son 2 objetos que me dan información sobre la petición y la respuesta 
  
+ ```js 
+ const admin = requiere('firebase-admin');
  ```
- ```
- Aquí requerimos el modulo previamente importado al proyecto en el "package.json" llamado "firebase-admin" y este modulo se tiene que configurar,  no es tan solo llamarlo y dejarlo ahí, entonces lo guardamos en una constante llamada admin 
+ Aquí requerimos el modulo previamente importado al proyecto en el "package.json" llamado ```firebase-admin``` y este modulo se tiene que configurar,  no es tan solo llamarlo y dejarlo ahí, entonces lo guardamos en una constante llamada ```admin``` 
+ 
+ 
