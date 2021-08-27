@@ -134,3 +134,5 @@ router.get('/', (req, res) => {
 })
  ``` 
  Aquí creamos una función que acepta 2 parámetros (request y response) son 2 objetos que me dan información sobre la petición y la respuesta 
+ 
+ 
