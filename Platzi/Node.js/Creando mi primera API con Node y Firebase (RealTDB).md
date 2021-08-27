@@ -141,4 +141,11 @@ router.get('/', (req, res) => {
  ```
  Aquí requerimos el modulo previamente importado al proyecto en el "package.json" llamado ```firebase-admin``` y este modulo se tiene que configurar,  no es tan solo llamarlo y dejarlo ahí, entonces lo guardamos en una constante llamada ```admin``` 
  
- 
+ ```js 
+ const admin = requiere('firebase-admin');
+
+admin.initializeApp({
+credential: admin.credential.applicationDefault(),
+databaseURL:''
+})
+ ```
