@@ -158,6 +158,8 @@ databaseURL:''
  
  En este caso decimos, de todos los servicios que tengo aquí quiero conectarme a la base de datos y esto nos va a devolver un objeto que guardamos en la constante ```db``` y este objeto en si es nuestra base de datos, así que de ahora en adelante cada que queramos guardar un objeto dentro de nuestra base de datos simplemente se especifica ```db.ref('contacts') ``` (ref- es para definir bajo que nombre se guarda )
  
+(se le especifica con que nombre se quieren guardar los datos y que datos se van a guardar )
+ 
  Ahora tengo que decir que los datos que se están recibiendo en : 
  ```js 
  router.get('/', (req, res) => {
@@ -170,3 +172,5 @@ router.post('/new-user', (req, res) => {
 })
  ```
  ahora tendrán que ir a la base de datos 
+ 
+
