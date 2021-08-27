@@ -173,4 +173,18 @@ router.post('/new-user', (req, res) => {
  ```
  ahora tendrán que ir a la base de datos 
  
-
+```js 
+router.post('/new-user', (req, res) => {
+ //console.log(req.body);
+ const newUser = {
+ email: req.body.email,
+ firstname: req.body.firstname,
+ lastname: req.body.lastname,
+ nickname: req.body.nickname,
+ password: req.body.password
+ }
+ db.ref('usuarios').push(newUser);
+ res.send('received');
+})
+```
+en este caso req.body es 
