@@ -187,4 +187,4 @@ router.post('/new-user', (req, res) => {
  res.send('received');
 })
 ```
-en este caso req.body es 
+en este caso req.body es la información que nos llega desde los campos creados 
