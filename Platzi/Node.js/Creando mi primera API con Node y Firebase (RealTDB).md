@@ -149,5 +149,4 @@ credential: admin.credential.applicationDefault(),
 databaseURL:''
 })
  ```
- Aquí especificamos 2 cosas, con: ```admin.initializeApp({})``` es como decir que se va a inicializa
- 
+ Aquí especificamos 2 cosas, con: ```admin.initializeApp({})``` es como decir "voy a inicializar una aplicación" y dentro de esto, se van a especificar las credenciales, que en este caso ```credentaia
