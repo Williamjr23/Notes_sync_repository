@@ -156,4 +156,4 @@ databaseURL:''
  ```
  Ahora necesitamos tener un objeto para poder interactuar con la conección que acabamos de crear 
  
- En este caso decimos, de todos los servicios que tengo aquí 
+ En este caso decimos, de todos los servicios que tengo aquí quiero conectarme a la base de datos y esto nos va a devolver un objeto que guardamos en la constante ```db``` y este objeto en si es nuestra base de datos, así que de ahora en adelante cada 
