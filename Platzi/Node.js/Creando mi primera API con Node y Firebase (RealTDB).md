@@ -137,4 +137,4 @@ router.get('/', (req, res) => {
  
  ```
  ```
- Aquí requerimos el modulo previamente importado al proyecto en el "package.json" 
+ Aquí requerimos el modulo previamente importado al proyecto en el "package.json" llamado "firebase-admin" y este modulo se tiene que configurar,  no es tan solo llamarlo y dejarlo ahí, entonces lo guardamos en una constante llamada admin 
