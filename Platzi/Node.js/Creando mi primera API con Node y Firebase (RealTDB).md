@@ -150,4 +150,4 @@ databaseURL:''
 })
  ```
  Aquí especificamos 2 cosas, con: ```admin.initializeApp({})``` es como decir "voy a inicializar una aplicación" y dentro de esto en un objeto, se van a especificar las credenciales, que en este caso ```credential: admin.credential.applicationDefault(),``` es para aplicar una especie de autenticación por defecto y después dentro del mismo objeto se espcecifica el 
- ```databaseURL```
+ ```databaseURL``` que es donde está nuestra base de datos, es como la cadena de conección
