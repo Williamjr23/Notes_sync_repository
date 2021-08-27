@@ -149,3 +149,5 @@ credential: admin.credential.applicationDefault(),
 databaseURL:''
 })
  ```
+ Aquí especificamos 2 cosas, con: ```admin.initializeApp({})``` es como decir que se va a inicializa
+ 
