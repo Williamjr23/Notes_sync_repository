@@ -190,3 +190,5 @@ router.post('/new-user', (req, res) => {
 en este caso req.body es la información que nos llega desde los campos creados 
 
 > nota: definimos una variable de entorno para las credenciales de acceso de escritura a la bd 
+
+44:08
