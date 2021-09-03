@@ -1,3 +1,3 @@
 # Qué es Node?
 
-* Lenguaje de Backend, que eleva el leng
+* Node eleva el lenguaje de JS a vinel del **backend** dandole acceso al siste m
