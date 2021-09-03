@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git_Gihub/Git_&_Github_class_004 (Editores de código, archivos binarios y de texto plano).md",
-            "mode": "preview"
+            "file": "Node.js/Udemy_node_course/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git_Gihub/Git_&_Github_class_004 (Editores de código, archivos binarios y de texto plano).md",
+                "file": "Node.js/Udemy_node_course/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Node.js/Udemy_node_course/Untitled.md",
+    "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md",
+    "Node.js/Metodos HTTP.md",
     "Git_Gihub/Git_&_Github_class_004 (Editores de código, archivos binarios y de texto plano).md",
     "Git_Gihub/Git_&_Github_class_003 (Instalando Git y GitBash en Windows).md",
     "Git_Gihub/Git_&_Github_class_002 (Por que un sistema de control de versiones).md",
-    "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md",
     "Git_Gihub/Git_&_Github_class_001 (Introducción).md",
-    "Node.js/Metodos HTTP.md",
     "Node.js/Untitled.md",
     "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md",
-    "HTML_&_CSS/HTML_&_CSS_Class_001 (conceptos iniciales de html).md"
+    "HTML_&_CSS/HTML_&_CSS_Class_002 (Anatomía de un documento HTML).md"
   ]
 }
