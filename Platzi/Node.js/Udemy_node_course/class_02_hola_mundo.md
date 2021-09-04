@@ -31,9 +31,14 @@ function foo(){
 	for(var i=0; i=<10; i++){
 		let mensaje = "Hola"";
 		console.log(i);
-		console.
+		console.log(mensaje);
+	}
+		
+	\\\ console.log(mensaje)
+	
 	}
 	
-	
-	}
+foo();
 ```
+
+> Como puedes ver la palabra 
