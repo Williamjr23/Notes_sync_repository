@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node.js/Udemy_node_course/class_01_Preguntas_comunes.md",
+            "file": "Node.js/Udemy_node_course/class_02_hola_mundo.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "c9427e2c6e3d5c3f",
+        "id": "72791ee12a26ee3d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node.js/Udemy_node_course/class_01_Preguntas_comunes.md",
-            "mode": "preview"
+            "file": "Node.js/Udemy_node_course/class_02_hola_mundo.md",
+            "mode": "source"
           }
         }
       }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Udemy_node_course/class_01_Preguntas_comunes.md",
+                "file": "Node.js/Udemy_node_course/class_02_hola_mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15adb4ba4c9b669d",
+  "active": "72791ee12a26ee3d",
   "lastOpenFiles": [
-    "Node.js/Udemy_node_course/class_01_Preguntas_comunes.md",
+    "Node.js/Udemy_node_course/class_02_hola_mundo.md",
     "Node.js/Udemy_node_course/Untitled.md",
+    "Node.js/Udemy_node_course/class_01_Preguntas_comunes.md",
     "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md",
     "Node.js/Metodos HTTP.md",
     "Git_Gihub/Git_&_Github_class_004 (Editores de código, archivos binarios y de texto plano).md",
     "Git_Gihub/Git_&_Github_class_003 (Instalando Git y GitBash en Windows).md",
     "Git_Gihub/Git_&_Github_class_002 (Por que un sistema de control de versiones).md",
     "Git_Gihub/Git_&_Github_class_001 (Introducción).md",
-    "Node.js/Untitled.md",
-    "HTML_&_CSS/HTML_&_CSS_Class_003 (Funciones de las etiquetas HTML más importantes).md"
+    "Node.js/Untitled.md"
   ]
 }
