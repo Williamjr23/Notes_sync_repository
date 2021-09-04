@@ -15,4 +15,4 @@ Desde la terminal gracias a node, podemos correr el programa sin tenerlo anexado
 
 ### let
 
-Es más especifico para q
+Es más especifico y se está diciendo que la variable necesita tener un valor definido (variables con un valor más cercano)
