@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_005_El_alcance_de_las_funciones.md",
+            "file": "Javascript/Clase_012_Arrow_functions.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_005_El_alcance_de_las_funciones.md",
+                "file": "Javascript/Clase_012_Arrow_functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Javascript/Clase_012_Arrow_functions.md",
+    "Javascript/Clase_011_Funciones_que_retornan_valores.md",
+    "Javascript/Clase_009_Comparaciones_en_JS.md",
+    "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
+    "Javascript/Clase_007_Desestructurar objetos.md",
+    "Javascript/Clase_006_Objetos.md",
     "Javascript/Clase_005_El_alcance_de_las_funciones.md",
     "Javascript/Clase_004_Funciones.md",
     "Javascript/Clase_003_Variables_Numeros.md",
-    "Javascript/Clase_002_Variables_Y_Strings.md",
-    "Node.js/Udemy_node_course/class_02_hola_mundo.md",
-    "Javascript/Clase_001_variables.md",
-    "Javascript/clase _del_1-17-2021_meet_nachito.md",
-    "Javascript/000_Introduccion_a_javascript.md",
-    "Javascript/Clase_011_Funciones_que_retornan_valores.md",
-    "Node.js/Udemy_node_course/Untitled.md"
+    "Javascript/Clase_002_Variables_Y_Strings.md"
   ]
 }
