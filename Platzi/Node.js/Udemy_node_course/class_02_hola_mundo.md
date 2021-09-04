@@ -6,3 +6,5 @@ Desde la terminal gracias a node, podemos correr el programa sin tenerlo anexado
 
 # var, let y const (repaso)
 
+### Diferencias 
+
