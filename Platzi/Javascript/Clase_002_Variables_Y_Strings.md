@@ -2,6 +2,8 @@
 
 ### Analizando la siguiente linea de código podrémos comprender la aplicación y los valores y nombres que se le da a cada parte de esta misma y aplicarla junto con otras funciones sin que sea la indicada aquí abajo:
 
+>
+
 Función: **convertir el nombre en mayusculas**:
 
 ```js 
