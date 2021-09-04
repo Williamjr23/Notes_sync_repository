@@ -16,7 +16,7 @@ Desde la terminal gracias a node, podemos correr el programa sin tenerlo anexado
 * Se utiliza para crear variables que al principio no van a estar completamente definidas 
 
 * Solo expande su contexto dentro de la función 
-* Se expande a niv
+* Se expande a nivel de función
 
 ### let
 
