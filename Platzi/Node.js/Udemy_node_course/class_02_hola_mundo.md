@@ -12,3 +12,7 @@ Desde la terminal gracias a node, podemos correr el programa sin tenerlo anexado
 
 ### var
 * Tiene un valor por defecto llamado "undefined", puedes no definir el valor de esta variable y solo declararla, y no te va a tirar error, simplemente tien el valor indefinido por defecto, y te permite cambiarlo y modificarlo varias veces con forme avanza el código (aunque no es de las mejores practicas)
+
+### let
+
+Es más especifico para q
