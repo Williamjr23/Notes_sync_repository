@@ -41,4 +41,4 @@ function foo(){
 foo();
 ```
 
-> Como puedes observar, ```let ```, solo se define dentro del contenedor que en este caso es un ciclo, sí lo pones fuera del contenedor 
+> Como puedes observar, ```let ```, solo se define dentro del contenedor que en este caso es un ciclo, sí lo quieres acceder fuera de su contenedor, restringe el acceso y no te permite acceder, esto es bueno para no tener variables regadas por todo el código que no necesitan ser usadas nuevamente fuera de su contexto 
