@@ -16,6 +16,7 @@ Desde la terminal gracias a node, podemos correr el programa sin tenerlo anexado
 * Se utiliza para crear variables que al principio no van a estar completamente definidas 
 
 * Solo expande su contexto dentro de la función 
+* Se expande a niv
 
 ### let
 
@@ -43,4 +44,6 @@ foo();
 
 > Como puedes observar, ```let ```, solo se define dentro del contenedor que en este caso es un ciclo, sí lo quieres acceder fuera de su contenedor, restringe el acceso y no te permite acceder, esto es bueno para no tener variables regadas por todo el código que no necesitan ser usadas nuevamente fuera de su contexto 
 
-En ```let``` no tienes un valor por defecto, por lo que forzosamente tendrás que asignar un valor a
+En ```let``` no tienes un valor por defecto, por lo que forzosamente tendrás que asignar un valor a esta variable 
+
+> Se expande a nivle de "estructura contenedora"
