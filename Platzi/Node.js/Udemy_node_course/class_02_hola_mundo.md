@@ -26,5 +26,14 @@ Es más especifico y se está diciendo que la variable necesita tener un valor d
 * Se restringe el alcanze de la variable a solamente la estructura contenedora en la que la tiene 
 
 ```js 
-function foo()[]
+function foo(){
+	
+	for(var i=0; i=<10; i++){
+		let mensaje = "Hola"";
+		console.log(i);
+		console.
+	}
+	
+	
+	}
 ```
