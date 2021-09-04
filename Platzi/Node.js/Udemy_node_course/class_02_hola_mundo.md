@@ -15,6 +15,8 @@ Desde la terminal gracias a node, podemos correr el programa sin tenerlo anexado
 
 * Se utiliza para crear variables que al principio no van a estar completamente definidas 
 
+* Solo expande su contexto 
+
 ### let
 
 Es más especifico y se está diciendo que la variable necesita tener un valor definido (variables con un valor más cercano)
