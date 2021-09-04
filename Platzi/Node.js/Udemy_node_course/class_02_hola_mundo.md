@@ -15,7 +15,7 @@ Desde la terminal gracias a node, podemos correr el programa sin tenerlo anexado
 
 * Se utiliza para crear variables que al principio no van a estar completamente definidas 
 
-* Solo expande su contexto 
+* Solo expande su contexto dentro de la función 
 
 ### let
 
@@ -23,3 +23,8 @@ Es más especifico y se está diciendo que la variable necesita tener un valor d
 
 * Se utiliza cuando queremos que las variables estén completamente definidas 
 
+* Se restringe el alcanze de la variable a solamente la estructura contenedora en la que la tiene 
+
+```js 
+function foo()[]
+```
