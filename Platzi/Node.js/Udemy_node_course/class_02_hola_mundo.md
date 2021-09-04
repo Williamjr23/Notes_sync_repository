@@ -41,4 +41,4 @@ function foo(){
 foo();
 ```
 
-> Como puedes ver la palabra 
+> Como puedes observar, ```let ```, solo se define dentro del contenedor que en este caso es un ciclo, sí lo pones fuera del contenedor 
