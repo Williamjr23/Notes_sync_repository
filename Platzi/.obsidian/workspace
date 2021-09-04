@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_011_Funciones_que_retornan_valores.md",
-            "mode": "source"
+            "file": "Javascript/000_Introduccion_a_javascript.md",
+            "mode": "preview"
           }
         }
       },
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_011_Funciones_que_retornan_valores.md",
+                "file": "Javascript/000_Introduccion_a_javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Javascript/000_Introduccion_a_javascript.md",
+    "Javascript/Clase_001_variables.md",
     "Javascript/Clase_011_Funciones_que_retornan_valores.md",
     "Node.js/Udemy_node_course/class_02_hola_mundo.md",
     "Node.js/Udemy_node_course/Untitled.md",
@@ -106,8 +108,6 @@
     "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md",
     "Node.js/Metodos HTTP.md",
     "Git_Gihub/Git_&_Github_class_004 (Editores de código, archivos binarios y de texto plano).md",
-    "Git_Gihub/Git_&_Github_class_003 (Instalando Git y GitBash en Windows).md",
-    "Git_Gihub/Git_&_Github_class_002 (Por que un sistema de control de versiones).md",
-    "Git_Gihub/Git_&_Github_class_001 (Introducción).md"
+    "Git_Gihub/Git_&_Github_class_003 (Instalando Git y GitBash en Windows).md"
   ]
 }
