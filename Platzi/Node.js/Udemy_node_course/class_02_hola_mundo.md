@@ -8,3 +8,4 @@ Desde la terminal gracias a node, podemos correr el programa sin tenerlo anexado
 
 ### Diferencias 
 
+* Var y let nos permiten definir variables que podemos modificar 
