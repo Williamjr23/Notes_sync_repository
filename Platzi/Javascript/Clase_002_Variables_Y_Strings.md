@@ -2,7 +2,7 @@
 
 ### Analizando la siguiente linea de código podrémos comprender la aplicación y los valores y nombres que se le da a cada parte de esta misma y aplicarla junto con otras funciones sin que sea la indicada aquí abajo:
 
->
+> String es una clase en JS que se usa para manipular cadenas de caracteres
 
 Función: **convertir el nombre en mayusculas**:
 
