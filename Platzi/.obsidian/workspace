@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node.js/Udemy_node_course/class_02_hola_mundo.md",
+            "file": "Javascript/Clase_011_Funciones_que_retornan_valores.md",
             "mode": "source"
           }
         }
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.00000190734863,
-    "collapsed": true
+    "width": 449.00000190734863
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Udemy_node_course/class_02_hola_mundo.md",
+                "file": "Javascript/Clase_011_Funciones_que_retornan_valores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +99,7 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Javascript/Clase_011_Funciones_que_retornan_valores.md",
     "Node.js/Udemy_node_course/class_02_hola_mundo.md",
     "Node.js/Udemy_node_course/Untitled.md",
     "Node.js/Udemy_node_course/class_01_Preguntas_comunes.md",
@@ -108,7 +108,6 @@
     "Git_Gihub/Git_&_Github_class_004 (Editores de código, archivos binarios y de texto plano).md",
     "Git_Gihub/Git_&_Github_class_003 (Instalando Git y GitBash en Windows).md",
     "Git_Gihub/Git_&_Github_class_002 (Por que un sistema de control de versiones).md",
-    "Git_Gihub/Git_&_Github_class_001 (Introducción).md",
-    "Node.js/Untitled.md"
+    "Git_Gihub/Git_&_Github_class_001 (Introducción).md"
   ]
 }
