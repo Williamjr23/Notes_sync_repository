@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_002_Variables_Y_Strings.md",
+            "file": "Javascript/Clase_003_Variables_Numeros.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_002_Variables_Y_Strings.md",
+                "file": "Javascript/Clase_003_Variables_Numeros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Javascript/Clase_003_Variables_Numeros.md",
     "Javascript/Clase_002_Variables_Y_Strings.md",
     "Node.js/Udemy_node_course/class_02_hola_mundo.md",
     "Javascript/Clase_001_variables.md",
@@ -96,7 +97,6 @@
     "Javascript/Clase_011_Funciones_que_retornan_valores.md",
     "Node.js/Udemy_node_course/Untitled.md",
     "Node.js/Udemy_node_course/class_01_Preguntas_comunes.md",
-    "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md",
-    "Node.js/Metodos HTTP.md"
+    "Node.js/Creando mi primera API con Node y Firebase (RealTDB).md"
   ]
 }
