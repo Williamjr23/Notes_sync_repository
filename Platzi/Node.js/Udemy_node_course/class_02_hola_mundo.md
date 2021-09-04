@@ -13,6 +13,11 @@ Desde la terminal gracias a node, podemos correr el programa sin tenerlo anexado
 ### var
 * Tiene un valor por defecto llamado "undefined", puedes no definir el valor de esta variable y solo declararla, y no te va a tirar error, simplemente tien el valor indefinido por defecto, y te permite cambiarlo y modificarlo varias veces con forme avanza el código (aunque no es de las mejores practicas)
 
+* Se utiliza para crear variables que al principio no van a estar completamente definidas 
+
 ### let
 
 Es más especifico y se está diciendo que la variable necesita tener un valor definido (variables con un valor más cercano)
+
+* Se utiliza cuando queremos que las variables estén completamente definidas 
+
