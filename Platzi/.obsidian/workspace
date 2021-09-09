@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_013_Estructuras_repetitivas_for.md",
+            "file": "Javascript/Clase_014_Estructuras repetitvas(while).md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 123.00000190734863
+    "width": 310.00000190734863
   },
   "right": {
     "id": "993c4efd9f0db2b6",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_013_Estructuras_repetitivas_for.md",
+                "file": "Javascript/Clase_014_Estructuras repetitvas(while).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
     "Javascript/Clase_010_Condicionales.md",
     "Javascript/Clase_012_Arrow_functions.md",
@@ -96,7 +97,6 @@
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
     "Javascript/Clase_007_Desestructurar objetos.md",
     "Javascript/Clase_006_Objetos.md",
-    "Javascript/Clase_005_El_alcance_de_las_funciones.md",
-    "Javascript/Clase_004_Funciones.md"
+    "Javascript/Clase_005_El_alcance_de_las_funciones.md"
   ]
 }
