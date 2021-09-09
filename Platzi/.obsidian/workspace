@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Clase_003_Variables_Numeros.md",
-            "mode": "preview"
+            "file": "Node.js/Udemy_node_course/03-bases-de-node/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Clase_003_Variables_Numeros.md",
+                "file": "Node.js/Udemy_node_course/03-bases-de-node/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Node.js/Udemy_node_course/03-bases-de-node/Untitled.md",
     "Javascript/Clase_003_Variables_Numeros.md",
     "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
@@ -96,7 +97,6 @@
     "Javascript/Clase_011_Funciones_que_retornan_valores.md",
     "Javascript/Clase_009_Comparaciones_en_JS.md",
     "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md",
-    "Javascript/Clase_007_Desestructurar objetos.md",
-    "Javascript/Clase_006_Objetos.md"
+    "Javascript/Clase_007_Desestructurar objetos.md"
   ]
 }
