@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node.js/Udemy_node_course/03-bases-de-node/03-inicio-del-proyecto.md",
+            "file": "Conceptos/DNS (.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Udemy_node_course/03-bases-de-node/03-inicio-del-proyecto.md",
+                "file": "Conceptos/DNS (.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Conceptos/Untitled.md",
     "Node.js/Udemy_node_course/03-bases-de-node/03-inicio-del-proyecto.md",
     "Node.js/Udemy_node_course/03-bases-de-node/Untitled.md",
     "Javascript/Clase_003_Variables_Numeros.md",
@@ -96,7 +97,6 @@
     "Javascript/Clase_010_Condicionales.md",
     "Javascript/Clase_012_Arrow_functions.md",
     "Javascript/Clase_011_Funciones_que_retornan_valores.md",
-    "Javascript/Clase_009_Comparaciones_en_JS.md",
-    "Javascript/Clase_008_Parametros_como_referencia_o_como_valor.md"
+    "Javascript/Clase_009_Comparaciones_en_JS.md"
   ]
 }
