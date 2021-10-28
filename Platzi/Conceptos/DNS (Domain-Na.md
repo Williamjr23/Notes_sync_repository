@@ -4,5 +4,5 @@ Gracias al DNS
 
 Sistema de nombres de dominio
 
-Dirección IP
+
 
