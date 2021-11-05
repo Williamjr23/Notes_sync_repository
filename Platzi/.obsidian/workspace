@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceptos/DNS (Domain-Na.md",
+            "file": "Golang/Inicando.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptos/DNS (Domain-Na.md",
+                "file": "Golang/Inicando.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Golang/Inicando.md",
+    "Conceptos/DNS (Domain-Na.md",
     "Conceptos/Untitled.md",
     "Node.js/Udemy_node_course/03-bases-de-node/03-inicio-del-proyecto.md",
     "Node.js/Udemy_node_course/03-bases-de-node/Untitled.md",
@@ -95,8 +97,6 @@
     "Javascript/Clase_014_Estructuras repetitvas(while).md",
     "Javascript/Clase_013_Estructuras_repetitivas_for.md",
     "Javascript/Clase_010_Condicionales.md",
-    "Javascript/Clase_012_Arrow_functions.md",
-    "Javascript/Clase_011_Funciones_que_retornan_valores.md",
-    "Javascript/Clase_009_Comparaciones_en_JS.md"
+    "Javascript/Clase_012_Arrow_functions.md"
   ]
 }
