@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+            "file": "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+                "file": "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
-    "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
     "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
     "Terminal_classes/Terminal_Class_009  (Permisos sobre archivos sistema octal).md",
+    "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
     "Terminal_classes/Terminal_Class_008 (Administración de procesos en background y foreground).md",
     "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
     "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
