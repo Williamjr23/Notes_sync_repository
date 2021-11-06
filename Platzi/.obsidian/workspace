@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+            "file": "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+                "file": "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Terminal_classes/Terminal_Class_010 (Sistemas de manejo de paquetes).md",
+    "Terminal_classes/Terminal_Class_009  (Permisos sobre archivos sistema octal).md",
+    "Terminal_classes/Terminal_Class_008 (Administración de procesos en background y foreground).md",
+    "Terminal_classes/Terminal_Class_007 (Procesamiento de datos).md",
+    "Terminal_classes/Terminal_class_006 (Tratamiento de texto).md",
+    "Terminal_classes/Terminal_Class_005 (Utilidades batch y batch avanzadas).md",
+    "Terminal_classes/Terminal_Class_004 (Archivos de texto y utilidades interactivas).md",
     "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
     "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
-    "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md",
-    "Golang/Inicando.md",
-    "Conceptos/DNS (Domain-Na.md",
-    "Conceptos/Untitled.md",
-    "Node.js/Udemy_node_course/03-bases-de-node/03-inicio-del-proyecto.md",
-    "Node.js/Udemy_node_course/03-bases-de-node/Untitled.md",
-    "Javascript/Clase_003_Variables_Numeros.md",
-    "Javascript/Clase_014_Estructuras repetitvas(while).md"
+    "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md"
   ]
 }
