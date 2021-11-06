@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Golang/Inicando.md",
-            "mode": "source"
+            "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/Inicando.md",
+                "file": "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "15adb4ba4c9b669d",
   "lastOpenFiles": [
+    "Terminal_classes/Terminal_Class_003 (Organización de archivos).md",
+    "Terminal_classes/Terminal_class_002 (instalación de wsl en windows).md",
+    "Terminal_classes/Terminal_Class_001 (introducción a la terminal).md",
     "Golang/Inicando.md",
     "Conceptos/DNS (Domain-Na.md",
     "Conceptos/Untitled.md",
     "Node.js/Udemy_node_course/03-bases-de-node/03-inicio-del-proyecto.md",
     "Node.js/Udemy_node_course/03-bases-de-node/Untitled.md",
     "Javascript/Clase_003_Variables_Numeros.md",
-    "Javascript/Clase_014_Estructuras repetitvas(while).md",
-    "Javascript/Clase_013_Estructuras_repetitivas_for.md",
-    "Javascript/Clase_010_Condicionales.md",
-    "Javascript/Clase_012_Arrow_functions.md"
+    "Javascript/Clase_014_Estructuras repetitvas(while).md"
   ]
 }
